@@ -1,4 +1,4 @@
-.PHONY: install lint type test check format lint-type-test
+.PHONY: install lint type test check format lint-type-test docs
 
 install:
 	poetry install --with dev,ci
@@ -33,3 +33,6 @@ check:
 		echo "Checking with Python $$version..."; \
 		mise exec python@$$version -- make lint-type-test; \
 	done
+
+docs:
+	poetry run make -C docs html

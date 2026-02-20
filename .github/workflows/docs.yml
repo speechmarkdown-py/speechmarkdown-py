@@ -46,9 +46,8 @@ jobs:
       - name: Build HTML
         run: |
           set -euo pipefail
-          # Fallback to echo if docs/ is not yet set up, else build Sphinx docs.
           if [ -d "docs/" ]; then
-            poetry run sphinx-build docs/source docs/_build/html
+            make docs
           else
             echo "Docs directory not found, skipping Sphinx build."
             mkdir -p docs/_build/html
