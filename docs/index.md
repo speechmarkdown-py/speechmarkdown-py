@@ -8,7 +8,7 @@ Welcome to the documentation for **Speech Markdown**, the Python library for par
 from speechmarkdown import SpeechMarkdown
 
 smd = SpeechMarkdown()
-ssml = smd.to_ssml("(whisper)[Hello world]")
+ssml = smd.to_ssml("(Hello world)[whisper]")
 print(ssml)
 ```
 
