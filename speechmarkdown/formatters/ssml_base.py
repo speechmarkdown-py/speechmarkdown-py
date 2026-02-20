@@ -291,7 +291,9 @@ class SsmlFormatterBase(FormatterBase):
     ) -> str:
         attr_str = ""
         if attr:
-            attr_str = " " + " ".join(f'{k}="{v}"' for k, v in attr.items())
+            attr_str = " " + " ".join(
+                f'{k}="{self.escape_xml_characters(str(v))}"' for k, v in attr.items()
+            )
         return f"<{tag}{attr_str}>" + ("\n" if new_line else "")
 
     def end_tag(self, tag: str, new_line: bool = False) -> str:
@@ -300,7 +302,9 @@ class SsmlFormatterBase(FormatterBase):
     def void_tag(self, tag: str, attr: Optional[Dict[str, Any]]) -> str:
         attr_str = ""
         if attr:
-            attr_str = " " + " ".join(f'{k}="{v}"' for k, v in attr.items())
+            attr_str = " " + " ".join(
+                f'{k}="{self.escape_xml_characters(str(v))}"' for k, v in attr.items()
+            )
         return f"<{tag}{attr_str}/>"
 
     def add_tag_with_attrs(
