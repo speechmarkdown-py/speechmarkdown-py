@@ -1,2567 +1,1538 @@
 AMAZON_POLLY_ALL_VOICES = {
     "aditi": {
-        "voice": {
-            "name": "Aditi"
-        },
+        "voice": {"name": "Aditi"},
         "id": "Aditi",
         "displayName": "Aditi",
-        "languages": [
-            "en-IN",
-            "hi-IN"
-        ]
+        "languages": ["en-IN", "hi-IN"],
     },
     "adriano": {
-        "voice": {
-            "name": "Adriano"
-        },
+        "voice": {"name": "Adriano"},
         "id": "Adriano",
         "displayName": "Adriano",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "alba": {
-        "voice": {
-            "name": "Alba"
-        },
+        "voice": {"name": "Alba"},
         "id": "Alba",
         "displayName": "Alba",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "amy": {
-        "voice": {
-            "name": "Amy"
-        },
+        "voice": {"name": "Amy"},
         "id": "Amy",
         "displayName": "Amy",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "andres": {
-        "voice": {
-            "name": "Andres"
-        },
+        "voice": {"name": "Andres"},
         "id": "Andres",
         "displayName": "Andrés",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "aria": {
-        "voice": {
-            "name": "Aria"
-        },
+        "voice": {"name": "Aria"},
         "id": "Aria",
         "displayName": "Aria",
-        "languages": [
-            "en-NZ"
-        ]
+        "languages": ["en-NZ"],
     },
     "arlet": {
-        "voice": {
-            "name": "Arlet"
-        },
+        "voice": {"name": "Arlet"},
         "id": "Arlet",
         "displayName": "Arlet",
-        "languages": [
-            "ca-ES"
-        ]
+        "languages": ["ca-ES"],
     },
     "arthur": {
-        "voice": {
-            "name": "Arthur"
-        },
+        "voice": {"name": "Arthur"},
         "id": "Arthur",
         "displayName": "Arthur",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "astrid": {
-        "voice": {
-            "name": "Astrid"
-        },
+        "voice": {"name": "Astrid"},
         "id": "Astrid",
         "displayName": "Astrid",
-        "languages": [
-            "sv-SE"
-        ]
+        "languages": ["sv-SE"],
     },
     "ayanda": {
-        "voice": {
-            "name": "Ayanda"
-        },
+        "voice": {"name": "Ayanda"},
         "id": "Ayanda",
         "displayName": "Ayanda",
-        "languages": [
-            "en-ZA"
-        ]
+        "languages": ["en-ZA"],
     },
     "bianca": {
-        "voice": {
-            "name": "Bianca"
-        },
+        "voice": {"name": "Bianca"},
         "id": "Bianca",
         "displayName": "Bianca",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "brian": {
-        "voice": {
-            "name": "Brian"
-        },
+        "voice": {"name": "Brian"},
         "id": "Brian",
         "displayName": "Brian",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "burcu": {
-        "voice": {
-            "name": "Burcu"
-        },
+        "voice": {"name": "Burcu"},
         "id": "Burcu",
         "displayName": "Burcu",
-        "languages": [
-            "tr-TR"
-        ]
+        "languages": ["tr-TR"],
     },
     "camila": {
-        "voice": {
-            "name": "Camila"
-        },
+        "voice": {"name": "Camila"},
         "id": "Camila",
         "displayName": "Camila",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "carla": {
-        "voice": {
-            "name": "Carla"
-        },
+        "voice": {"name": "Carla"},
         "id": "Carla",
         "displayName": "Carla",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "carmen": {
-        "voice": {
-            "name": "Carmen"
-        },
+        "voice": {"name": "Carmen"},
         "id": "Carmen",
         "displayName": "Carmen",
-        "languages": [
-            "ro-RO"
-        ]
+        "languages": ["ro-RO"],
     },
     "celine": {
-        "voice": {
-            "name": "Celine"
-        },
+        "voice": {"name": "Celine"},
         "id": "Celine",
         "displayName": "Céline",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "chantal": {
-        "voice": {
-            "name": "Chantal"
-        },
+        "voice": {"name": "Chantal"},
         "id": "Chantal",
         "displayName": "Chantal",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "conchita": {
-        "voice": {
-            "name": "Conchita"
-        },
+        "voice": {"name": "Conchita"},
         "id": "Conchita",
         "displayName": "Conchita",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "cristiano": {
-        "voice": {
-            "name": "Cristiano"
-        },
+        "voice": {"name": "Cristiano"},
         "id": "Cristiano",
         "displayName": "Cristiano",
-        "languages": [
-            "pt-PT"
-        ]
+        "languages": ["pt-PT"],
     },
     "daniel": {
-        "voice": {
-            "name": "Daniel"
-        },
+        "voice": {"name": "Daniel"},
         "id": "Daniel",
         "displayName": "Daniel",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "danielle": {
-        "voice": {
-            "name": "Danielle"
-        },
+        "voice": {"name": "Danielle"},
         "id": "Danielle",
         "displayName": "Danielle",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "dora": {
-        "voice": {
-            "name": "Dora"
-        },
+        "voice": {"name": "Dora"},
         "id": "Dora",
         "displayName": "Dóra",
-        "languages": [
-            "is-IS"
-        ]
+        "languages": ["is-IS"],
     },
     "elin": {
-        "voice": {
-            "name": "Elin"
-        },
+        "voice": {"name": "Elin"},
         "id": "Elin",
         "displayName": "Elin",
-        "languages": [
-            "sv-SE"
-        ]
+        "languages": ["sv-SE"],
     },
     "emma": {
-        "voice": {
-            "name": "Emma"
-        },
+        "voice": {"name": "Emma"},
         "id": "Emma",
         "displayName": "Emma",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "enrique": {
-        "voice": {
-            "name": "Enrique"
-        },
+        "voice": {"name": "Enrique"},
         "id": "Enrique",
         "displayName": "Enrique",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "ewa": {
-        "voice": {
-            "name": "Ewa"
-        },
+        "voice": {"name": "Ewa"},
         "id": "Ewa",
         "displayName": "Ewa",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "filiz": {
-        "voice": {
-            "name": "Filiz"
-        },
+        "voice": {"name": "Filiz"},
         "id": "Filiz",
         "displayName": "Filiz",
-        "languages": [
-            "tr-TR"
-        ]
+        "languages": ["tr-TR"],
     },
     "gabrielle": {
-        "voice": {
-            "name": "Gabrielle"
-        },
+        "voice": {"name": "Gabrielle"},
         "id": "Gabrielle",
         "displayName": "Gabrielle",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "geraint": {
-        "voice": {
-            "name": "Geraint"
-        },
+        "voice": {"name": "Geraint"},
         "id": "Geraint",
         "displayName": "Geraint",
-        "languages": [
-            "en-GB-WLS"
-        ]
+        "languages": ["en-GB-WLS"],
     },
     "giorgio": {
-        "voice": {
-            "name": "Giorgio"
-        },
+        "voice": {"name": "Giorgio"},
         "id": "Giorgio",
         "displayName": "Giorgio",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "gregory": {
-        "voice": {
-            "name": "Gregory"
-        },
+        "voice": {"name": "Gregory"},
         "id": "Gregory",
         "displayName": "Gregory",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "gwyneth": {
-        "voice": {
-            "name": "Gwyneth"
-        },
+        "voice": {"name": "Gwyneth"},
         "id": "Gwyneth",
         "displayName": "Gwyneth",
-        "languages": [
-            "cy-GB"
-        ]
+        "languages": ["cy-GB"],
     },
     "hala": {
-        "voice": {
-            "name": "Hala"
-        },
+        "voice": {"name": "Hala"},
         "id": "Hala",
         "displayName": "Hala",
-        "languages": [
-            "ar-AE",
-            "arb"
-        ]
+        "languages": ["ar-AE", "arb"],
     },
     "hannah": {
-        "voice": {
-            "name": "Hannah"
-        },
+        "voice": {"name": "Hannah"},
         "id": "Hannah",
         "displayName": "Hannah",
-        "languages": [
-            "de-AT"
-        ]
+        "languages": ["de-AT"],
     },
     "hans": {
-        "voice": {
-            "name": "Hans"
-        },
+        "voice": {"name": "Hans"},
         "id": "Hans",
         "displayName": "Hans",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "hiujin": {
-        "voice": {
-            "name": "Hiujin"
-        },
+        "voice": {"name": "Hiujin"},
         "id": "Hiujin",
         "displayName": "Hiujin",
-        "languages": [
-            "yue-CN"
-        ]
+        "languages": ["yue-CN"],
     },
     "ida": {
-        "voice": {
-            "name": "Ida"
-        },
+        "voice": {"name": "Ida"},
         "id": "Ida",
         "displayName": "Ida",
-        "languages": [
-            "nb-NO"
-        ]
+        "languages": ["nb-NO"],
     },
     "ines": {
-        "voice": {
-            "name": "Ines"
-        },
+        "voice": {"name": "Ines"},
         "id": "Ines",
         "displayName": "Inês",
-        "languages": [
-            "pt-PT"
-        ]
+        "languages": ["pt-PT"],
     },
     "isabelle": {
-        "voice": {
-            "name": "Isabelle"
-        },
+        "voice": {"name": "Isabelle"},
         "id": "Isabelle",
         "displayName": "Isabelle",
-        "languages": [
-            "fr-BE"
-        ]
+        "languages": ["fr-BE"],
     },
     "ivy": {
-        "voice": {
-            "name": "Ivy"
-        },
+        "voice": {"name": "Ivy"},
         "id": "Ivy",
         "displayName": "Ivy",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "jacek": {
-        "voice": {
-            "name": "Jacek"
-        },
+        "voice": {"name": "Jacek"},
         "id": "Jacek",
         "displayName": "Jacek",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "jan": {
-        "voice": {
-            "name": "Jan"
-        },
+        "voice": {"name": "Jan"},
         "id": "Jan",
         "displayName": "Jan",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "jasmine": {
-        "voice": {
-            "name": "Jasmine"
-        },
+        "voice": {"name": "Jasmine"},
         "id": "Jasmine",
         "displayName": "Jasmine",
-        "languages": [
-            "en-SG"
-        ]
+        "languages": ["en-SG"],
     },
     "jihye": {
-        "voice": {
-            "name": "Jihye"
-        },
+        "voice": {"name": "Jihye"},
         "id": "Jihye",
         "displayName": "Jihye",
-        "languages": [
-            "ko-KR"
-        ]
+        "languages": ["ko-KR"],
     },
     "jitka": {
-        "voice": {
-            "name": "Jitka"
-        },
+        "voice": {"name": "Jitka"},
         "id": "Jitka",
         "displayName": "Jitka",
-        "languages": [
-            "cs-CZ"
-        ]
+        "languages": ["cs-CZ"],
     },
     "joanna": {
-        "voice": {
-            "name": "Joanna"
-        },
+        "voice": {"name": "Joanna"},
         "id": "Joanna",
         "displayName": "Joanna",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "joey": {
-        "voice": {
-            "name": "Joey"
-        },
+        "voice": {"name": "Joey"},
         "id": "Joey",
         "displayName": "Joey",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "justin": {
-        "voice": {
-            "name": "Justin"
-        },
+        "voice": {"name": "Justin"},
         "id": "Justin",
         "displayName": "Justin",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kajal": {
-        "voice": {
-            "name": "Kajal"
-        },
+        "voice": {"name": "Kajal"},
         "id": "Kajal",
         "displayName": "Kajal",
-        "languages": [
-            "en-IN",
-            "hi-IN"
-        ]
+        "languages": ["en-IN", "hi-IN"],
     },
     "karl": {
-        "voice": {
-            "name": "Karl"
-        },
+        "voice": {"name": "Karl"},
         "id": "Karl",
         "displayName": "Karl",
-        "languages": [
-            "is-IS"
-        ]
+        "languages": ["is-IS"],
     },
     "kazuha": {
-        "voice": {
-            "name": "Kazuha"
-        },
+        "voice": {"name": "Kazuha"},
         "id": "Kazuha",
         "displayName": "Kazuha",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "kendra": {
-        "voice": {
-            "name": "Kendra"
-        },
+        "voice": {"name": "Kendra"},
         "id": "Kendra",
         "displayName": "Kendra",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kevin": {
-        "voice": {
-            "name": "Kevin"
-        },
+        "voice": {"name": "Kevin"},
         "id": "Kevin",
         "displayName": "Kevin",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kimberly": {
-        "voice": {
-            "name": "Kimberly"
-        },
+        "voice": {"name": "Kimberly"},
         "id": "Kimberly",
         "displayName": "Kimberly",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "laura": {
-        "voice": {
-            "name": "Laura"
-        },
+        "voice": {"name": "Laura"},
         "id": "Laura",
         "displayName": "Laura",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "lea": {
-        "voice": {
-            "name": "Lea"
-        },
+        "voice": {"name": "Lea"},
         "id": "Lea",
         "displayName": "Léa",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "liam": {
-        "voice": {
-            "name": "Liam"
-        },
+        "voice": {"name": "Liam"},
         "id": "Liam",
         "displayName": "Liam",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "lisa": {
-        "voice": {
-            "name": "Lisa"
-        },
+        "voice": {"name": "Lisa"},
         "id": "Lisa",
         "displayName": "Lisa",
-        "languages": [
-            "nl-BE"
-        ]
+        "languages": ["nl-BE"],
     },
     "liv": {
-        "voice": {
-            "name": "Liv"
-        },
+        "voice": {"name": "Liv"},
         "id": "Liv",
         "displayName": "Liv",
-        "languages": [
-            "nb-NO"
-        ]
+        "languages": ["nb-NO"],
     },
     "lotte": {
-        "voice": {
-            "name": "Lotte"
-        },
+        "voice": {"name": "Lotte"},
         "id": "Lotte",
         "displayName": "Lotte",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "lucia": {
-        "voice": {
-            "name": "Lucia"
-        },
+        "voice": {"name": "Lucia"},
         "id": "Lucia",
         "displayName": "Lucia",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "lupe": {
-        "voice": {
-            "name": "Lupe"
-        },
+        "voice": {"name": "Lupe"},
         "id": "Lupe",
         "displayName": "Lupe",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "mads": {
-        "voice": {
-            "name": "Mads"
-        },
+        "voice": {"name": "Mads"},
         "id": "Mads",
         "displayName": "Mads",
-        "languages": [
-            "da-DK"
-        ]
+        "languages": ["da-DK"],
     },
     "maja": {
-        "voice": {
-            "name": "Maja"
-        },
+        "voice": {"name": "Maja"},
         "id": "Maja",
         "displayName": "Maja",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "marlene": {
-        "voice": {
-            "name": "Marlene"
-        },
+        "voice": {"name": "Marlene"},
         "id": "Marlene",
         "displayName": "Marlene",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "mathieu": {
-        "voice": {
-            "name": "Mathieu"
-        },
+        "voice": {"name": "Mathieu"},
         "id": "Mathieu",
         "displayName": "Mathieu",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "matthew": {
-        "voice": {
-            "name": "Matthew"
-        },
+        "voice": {"name": "Matthew"},
         "id": "Matthew",
         "displayName": "Matthew",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "maxim": {
-        "voice": {
-            "name": "Maxim"
-        },
+        "voice": {"name": "Maxim"},
         "id": "Maxim",
         "displayName": "Maxim",
-        "languages": [
-            "ru-RU"
-        ]
+        "languages": ["ru-RU"],
     },
     "mia": {
-        "voice": {
-            "name": "Mia"
-        },
+        "voice": {"name": "Mia"},
         "id": "Mia",
         "displayName": "Mia",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "miguel": {
-        "voice": {
-            "name": "Miguel"
-        },
+        "voice": {"name": "Miguel"},
         "id": "Miguel",
         "displayName": "Miguel",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "mizuki": {
-        "voice": {
-            "name": "Mizuki"
-        },
+        "voice": {"name": "Mizuki"},
         "id": "Mizuki",
         "displayName": "Mizuki",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "naja": {
-        "voice": {
-            "name": "Naja"
-        },
+        "voice": {"name": "Naja"},
         "id": "Naja",
         "displayName": "Naja",
-        "languages": [
-            "da-DK"
-        ]
+        "languages": ["da-DK"],
     },
     "niamh": {
-        "voice": {
-            "name": "Niamh"
-        },
+        "voice": {"name": "Niamh"},
         "id": "Niamh",
         "displayName": "Niamh",
-        "languages": [
-            "en-IE"
-        ]
+        "languages": ["en-IE"],
     },
     "nicole": {
-        "voice": {
-            "name": "Nicole"
-        },
+        "voice": {"name": "Nicole"},
         "id": "Nicole",
         "displayName": "Nicole",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "ola": {
-        "voice": {
-            "name": "Ola"
-        },
+        "voice": {"name": "Ola"},
         "id": "Ola",
         "displayName": "Ola",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "olivia": {
-        "voice": {
-            "name": "Olivia"
-        },
+        "voice": {"name": "Olivia"},
         "id": "Olivia",
         "displayName": "Olivia",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "patrick": {
-        "voice": {
-            "name": "Patrick"
-        },
+        "voice": {"name": "Patrick"},
         "id": "Patrick",
         "displayName": "Patrick",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "pedro": {
-        "voice": {
-            "name": "Pedro"
-        },
+        "voice": {"name": "Pedro"},
         "id": "Pedro",
         "displayName": "Pedro",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "penelope": {
-        "voice": {
-            "name": "Penelope"
-        },
+        "voice": {"name": "Penelope"},
         "id": "Penelope",
         "displayName": "Penélope",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "raul": {
-        "voice": {
-            "name": "Raul"
-        },
+        "voice": {"name": "Raul"},
         "id": "Raul",
         "displayName": "Raul",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "raveena": {
-        "voice": {
-            "name": "Raveena"
-        },
+        "voice": {"name": "Raveena"},
         "id": "Raveena",
         "displayName": "Raveena",
-        "languages": [
-            "en-IN"
-        ]
+        "languages": ["en-IN"],
     },
     "remi": {
-        "voice": {
-            "name": "Remi"
-        },
+        "voice": {"name": "Remi"},
         "id": "Remi",
         "displayName": "Rémi",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "ricardo": {
-        "voice": {
-            "name": "Ricardo"
-        },
+        "voice": {"name": "Ricardo"},
         "id": "Ricardo",
         "displayName": "Ricardo",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "ruben": {
-        "voice": {
-            "name": "Ruben"
-        },
+        "voice": {"name": "Ruben"},
         "id": "Ruben",
         "displayName": "Ruben",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "russell": {
-        "voice": {
-            "name": "Russell"
-        },
+        "voice": {"name": "Russell"},
         "id": "Russell",
         "displayName": "Russell",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "ruth": {
-        "voice": {
-            "name": "Ruth"
-        },
+        "voice": {"name": "Ruth"},
         "id": "Ruth",
         "displayName": "Ruth",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "sabrina": {
-        "voice": {
-            "name": "Sabrina"
-        },
+        "voice": {"name": "Sabrina"},
         "id": "Sabrina",
         "displayName": "Sabrina",
-        "languages": [
-            "de-CH"
-        ]
+        "languages": ["de-CH"],
     },
     "salli": {
-        "voice": {
-            "name": "Salli"
-        },
+        "voice": {"name": "Salli"},
         "id": "Salli",
         "displayName": "Salli",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "seoyeon": {
-        "voice": {
-            "name": "Seoyeon"
-        },
+        "voice": {"name": "Seoyeon"},
         "id": "Seoyeon",
         "displayName": "Seoyeon",
-        "languages": [
-            "ko-KR"
-        ]
+        "languages": ["ko-KR"],
     },
     "sergio": {
-        "voice": {
-            "name": "Sergio"
-        },
+        "voice": {"name": "Sergio"},
         "id": "Sergio",
         "displayName": "Sergio",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "sofie": {
-        "voice": {
-            "name": "Sofie"
-        },
+        "voice": {"name": "Sofie"},
         "id": "Sofie",
         "displayName": "Sofie",
-        "languages": [
-            "da-DK"
-        ]
+        "languages": ["da-DK"],
     },
     "stephen": {
-        "voice": {
-            "name": "Stephen"
-        },
+        "voice": {"name": "Stephen"},
         "id": "Stephen",
         "displayName": "Stephen",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "suvi": {
-        "voice": {
-            "name": "Suvi"
-        },
+        "voice": {"name": "Suvi"},
         "id": "Suvi",
         "displayName": "Suvi",
-        "languages": [
-            "fi-FI"
-        ]
+        "languages": ["fi-FI"],
     },
     "takumi": {
-        "voice": {
-            "name": "Takumi"
-        },
+        "voice": {"name": "Takumi"},
         "id": "Takumi",
         "displayName": "Takumi",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "tatyana": {
-        "voice": {
-            "name": "Tatyana"
-        },
+        "voice": {"name": "Tatyana"},
         "id": "Tatyana",
         "displayName": "Tatyana",
-        "languages": [
-            "ru-RU"
-        ]
+        "languages": ["ru-RU"],
     },
     "thiago": {
-        "voice": {
-            "name": "Thiago"
-        },
+        "voice": {"name": "Thiago"},
         "id": "Thiago",
         "displayName": "Thiago",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "tomoko": {
-        "voice": {
-            "name": "Tomoko"
-        },
+        "voice": {"name": "Tomoko"},
         "id": "Tomoko",
         "displayName": "Tomoko",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "vicki": {
-        "voice": {
-            "name": "Vicki"
-        },
+        "voice": {"name": "Vicki"},
         "id": "Vicki",
         "displayName": "Vicki",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "vitoria": {
-        "voice": {
-            "name": "Vitoria"
-        },
+        "voice": {"name": "Vitoria"},
         "id": "Vitoria",
         "displayName": "Vitória",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "zayd": {
-        "voice": {
-            "name": "Zayd"
-        },
+        "voice": {"name": "Zayd"},
         "id": "Zayd",
         "displayName": "Zayd",
-        "languages": [
-            "ar-AE",
-            "arb"
-        ]
+        "languages": ["ar-AE", "arb"],
     },
     "zeina": {
-        "voice": {
-            "name": "Zeina"
-        },
+        "voice": {"name": "Zeina"},
         "id": "Zeina",
         "displayName": "Zeina",
-        "languages": [
-            "arb"
-        ]
+        "languages": ["arb"],
     },
     "zhiyu": {
-        "voice": {
-            "name": "Zhiyu"
-        },
+        "voice": {"name": "Zhiyu"},
         "id": "Zhiyu",
         "displayName": "Zhiyu",
-        "languages": [
-            "cmn-CN"
-        ]
-    }
+        "languages": ["cmn-CN"],
+    },
 }
 AMAZON_POLLY_STANDARD_VOICES = {
     "aditi": {
-        "voice": {
-            "name": "Aditi"
-        },
+        "voice": {"name": "Aditi"},
         "id": "Aditi",
         "displayName": "Aditi",
-        "languages": [
-            "en-IN",
-            "hi-IN"
-        ]
+        "languages": ["en-IN", "hi-IN"],
     },
     "amy": {
-        "voice": {
-            "name": "Amy"
-        },
+        "voice": {"name": "Amy"},
         "id": "Amy",
         "displayName": "Amy",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "astrid": {
-        "voice": {
-            "name": "Astrid"
-        },
+        "voice": {"name": "Astrid"},
         "id": "Astrid",
         "displayName": "Astrid",
-        "languages": [
-            "sv-SE"
-        ]
+        "languages": ["sv-SE"],
     },
     "bianca": {
-        "voice": {
-            "name": "Bianca"
-        },
+        "voice": {"name": "Bianca"},
         "id": "Bianca",
         "displayName": "Bianca",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "brian": {
-        "voice": {
-            "name": "Brian"
-        },
+        "voice": {"name": "Brian"},
         "id": "Brian",
         "displayName": "Brian",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "camila": {
-        "voice": {
-            "name": "Camila"
-        },
+        "voice": {"name": "Camila"},
         "id": "Camila",
         "displayName": "Camila",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "carla": {
-        "voice": {
-            "name": "Carla"
-        },
+        "voice": {"name": "Carla"},
         "id": "Carla",
         "displayName": "Carla",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "carmen": {
-        "voice": {
-            "name": "Carmen"
-        },
+        "voice": {"name": "Carmen"},
         "id": "Carmen",
         "displayName": "Carmen",
-        "languages": [
-            "ro-RO"
-        ]
+        "languages": ["ro-RO"],
     },
     "celine": {
-        "voice": {
-            "name": "Celine"
-        },
+        "voice": {"name": "Celine"},
         "id": "Celine",
         "displayName": "Céline",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "chantal": {
-        "voice": {
-            "name": "Chantal"
-        },
+        "voice": {"name": "Chantal"},
         "id": "Chantal",
         "displayName": "Chantal",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "conchita": {
-        "voice": {
-            "name": "Conchita"
-        },
+        "voice": {"name": "Conchita"},
         "id": "Conchita",
         "displayName": "Conchita",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "cristiano": {
-        "voice": {
-            "name": "Cristiano"
-        },
+        "voice": {"name": "Cristiano"},
         "id": "Cristiano",
         "displayName": "Cristiano",
-        "languages": [
-            "pt-PT"
-        ]
+        "languages": ["pt-PT"],
     },
     "dora": {
-        "voice": {
-            "name": "Dora"
-        },
+        "voice": {"name": "Dora"},
         "id": "Dora",
         "displayName": "Dóra",
-        "languages": [
-            "is-IS"
-        ]
+        "languages": ["is-IS"],
     },
     "emma": {
-        "voice": {
-            "name": "Emma"
-        },
+        "voice": {"name": "Emma"},
         "id": "Emma",
         "displayName": "Emma",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "enrique": {
-        "voice": {
-            "name": "Enrique"
-        },
+        "voice": {"name": "Enrique"},
         "id": "Enrique",
         "displayName": "Enrique",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "ewa": {
-        "voice": {
-            "name": "Ewa"
-        },
+        "voice": {"name": "Ewa"},
         "id": "Ewa",
         "displayName": "Ewa",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "filiz": {
-        "voice": {
-            "name": "Filiz"
-        },
+        "voice": {"name": "Filiz"},
         "id": "Filiz",
         "displayName": "Filiz",
-        "languages": [
-            "tr-TR"
-        ]
+        "languages": ["tr-TR"],
     },
     "geraint": {
-        "voice": {
-            "name": "Geraint"
-        },
+        "voice": {"name": "Geraint"},
         "id": "Geraint",
         "displayName": "Geraint",
-        "languages": [
-            "en-GB-WLS"
-        ]
+        "languages": ["en-GB-WLS"],
     },
     "giorgio": {
-        "voice": {
-            "name": "Giorgio"
-        },
+        "voice": {"name": "Giorgio"},
         "id": "Giorgio",
         "displayName": "Giorgio",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "gwyneth": {
-        "voice": {
-            "name": "Gwyneth"
-        },
+        "voice": {"name": "Gwyneth"},
         "id": "Gwyneth",
         "displayName": "Gwyneth",
-        "languages": [
-            "cy-GB"
-        ]
+        "languages": ["cy-GB"],
     },
     "hans": {
-        "voice": {
-            "name": "Hans"
-        },
+        "voice": {"name": "Hans"},
         "id": "Hans",
         "displayName": "Hans",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "ines": {
-        "voice": {
-            "name": "Ines"
-        },
+        "voice": {"name": "Ines"},
         "id": "Ines",
         "displayName": "Inês",
-        "languages": [
-            "pt-PT"
-        ]
+        "languages": ["pt-PT"],
     },
     "ivy": {
-        "voice": {
-            "name": "Ivy"
-        },
+        "voice": {"name": "Ivy"},
         "id": "Ivy",
         "displayName": "Ivy",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "jacek": {
-        "voice": {
-            "name": "Jacek"
-        },
+        "voice": {"name": "Jacek"},
         "id": "Jacek",
         "displayName": "Jacek",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "jan": {
-        "voice": {
-            "name": "Jan"
-        },
+        "voice": {"name": "Jan"},
         "id": "Jan",
         "displayName": "Jan",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "joanna": {
-        "voice": {
-            "name": "Joanna"
-        },
+        "voice": {"name": "Joanna"},
         "id": "Joanna",
         "displayName": "Joanna",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "joey": {
-        "voice": {
-            "name": "Joey"
-        },
+        "voice": {"name": "Joey"},
         "id": "Joey",
         "displayName": "Joey",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "justin": {
-        "voice": {
-            "name": "Justin"
-        },
+        "voice": {"name": "Justin"},
         "id": "Justin",
         "displayName": "Justin",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "karl": {
-        "voice": {
-            "name": "Karl"
-        },
+        "voice": {"name": "Karl"},
         "id": "Karl",
         "displayName": "Karl",
-        "languages": [
-            "is-IS"
-        ]
+        "languages": ["is-IS"],
     },
     "kendra": {
-        "voice": {
-            "name": "Kendra"
-        },
+        "voice": {"name": "Kendra"},
         "id": "Kendra",
         "displayName": "Kendra",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kimberly": {
-        "voice": {
-            "name": "Kimberly"
-        },
+        "voice": {"name": "Kimberly"},
         "id": "Kimberly",
         "displayName": "Kimberly",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "lea": {
-        "voice": {
-            "name": "Lea"
-        },
+        "voice": {"name": "Lea"},
         "id": "Lea",
         "displayName": "Léa",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "liv": {
-        "voice": {
-            "name": "Liv"
-        },
+        "voice": {"name": "Liv"},
         "id": "Liv",
         "displayName": "Liv",
-        "languages": [
-            "nb-NO"
-        ]
+        "languages": ["nb-NO"],
     },
     "lotte": {
-        "voice": {
-            "name": "Lotte"
-        },
+        "voice": {"name": "Lotte"},
         "id": "Lotte",
         "displayName": "Lotte",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "lucia": {
-        "voice": {
-            "name": "Lucia"
-        },
+        "voice": {"name": "Lucia"},
         "id": "Lucia",
         "displayName": "Lucia",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "lupe": {
-        "voice": {
-            "name": "Lupe"
-        },
+        "voice": {"name": "Lupe"},
         "id": "Lupe",
         "displayName": "Lupe",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "mads": {
-        "voice": {
-            "name": "Mads"
-        },
+        "voice": {"name": "Mads"},
         "id": "Mads",
         "displayName": "Mads",
-        "languages": [
-            "da-DK"
-        ]
+        "languages": ["da-DK"],
     },
     "maja": {
-        "voice": {
-            "name": "Maja"
-        },
+        "voice": {"name": "Maja"},
         "id": "Maja",
         "displayName": "Maja",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "marlene": {
-        "voice": {
-            "name": "Marlene"
-        },
+        "voice": {"name": "Marlene"},
         "id": "Marlene",
         "displayName": "Marlene",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "mathieu": {
-        "voice": {
-            "name": "Mathieu"
-        },
+        "voice": {"name": "Mathieu"},
         "id": "Mathieu",
         "displayName": "Mathieu",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "matthew": {
-        "voice": {
-            "name": "Matthew"
-        },
+        "voice": {"name": "Matthew"},
         "id": "Matthew",
         "displayName": "Matthew",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "maxim": {
-        "voice": {
-            "name": "Maxim"
-        },
+        "voice": {"name": "Maxim"},
         "id": "Maxim",
         "displayName": "Maxim",
-        "languages": [
-            "ru-RU"
-        ]
+        "languages": ["ru-RU"],
     },
     "mia": {
-        "voice": {
-            "name": "Mia"
-        },
+        "voice": {"name": "Mia"},
         "id": "Mia",
         "displayName": "Mia",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "miguel": {
-        "voice": {
-            "name": "Miguel"
-        },
+        "voice": {"name": "Miguel"},
         "id": "Miguel",
         "displayName": "Miguel",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "mizuki": {
-        "voice": {
-            "name": "Mizuki"
-        },
+        "voice": {"name": "Mizuki"},
         "id": "Mizuki",
         "displayName": "Mizuki",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "naja": {
-        "voice": {
-            "name": "Naja"
-        },
+        "voice": {"name": "Naja"},
         "id": "Naja",
         "displayName": "Naja",
-        "languages": [
-            "da-DK"
-        ]
+        "languages": ["da-DK"],
     },
     "nicole": {
-        "voice": {
-            "name": "Nicole"
-        },
+        "voice": {"name": "Nicole"},
         "id": "Nicole",
         "displayName": "Nicole",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "penelope": {
-        "voice": {
-            "name": "Penelope"
-        },
+        "voice": {"name": "Penelope"},
         "id": "Penelope",
         "displayName": "Penélope",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "raveena": {
-        "voice": {
-            "name": "Raveena"
-        },
+        "voice": {"name": "Raveena"},
         "id": "Raveena",
         "displayName": "Raveena",
-        "languages": [
-            "en-IN"
-        ]
+        "languages": ["en-IN"],
     },
     "ricardo": {
-        "voice": {
-            "name": "Ricardo"
-        },
+        "voice": {"name": "Ricardo"},
         "id": "Ricardo",
         "displayName": "Ricardo",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "ruben": {
-        "voice": {
-            "name": "Ruben"
-        },
+        "voice": {"name": "Ruben"},
         "id": "Ruben",
         "displayName": "Ruben",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "russell": {
-        "voice": {
-            "name": "Russell"
-        },
+        "voice": {"name": "Russell"},
         "id": "Russell",
         "displayName": "Russell",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "salli": {
-        "voice": {
-            "name": "Salli"
-        },
+        "voice": {"name": "Salli"},
         "id": "Salli",
         "displayName": "Salli",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "seoyeon": {
-        "voice": {
-            "name": "Seoyeon"
-        },
+        "voice": {"name": "Seoyeon"},
         "id": "Seoyeon",
         "displayName": "Seoyeon",
-        "languages": [
-            "ko-KR"
-        ]
+        "languages": ["ko-KR"],
     },
     "takumi": {
-        "voice": {
-            "name": "Takumi"
-        },
+        "voice": {"name": "Takumi"},
         "id": "Takumi",
         "displayName": "Takumi",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "tatyana": {
-        "voice": {
-            "name": "Tatyana"
-        },
+        "voice": {"name": "Tatyana"},
         "id": "Tatyana",
         "displayName": "Tatyana",
-        "languages": [
-            "ru-RU"
-        ]
+        "languages": ["ru-RU"],
     },
     "vicki": {
-        "voice": {
-            "name": "Vicki"
-        },
+        "voice": {"name": "Vicki"},
         "id": "Vicki",
         "displayName": "Vicki",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "vitoria": {
-        "voice": {
-            "name": "Vitoria"
-        },
+        "voice": {"name": "Vitoria"},
         "id": "Vitoria",
         "displayName": "Vitória",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "zeina": {
-        "voice": {
-            "name": "Zeina"
-        },
+        "voice": {"name": "Zeina"},
         "id": "Zeina",
         "displayName": "Zeina",
-        "languages": [
-            "arb"
-        ]
+        "languages": ["arb"],
     },
     "zhiyu": {
-        "voice": {
-            "name": "Zhiyu"
-        },
+        "voice": {"name": "Zhiyu"},
         "id": "Zhiyu",
         "displayName": "Zhiyu",
-        "languages": [
-            "cmn-CN"
-        ]
-    }
+        "languages": ["cmn-CN"],
+    },
 }
 AMAZON_POLLY_NEURAL_VOICES = {
     "adriano": {
-        "voice": {
-            "name": "Adriano"
-        },
+        "voice": {"name": "Adriano"},
         "id": "Adriano",
         "displayName": "Adriano",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "amy": {
-        "voice": {
-            "name": "Amy"
-        },
+        "voice": {"name": "Amy"},
         "id": "Amy",
         "displayName": "Amy",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "andres": {
-        "voice": {
-            "name": "Andres"
-        },
+        "voice": {"name": "Andres"},
         "id": "Andres",
         "displayName": "Andrés",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "aria": {
-        "voice": {
-            "name": "Aria"
-        },
+        "voice": {"name": "Aria"},
         "id": "Aria",
         "displayName": "Aria",
-        "languages": [
-            "en-NZ"
-        ]
+        "languages": ["en-NZ"],
     },
     "arlet": {
-        "voice": {
-            "name": "Arlet"
-        },
+        "voice": {"name": "Arlet"},
         "id": "Arlet",
         "displayName": "Arlet",
-        "languages": [
-            "ca-ES"
-        ]
+        "languages": ["ca-ES"],
     },
     "arthur": {
-        "voice": {
-            "name": "Arthur"
-        },
+        "voice": {"name": "Arthur"},
         "id": "Arthur",
         "displayName": "Arthur",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "ayanda": {
-        "voice": {
-            "name": "Ayanda"
-        },
+        "voice": {"name": "Ayanda"},
         "id": "Ayanda",
         "displayName": "Ayanda",
-        "languages": [
-            "en-ZA"
-        ]
+        "languages": ["en-ZA"],
     },
     "bianca": {
-        "voice": {
-            "name": "Bianca"
-        },
+        "voice": {"name": "Bianca"},
         "id": "Bianca",
         "displayName": "Bianca",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "brian": {
-        "voice": {
-            "name": "Brian"
-        },
+        "voice": {"name": "Brian"},
         "id": "Brian",
         "displayName": "Brian",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "burcu": {
-        "voice": {
-            "name": "Burcu"
-        },
+        "voice": {"name": "Burcu"},
         "id": "Burcu",
         "displayName": "Burcu",
-        "languages": [
-            "tr-TR"
-        ]
+        "languages": ["tr-TR"],
     },
     "camila": {
-        "voice": {
-            "name": "Camila"
-        },
+        "voice": {"name": "Camila"},
         "id": "Camila",
         "displayName": "Camila",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "daniel": {
-        "voice": {
-            "name": "Daniel"
-        },
+        "voice": {"name": "Daniel"},
         "id": "Daniel",
         "displayName": "Daniel",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "danielle": {
-        "voice": {
-            "name": "Danielle"
-        },
+        "voice": {"name": "Danielle"},
         "id": "Danielle",
         "displayName": "Danielle",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "elin": {
-        "voice": {
-            "name": "Elin"
-        },
+        "voice": {"name": "Elin"},
         "id": "Elin",
         "displayName": "Elin",
-        "languages": [
-            "sv-SE"
-        ]
+        "languages": ["sv-SE"],
     },
     "emma": {
-        "voice": {
-            "name": "Emma"
-        },
+        "voice": {"name": "Emma"},
         "id": "Emma",
         "displayName": "Emma",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "gabrielle": {
-        "voice": {
-            "name": "Gabrielle"
-        },
+        "voice": {"name": "Gabrielle"},
         "id": "Gabrielle",
         "displayName": "Gabrielle",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "gregory": {
-        "voice": {
-            "name": "Gregory"
-        },
+        "voice": {"name": "Gregory"},
         "id": "Gregory",
         "displayName": "Gregory",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "hala": {
-        "voice": {
-            "name": "Hala"
-        },
+        "voice": {"name": "Hala"},
         "id": "Hala",
         "displayName": "Hala",
-        "languages": [
-            "ar-AE",
-            "arb"
-        ]
+        "languages": ["ar-AE", "arb"],
     },
     "hannah": {
-        "voice": {
-            "name": "Hannah"
-        },
+        "voice": {"name": "Hannah"},
         "id": "Hannah",
         "displayName": "Hannah",
-        "languages": [
-            "de-AT"
-        ]
+        "languages": ["de-AT"],
     },
     "hiujin": {
-        "voice": {
-            "name": "Hiujin"
-        },
+        "voice": {"name": "Hiujin"},
         "id": "Hiujin",
         "displayName": "Hiujin",
-        "languages": [
-            "yue-CN"
-        ]
+        "languages": ["yue-CN"],
     },
     "ida": {
-        "voice": {
-            "name": "Ida"
-        },
+        "voice": {"name": "Ida"},
         "id": "Ida",
         "displayName": "Ida",
-        "languages": [
-            "nb-NO"
-        ]
+        "languages": ["nb-NO"],
     },
     "ines": {
-        "voice": {
-            "name": "Ines"
-        },
+        "voice": {"name": "Ines"},
         "id": "Ines",
         "displayName": "Inês",
-        "languages": [
-            "pt-PT"
-        ]
+        "languages": ["pt-PT"],
     },
     "isabelle": {
-        "voice": {
-            "name": "Isabelle"
-        },
+        "voice": {"name": "Isabelle"},
         "id": "Isabelle",
         "displayName": "Isabelle",
-        "languages": [
-            "fr-BE"
-        ]
+        "languages": ["fr-BE"],
     },
     "ivy": {
-        "voice": {
-            "name": "Ivy"
-        },
+        "voice": {"name": "Ivy"},
         "id": "Ivy",
         "displayName": "Ivy",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "jasmine": {
-        "voice": {
-            "name": "Jasmine"
-        },
+        "voice": {"name": "Jasmine"},
         "id": "Jasmine",
         "displayName": "Jasmine",
-        "languages": [
-            "en-SG"
-        ]
+        "languages": ["en-SG"],
     },
     "jihye": {
-        "voice": {
-            "name": "Jihye"
-        },
+        "voice": {"name": "Jihye"},
         "id": "Jihye",
         "displayName": "Jihye",
-        "languages": [
-            "ko-KR"
-        ]
+        "languages": ["ko-KR"],
     },
     "jitka": {
-        "voice": {
-            "name": "Jitka"
-        },
+        "voice": {"name": "Jitka"},
         "id": "Jitka",
         "displayName": "Jitka",
-        "languages": [
-            "cs-CZ"
-        ]
+        "languages": ["cs-CZ"],
     },
     "joanna": {
-        "voice": {
-            "name": "Joanna"
-        },
+        "voice": {"name": "Joanna"},
         "id": "Joanna",
         "displayName": "Joanna",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "joey": {
-        "voice": {
-            "name": "Joey"
-        },
+        "voice": {"name": "Joey"},
         "id": "Joey",
         "displayName": "Joey",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "justin": {
-        "voice": {
-            "name": "Justin"
-        },
+        "voice": {"name": "Justin"},
         "id": "Justin",
         "displayName": "Justin",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kajal": {
-        "voice": {
-            "name": "Kajal"
-        },
+        "voice": {"name": "Kajal"},
         "id": "Kajal",
         "displayName": "Kajal",
-        "languages": [
-            "en-IN",
-            "hi-IN"
-        ]
+        "languages": ["en-IN", "hi-IN"],
     },
     "kazuha": {
-        "voice": {
-            "name": "Kazuha"
-        },
+        "voice": {"name": "Kazuha"},
         "id": "Kazuha",
         "displayName": "Kazuha",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "kendra": {
-        "voice": {
-            "name": "Kendra"
-        },
+        "voice": {"name": "Kendra"},
         "id": "Kendra",
         "displayName": "Kendra",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kevin": {
-        "voice": {
-            "name": "Kevin"
-        },
+        "voice": {"name": "Kevin"},
         "id": "Kevin",
         "displayName": "Kevin",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kimberly": {
-        "voice": {
-            "name": "Kimberly"
-        },
+        "voice": {"name": "Kimberly"},
         "id": "Kimberly",
         "displayName": "Kimberly",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "laura": {
-        "voice": {
-            "name": "Laura"
-        },
+        "voice": {"name": "Laura"},
         "id": "Laura",
         "displayName": "Laura",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "lea": {
-        "voice": {
-            "name": "Lea"
-        },
+        "voice": {"name": "Lea"},
         "id": "Lea",
         "displayName": "Léa",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "liam": {
-        "voice": {
-            "name": "Liam"
-        },
+        "voice": {"name": "Liam"},
         "id": "Liam",
         "displayName": "Liam",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "lisa": {
-        "voice": {
-            "name": "Lisa"
-        },
+        "voice": {"name": "Lisa"},
         "id": "Lisa",
         "displayName": "Lisa",
-        "languages": [
-            "nl-BE"
-        ]
+        "languages": ["nl-BE"],
     },
     "lucia": {
-        "voice": {
-            "name": "Lucia"
-        },
+        "voice": {"name": "Lucia"},
         "id": "Lucia",
         "displayName": "Lucia",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "lupe": {
-        "voice": {
-            "name": "Lupe"
-        },
+        "voice": {"name": "Lupe"},
         "id": "Lupe",
         "displayName": "Lupe",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "matthew": {
-        "voice": {
-            "name": "Matthew"
-        },
+        "voice": {"name": "Matthew"},
         "id": "Matthew",
         "displayName": "Matthew",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "mia": {
-        "voice": {
-            "name": "Mia"
-        },
+        "voice": {"name": "Mia"},
         "id": "Mia",
         "displayName": "Mia",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "niamh": {
-        "voice": {
-            "name": "Niamh"
-        },
+        "voice": {"name": "Niamh"},
         "id": "Niamh",
         "displayName": "Niamh",
-        "languages": [
-            "en-IE"
-        ]
+        "languages": ["en-IE"],
     },
     "ola": {
-        "voice": {
-            "name": "Ola"
-        },
+        "voice": {"name": "Ola"},
         "id": "Ola",
         "displayName": "Ola",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "olivia": {
-        "voice": {
-            "name": "Olivia"
-        },
+        "voice": {"name": "Olivia"},
         "id": "Olivia",
         "displayName": "Olivia",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "pedro": {
-        "voice": {
-            "name": "Pedro"
-        },
+        "voice": {"name": "Pedro"},
         "id": "Pedro",
         "displayName": "Pedro",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "remi": {
-        "voice": {
-            "name": "Remi"
-        },
+        "voice": {"name": "Remi"},
         "id": "Remi",
         "displayName": "Rémi",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "ruth": {
-        "voice": {
-            "name": "Ruth"
-        },
+        "voice": {"name": "Ruth"},
         "id": "Ruth",
         "displayName": "Ruth",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "sabrina": {
-        "voice": {
-            "name": "Sabrina"
-        },
+        "voice": {"name": "Sabrina"},
         "id": "Sabrina",
         "displayName": "Sabrina",
-        "languages": [
-            "de-CH"
-        ]
+        "languages": ["de-CH"],
     },
     "salli": {
-        "voice": {
-            "name": "Salli"
-        },
+        "voice": {"name": "Salli"},
         "id": "Salli",
         "displayName": "Salli",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "seoyeon": {
-        "voice": {
-            "name": "Seoyeon"
-        },
+        "voice": {"name": "Seoyeon"},
         "id": "Seoyeon",
         "displayName": "Seoyeon",
-        "languages": [
-            "ko-KR"
-        ]
+        "languages": ["ko-KR"],
     },
     "sergio": {
-        "voice": {
-            "name": "Sergio"
-        },
+        "voice": {"name": "Sergio"},
         "id": "Sergio",
         "displayName": "Sergio",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "sofie": {
-        "voice": {
-            "name": "Sofie"
-        },
+        "voice": {"name": "Sofie"},
         "id": "Sofie",
         "displayName": "Sofie",
-        "languages": [
-            "da-DK"
-        ]
+        "languages": ["da-DK"],
     },
     "stephen": {
-        "voice": {
-            "name": "Stephen"
-        },
+        "voice": {"name": "Stephen"},
         "id": "Stephen",
         "displayName": "Stephen",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "suvi": {
-        "voice": {
-            "name": "Suvi"
-        },
+        "voice": {"name": "Suvi"},
         "id": "Suvi",
         "displayName": "Suvi",
-        "languages": [
-            "fi-FI"
-        ]
+        "languages": ["fi-FI"],
     },
     "takumi": {
-        "voice": {
-            "name": "Takumi"
-        },
+        "voice": {"name": "Takumi"},
         "id": "Takumi",
         "displayName": "Takumi",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "thiago": {
-        "voice": {
-            "name": "Thiago"
-        },
+        "voice": {"name": "Thiago"},
         "id": "Thiago",
         "displayName": "Thiago",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "tomoko": {
-        "voice": {
-            "name": "Tomoko"
-        },
+        "voice": {"name": "Tomoko"},
         "id": "Tomoko",
         "displayName": "Tomoko",
-        "languages": [
-            "ja-JP"
-        ]
+        "languages": ["ja-JP"],
     },
     "vicki": {
-        "voice": {
-            "name": "Vicki"
-        },
+        "voice": {"name": "Vicki"},
         "id": "Vicki",
         "displayName": "Vicki",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "vitoria": {
-        "voice": {
-            "name": "Vitoria"
-        },
+        "voice": {"name": "Vitoria"},
         "id": "Vitoria",
         "displayName": "Vitória",
-        "languages": [
-            "pt-BR"
-        ]
+        "languages": ["pt-BR"],
     },
     "zayd": {
-        "voice": {
-            "name": "Zayd"
-        },
+        "voice": {"name": "Zayd"},
         "id": "Zayd",
         "displayName": "Zayd",
-        "languages": [
-            "ar-AE",
-            "arb"
-        ]
+        "languages": ["ar-AE", "arb"],
     },
     "zhiyu": {
-        "voice": {
-            "name": "Zhiyu"
-        },
+        "voice": {"name": "Zhiyu"},
         "id": "Zhiyu",
         "displayName": "Zhiyu",
-        "languages": [
-            "cmn-CN"
-        ]
-    }
+        "languages": ["cmn-CN"],
+    },
 }
 AMAZON_POLLY_GENERATIVE_VOICES = {
     "amy": {
-        "voice": {
-            "name": "Amy"
-        },
+        "voice": {"name": "Amy"},
         "id": "Amy",
         "displayName": "Amy",
-        "languages": [
-            "en-GB"
-        ]
+        "languages": ["en-GB"],
     },
     "andres": {
-        "voice": {
-            "name": "Andres"
-        },
+        "voice": {"name": "Andres"},
         "id": "Andres",
         "displayName": "Andrés",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "ayanda": {
-        "voice": {
-            "name": "Ayanda"
-        },
+        "voice": {"name": "Ayanda"},
         "id": "Ayanda",
         "displayName": "Ayanda",
-        "languages": [
-            "en-ZA"
-        ]
+        "languages": ["en-ZA"],
     },
     "bianca": {
-        "voice": {
-            "name": "Bianca"
-        },
+        "voice": {"name": "Bianca"},
         "id": "Bianca",
         "displayName": "Bianca",
-        "languages": [
-            "it-IT"
-        ]
+        "languages": ["it-IT"],
     },
     "celine": {
-        "voice": {
-            "name": "Celine"
-        },
+        "voice": {"name": "Celine"},
         "id": "Celine",
         "displayName": "Céline",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "daniel": {
-        "voice": {
-            "name": "Daniel"
-        },
+        "voice": {"name": "Daniel"},
         "id": "Daniel",
         "displayName": "Daniel",
-        "languages": [
-            "de-DE"
-        ]
+        "languages": ["de-DE"],
     },
     "danielle": {
-        "voice": {
-            "name": "Danielle"
-        },
+        "voice": {"name": "Danielle"},
         "id": "Danielle",
         "displayName": "Danielle",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "ewa": {
-        "voice": {
-            "name": "Ewa"
-        },
+        "voice": {"name": "Ewa"},
         "id": "Ewa",
         "displayName": "Ewa",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "gabrielle": {
-        "voice": {
-            "name": "Gabrielle"
-        },
+        "voice": {"name": "Gabrielle"},
         "id": "Gabrielle",
         "displayName": "Gabrielle",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "isabelle": {
-        "voice": {
-            "name": "Isabelle"
-        },
+        "voice": {"name": "Isabelle"},
         "id": "Isabelle",
         "displayName": "Isabelle",
-        "languages": [
-            "fr-BE"
-        ]
+        "languages": ["fr-BE"],
     },
     "joanna": {
-        "voice": {
-            "name": "Joanna"
-        },
+        "voice": {"name": "Joanna"},
         "id": "Joanna",
         "displayName": "Joanna",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "kajal": {
-        "voice": {
-            "name": "Kajal"
-        },
+        "voice": {"name": "Kajal"},
         "id": "Kajal",
         "displayName": "Kajal",
-        "languages": [
-            "en-IN",
-            "hi-IN"
-        ]
+        "languages": ["en-IN", "hi-IN"],
     },
     "laura": {
-        "voice": {
-            "name": "Laura"
-        },
+        "voice": {"name": "Laura"},
         "id": "Laura",
         "displayName": "Laura",
-        "languages": [
-            "nl-NL"
-        ]
+        "languages": ["nl-NL"],
     },
     "lea": {
-        "voice": {
-            "name": "Lea"
-        },
+        "voice": {"name": "Lea"},
         "id": "Lea",
         "displayName": "Léa",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "liam": {
-        "voice": {
-            "name": "Liam"
-        },
+        "voice": {"name": "Liam"},
         "id": "Liam",
         "displayName": "Liam",
-        "languages": [
-            "fr-CA"
-        ]
+        "languages": ["fr-CA"],
     },
     "lisa": {
-        "voice": {
-            "name": "Lisa"
-        },
+        "voice": {"name": "Lisa"},
         "id": "Lisa",
         "displayName": "Lisa",
-        "languages": [
-            "nl-BE"
-        ]
+        "languages": ["nl-BE"],
     },
     "lucia": {
-        "voice": {
-            "name": "Lucia"
-        },
+        "voice": {"name": "Lucia"},
         "id": "Lucia",
         "displayName": "Lucia",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "lupe": {
-        "voice": {
-            "name": "Lupe"
-        },
+        "voice": {"name": "Lupe"},
         "id": "Lupe",
         "displayName": "Lupe",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "matthew": {
-        "voice": {
-            "name": "Matthew"
-        },
+        "voice": {"name": "Matthew"},
         "id": "Matthew",
         "displayName": "Matthew",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "mia": {
-        "voice": {
-            "name": "Mia"
-        },
+        "voice": {"name": "Mia"},
         "id": "Mia",
         "displayName": "Mia",
-        "languages": [
-            "es-MX"
-        ]
+        "languages": ["es-MX"],
     },
     "ola": {
-        "voice": {
-            "name": "Ola"
-        },
+        "voice": {"name": "Ola"},
         "id": "Ola",
         "displayName": "Ola",
-        "languages": [
-            "pl-PL"
-        ]
+        "languages": ["pl-PL"],
     },
     "olivia": {
-        "voice": {
-            "name": "Olivia"
-        },
+        "voice": {"name": "Olivia"},
         "id": "Olivia",
         "displayName": "Olivia",
-        "languages": [
-            "en-AU"
-        ]
+        "languages": ["en-AU"],
     },
     "pedro": {
-        "voice": {
-            "name": "Pedro"
-        },
+        "voice": {"name": "Pedro"},
         "id": "Pedro",
         "displayName": "Pedro",
-        "languages": [
-            "es-US"
-        ]
+        "languages": ["es-US"],
     },
     "remi": {
-        "voice": {
-            "name": "Remi"
-        },
+        "voice": {"name": "Remi"},
         "id": "Remi",
         "displayName": "Rémi",
-        "languages": [
-            "fr-FR"
-        ]
+        "languages": ["fr-FR"],
     },
     "ruth": {
-        "voice": {
-            "name": "Ruth"
-        },
+        "voice": {"name": "Ruth"},
         "id": "Ruth",
         "displayName": "Ruth",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "salli": {
-        "voice": {
-            "name": "Salli"
-        },
+        "voice": {"name": "Salli"},
         "id": "Salli",
         "displayName": "Salli",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "sergio": {
-        "voice": {
-            "name": "Sergio"
-        },
+        "voice": {"name": "Sergio"},
         "id": "Sergio",
         "displayName": "Sergio",
-        "languages": [
-            "es-ES"
-        ]
+        "languages": ["es-ES"],
     },
     "stephen": {
-        "voice": {
-            "name": "Stephen"
-        },
+        "voice": {"name": "Stephen"},
         "id": "Stephen",
         "displayName": "Stephen",
-        "languages": [
-            "en-US"
-        ]
+        "languages": ["en-US"],
     },
     "vicki": {
-        "voice": {
-            "name": "Vicki"
-        },
+        "voice": {"name": "Vicki"},
         "id": "Vicki",
         "displayName": "Vicki",
-        "languages": [
-            "de-DE"
-        ]
-    }
+        "languages": ["de-DE"],
+    },
 }

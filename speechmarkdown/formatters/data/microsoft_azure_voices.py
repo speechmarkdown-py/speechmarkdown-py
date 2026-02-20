@@ -1,8958 +1,6726 @@
 MICROSOFT_AZURE_ALL_VOICES = {
     "aarav": {
-        "voice": {
-            "name": "en-IN-AaravNeural"
-        },
+        "voice": {"name": "en-IN-AaravNeural"},
         "id": "en-IN-AaravNeural",
         "displayName": "Aarav",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "aarohi": {
-        "voice": {
-            "name": "mr-IN-AarohiNeural"
-        },
+        "voice": {"name": "mr-IN-AarohiNeural"},
         "id": "mr-IN-AarohiNeural",
         "displayName": "Aarohi",
-        "locale": "mr-IN"
+        "locale": "mr-IN",
     },
     "aarti": {
-        "voice": {
-            "name": "en-IN-AartiNeural"
-        },
+        "voice": {"name": "en-IN-AartiNeural"},
         "id": "en-IN-AartiNeural",
         "displayName": "Aarti",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "aarti indic": {
-        "voice": {
-            "name": "en-IN-AartiIndicNeural"
-        },
+        "voice": {"name": "en-IN-AartiIndicNeural"},
         "id": "en-IN-AartiIndicNeural",
         "displayName": "Aarti Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "aashi": {
-        "voice": {
-            "name": "en-IN-AashiNeural"
-        },
+        "voice": {"name": "en-IN-AashiNeural"},
         "id": "en-IN-AashiNeural",
         "displayName": "Aashi",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "abbi": {
-        "voice": {
-            "name": "en-GB-AbbiNeural"
-        },
+        "voice": {"name": "en-GB-AbbiNeural"},
         "id": "en-GB-AbbiNeural",
         "displayName": "Abbi",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "abdullah": {
-        "voice": {
-            "name": "ar-OM-AbdullahNeural"
-        },
+        "voice": {"name": "ar-OM-AbdullahNeural"},
         "id": "ar-OM-AbdullahNeural",
         "displayName": "Abdullah",
-        "locale": "ar-OM"
+        "locale": "ar-OM",
     },
     "abeo": {
-        "voice": {
-            "name": "en-NG-AbeoNeural"
-        },
+        "voice": {"name": "en-NG-AbeoNeural"},
         "id": "en-NG-AbeoNeural",
         "displayName": "Abeo",
-        "locale": "en-NG"
+        "locale": "en-NG",
     },
     "abril": {
-        "voice": {
-            "name": "es-ES-AbrilNeural"
-        },
+        "voice": {"name": "es-ES-AbrilNeural"},
         "id": "es-ES-AbrilNeural",
         "displayName": "Abril",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "achara": {
-        "voice": {
-            "name": "th-TH-AcharaNeural"
-        },
+        "voice": {"name": "th-TH-AcharaNeural"},
         "id": "th-TH-AcharaNeural",
         "displayName": "Achara",
-        "locale": "th-TH"
+        "locale": "th-TH",
     },
     "ada multilingual": {
-        "voice": {
-            "name": "en-GB-AdaMultilingualNeural"
-        },
+        "voice": {"name": "en-GB-AdaMultilingualNeural"},
         "id": "en-GB-AdaMultilingualNeural",
         "displayName": "Ada Multilingual",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "adam multilingual": {
-        "voice": {
-            "name": "en-US-AdamMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AdamMultilingualNeural"},
         "id": "en-US-AdamMultilingualNeural",
         "displayName": "Adam Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "adri": {
-        "voice": {
-            "name": "af-ZA-AdriNeural"
-        },
+        "voice": {"name": "af-ZA-AdriNeural"},
         "id": "af-ZA-AdriNeural",
         "displayName": "Adri",
-        "locale": "af-ZA"
+        "locale": "af-ZA",
     },
     "af-za-adrineural": {
-        "voice": {
-            "name": "af-ZA-AdriNeural"
-        },
+        "voice": {"name": "af-ZA-AdriNeural"},
         "id": "af-ZA-AdriNeural",
         "displayName": "Adri",
-        "locale": "af-ZA"
+        "locale": "af-ZA",
     },
     "af-za-willemneural": {
-        "voice": {
-            "name": "af-ZA-WillemNeural"
-        },
+        "voice": {"name": "af-ZA-WillemNeural"},
         "id": "af-ZA-WillemNeural",
         "displayName": "Willem",
-        "locale": "af-ZA"
+        "locale": "af-ZA",
     },
     "agnieszka": {
-        "voice": {
-            "name": "pl-PL-AgnieszkaNeural"
-        },
+        "voice": {"name": "pl-PL-AgnieszkaNeural"},
         "id": "pl-PL-AgnieszkaNeural",
         "displayName": "Agnieszka",
-        "locale": "pl-PL"
+        "locale": "pl-PL",
     },
     "ahmet": {
-        "voice": {
-            "name": "tr-TR-AhmetNeural"
-        },
+        "voice": {"name": "tr-TR-AhmetNeural"},
         "id": "tr-TR-AhmetNeural",
         "displayName": "Ahmet",
-        "locale": "tr-TR"
+        "locale": "tr-TR",
     },
     "aigul": {
-        "voice": {
-            "name": "kk-KZ-AigulNeural"
-        },
+        "voice": {"name": "kk-KZ-AigulNeural"},
         "id": "kk-KZ-AigulNeural",
         "displayName": "Aigul",
-        "locale": "kk-KZ"
+        "locale": "kk-KZ",
     },
     "ainhoa": {
-        "voice": {
-            "name": "eu-ES-AinhoaNeural"
-        },
+        "voice": {"name": "eu-ES-AinhoaNeural"},
         "id": "eu-ES-AinhoaNeural",
         "displayName": "Ainhoa",
-        "locale": "eu-ES"
+        "locale": "eu-ES",
     },
     "alain": {
-        "voice": {
-            "name": "fr-FR-AlainNeural"
-        },
+        "voice": {"name": "fr-FR-AlainNeural"},
         "id": "fr-FR-AlainNeural",
         "displayName": "Alain",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "alba": {
-        "voice": {
-            "name": "ca-ES-AlbaNeural"
-        },
+        "voice": {"name": "ca-ES-AlbaNeural"},
         "id": "ca-ES-AlbaNeural",
         "displayName": "Alba",
-        "locale": "ca-ES"
+        "locale": "ca-ES",
     },
     "aled": {
-        "voice": {
-            "name": "cy-GB-AledNeural"
-        },
+        "voice": {"name": "cy-GB-AledNeural"},
         "id": "cy-GB-AledNeural",
         "displayName": "Aled",
-        "locale": "cy-GB"
+        "locale": "cy-GB",
     },
     "aleksandar": {
-        "voice": {
-            "name": "mk-MK-AleksandarNeural"
-        },
+        "voice": {"name": "mk-MK-AleksandarNeural"},
         "id": "mk-MK-AleksandarNeural",
         "displayName": "Aleksandar",
-        "locale": "mk-MK"
+        "locale": "mk-MK",
     },
     "alessio multilingual": {
-        "voice": {
-            "name": "it-IT-AlessioMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-AlessioMultilingualNeural"},
         "id": "it-IT-AlessioMultilingualNeural",
         "displayName": "Alessio Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "alex": {
-        "voice": {
-            "name": "es-PE-AlexNeural"
-        },
+        "voice": {"name": "es-PE-AlexNeural"},
         "id": "es-PE-AlexNeural",
         "displayName": "Alex",
-        "locale": "es-PE"
+        "locale": "es-PE",
     },
     "alfie": {
-        "voice": {
-            "name": "en-GB-AlfieNeural"
-        },
+        "voice": {"name": "en-GB-AlfieNeural"},
         "id": "en-GB-AlfieNeural",
         "displayName": "Alfie",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "ali": {
-        "voice": {
-            "name": "ar-BH-AliNeural"
-        },
+        "voice": {"name": "ar-BH-AliNeural"},
         "id": "ar-BH-AliNeural",
         "displayName": "Ali",
-        "locale": "ar-BH"
+        "locale": "ar-BH",
     },
     "alina": {
-        "voice": {
-            "name": "ro-RO-AlinaNeural"
-        },
+        "voice": {"name": "ro-RO-AlinaNeural"},
         "id": "ro-RO-AlinaNeural",
         "displayName": "Alina",
-        "locale": "ro-RO"
+        "locale": "ro-RO",
     },
     "alloy turbo multilingual": {
-        "voice": {
-            "name": "en-US-AlloyTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AlloyTurboMultilingualNeural"},
         "id": "en-US-AlloyTurboMultilingualNeural",
         "displayName": "Alloy Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "alonso": {
-        "voice": {
-            "name": "es-US-AlonsoNeural"
-        },
+        "voice": {"name": "es-US-AlonsoNeural"},
         "id": "es-US-AlonsoNeural",
         "displayName": "Alonso",
-        "locale": "es-US"
+        "locale": "es-US",
     },
     "alvaro": {
-        "voice": {
-            "name": "es-ES-AlvaroNeural"
-        },
+        "voice": {"name": "es-ES-AlvaroNeural"},
         "id": "es-ES-AlvaroNeural",
         "displayName": "Alvaro",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "am-et-amehaneural": {
-        "voice": {
-            "name": "am-ET-AmehaNeural"
-        },
+        "voice": {"name": "am-ET-AmehaNeural"},
         "id": "am-ET-AmehaNeural",
         "displayName": "Ameha",
-        "locale": "am-ET"
+        "locale": "am-ET",
     },
     "am-et-mekdesneural": {
-        "voice": {
-            "name": "am-ET-MekdesNeural"
-        },
+        "voice": {"name": "am-ET-MekdesNeural"},
         "id": "am-ET-MekdesNeural",
         "displayName": "Mekdes",
-        "locale": "am-ET"
+        "locale": "am-ET",
     },
     "amal": {
-        "voice": {
-            "name": "ar-QA-AmalNeural"
-        },
+        "voice": {"name": "ar-QA-AmalNeural"},
         "id": "ar-QA-AmalNeural",
         "displayName": "Amal",
-        "locale": "ar-QA"
+        "locale": "ar-QA",
     },
     "amala": {
-        "voice": {
-            "name": "de-DE-AmalaNeural"
-        },
+        "voice": {"name": "de-DE-AmalaNeural"},
         "id": "de-DE-AmalaNeural",
         "displayName": "Amala",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "amanda multilingual": {
-        "voice": {
-            "name": "en-US-AmandaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AmandaMultilingualNeural"},
         "id": "en-US-AmandaMultilingualNeural",
         "displayName": "Amanda Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "amany": {
-        "voice": {
-            "name": "ar-SY-AmanyNeural"
-        },
+        "voice": {"name": "ar-SY-AmanyNeural"},
         "id": "ar-SY-AmanyNeural",
         "displayName": "Amany",
-        "locale": "ar-SY"
+        "locale": "ar-SY",
     },
     "amber": {
-        "voice": {
-            "name": "en-US-AmberNeural"
-        },
+        "voice": {"name": "en-US-AmberNeural"},
         "id": "en-US-AmberNeural",
         "displayName": "Amber",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "ameha": {
-        "voice": {
-            "name": "am-ET-AmehaNeural"
-        },
+        "voice": {"name": "am-ET-AmehaNeural"},
         "id": "am-ET-AmehaNeural",
         "displayName": "Ameha",
-        "locale": "am-ET"
+        "locale": "am-ET",
     },
     "amina": {
-        "voice": {
-            "name": "ar-DZ-AminaNeural"
-        },
+        "voice": {"name": "ar-DZ-AminaNeural"},
         "id": "ar-DZ-AminaNeural",
         "displayName": "Amina",
-        "locale": "ar-DZ"
+        "locale": "ar-DZ",
     },
     "ana": {
-        "voice": {
-            "name": "en-US-AnaNeural"
-        },
+        "voice": {"name": "en-US-AnaNeural"},
         "id": "en-US-AnaNeural",
         "displayName": "Ana",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "anahit": {
-        "voice": {
-            "name": "hy-AM-AnahitNeural"
-        },
+        "voice": {"name": "hy-AM-AnahitNeural"},
         "id": "hy-AM-AnahitNeural",
         "displayName": "Anahit",
-        "locale": "hy-AM"
+        "locale": "hy-AM",
     },
     "ananya": {
-        "voice": {
-            "name": "en-IN-AnanyaNeural"
-        },
+        "voice": {"name": "en-IN-AnanyaNeural"},
         "id": "en-IN-AnanyaNeural",
         "displayName": "Ananya",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "anbu": {
-        "voice": {
-            "name": "ta-SG-AnbuNeural"
-        },
+        "voice": {"name": "ta-SG-AnbuNeural"},
         "id": "ta-SG-AnbuNeural",
         "displayName": "Anbu",
-        "locale": "ta-SG"
+        "locale": "ta-SG",
     },
     "ander": {
-        "voice": {
-            "name": "eu-ES-AnderNeural"
-        },
+        "voice": {"name": "eu-ES-AnderNeural"},
         "id": "eu-ES-AnderNeural",
         "displayName": "Ander",
-        "locale": "eu-ES"
+        "locale": "eu-ES",
     },
     "andrea": {
-        "voice": {
-            "name": "es-EC-AndreaNeural"
-        },
+        "voice": {"name": "es-EC-AndreaNeural"},
         "id": "es-EC-AndreaNeural",
         "displayName": "Andrea",
-        "locale": "es-EC"
+        "locale": "es-EC",
     },
     "andres": {
-        "voice": {
-            "name": "es-GT-AndresNeural"
-        },
+        "voice": {"name": "es-GT-AndresNeural"},
         "id": "es-GT-AndresNeural",
         "displayName": "Andres",
-        "locale": "es-GT"
+        "locale": "es-GT",
     },
     "andrew": {
-        "voice": {
-            "name": "en-US-AndrewNeural"
-        },
+        "voice": {"name": "en-US-AndrewNeural"},
         "id": "en-US-AndrewNeural",
         "displayName": "Andrew",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "andrew multilingual": {
-        "voice": {
-            "name": "en-US-AndrewMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AndrewMultilingualNeural"},
         "id": "en-US-AndrewMultilingualNeural",
         "displayName": "Andrew Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "angelo": {
-        "voice": {
-            "name": "fil-PH-AngeloNeural"
-        },
+        "voice": {"name": "fil-PH-AngeloNeural"},
         "id": "fil-PH-AngeloNeural",
         "displayName": "Angelo",
-        "locale": "fil-PH"
+        "locale": "fil-PH",
     },
     "anila": {
-        "voice": {
-            "name": "sq-AL-AnilaNeural"
-        },
+        "voice": {"name": "sq-AL-AnilaNeural"},
         "id": "sq-AL-AnilaNeural",
         "displayName": "Anila",
-        "locale": "sq-AL"
+        "locale": "sq-AL",
     },
     "annette": {
-        "voice": {
-            "name": "en-AU-AnnetteNeural"
-        },
+        "voice": {"name": "en-AU-AnnetteNeural"},
         "id": "en-AU-AnnetteNeural",
         "displayName": "Annette",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "antoine": {
-        "voice": {
-            "name": "fr-CA-AntoineNeural"
-        },
+        "voice": {"name": "fr-CA-AntoineNeural"},
         "id": "fr-CA-AntoineNeural",
         "displayName": "Antoine",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "antonin": {
-        "voice": {
-            "name": "cs-CZ-AntoninNeural"
-        },
+        "voice": {"name": "cs-CZ-AntoninNeural"},
         "id": "cs-CZ-AntoninNeural",
         "displayName": "Antonin",
-        "locale": "cs-CZ"
+        "locale": "cs-CZ",
     },
     "antonio": {
-        "voice": {
-            "name": "pt-BR-AntonioNeural"
-        },
+        "voice": {"name": "pt-BR-AntonioNeural"},
         "id": "pt-BR-AntonioNeural",
         "displayName": "Antonio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "anu": {
-        "voice": {
-            "name": "et-EE-AnuNeural"
-        },
+        "voice": {"name": "et-EE-AnuNeural"},
         "id": "et-EE-AnuNeural",
         "displayName": "Anu",
-        "locale": "et-EE"
+        "locale": "et-EE",
     },
     "aoi": {
-        "voice": {
-            "name": "ja-JP-AoiNeural"
-        },
+        "voice": {"name": "ja-JP-AoiNeural"},
         "id": "ja-JP-AoiNeural",
         "displayName": "Aoi",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ar-ae-fatimaneural": {
-        "voice": {
-            "name": "ar-AE-FatimaNeural"
-        },
+        "voice": {"name": "ar-AE-FatimaNeural"},
         "id": "ar-AE-FatimaNeural",
         "displayName": "Fatima",
-        "locale": "ar-AE"
+        "locale": "ar-AE",
     },
     "ar-ae-hamdanneural": {
-        "voice": {
-            "name": "ar-AE-HamdanNeural"
-        },
+        "voice": {"name": "ar-AE-HamdanNeural"},
         "id": "ar-AE-HamdanNeural",
         "displayName": "Hamdan",
-        "locale": "ar-AE"
+        "locale": "ar-AE",
     },
     "ar-bh-alineural": {
-        "voice": {
-            "name": "ar-BH-AliNeural"
-        },
+        "voice": {"name": "ar-BH-AliNeural"},
         "id": "ar-BH-AliNeural",
         "displayName": "Ali",
-        "locale": "ar-BH"
+        "locale": "ar-BH",
     },
     "ar-bh-lailaneural": {
-        "voice": {
-            "name": "ar-BH-LailaNeural"
-        },
+        "voice": {"name": "ar-BH-LailaNeural"},
         "id": "ar-BH-LailaNeural",
         "displayName": "Laila",
-        "locale": "ar-BH"
+        "locale": "ar-BH",
     },
     "ar-dz-aminaneural": {
-        "voice": {
-            "name": "ar-DZ-AminaNeural"
-        },
+        "voice": {"name": "ar-DZ-AminaNeural"},
         "id": "ar-DZ-AminaNeural",
         "displayName": "Amina",
-        "locale": "ar-DZ"
+        "locale": "ar-DZ",
     },
     "ar-dz-ismaelneural": {
-        "voice": {
-            "name": "ar-DZ-IsmaelNeural"
-        },
+        "voice": {"name": "ar-DZ-IsmaelNeural"},
         "id": "ar-DZ-IsmaelNeural",
         "displayName": "Ismael",
-        "locale": "ar-DZ"
+        "locale": "ar-DZ",
     },
     "ar-eg-salmaneural": {
-        "voice": {
-            "name": "ar-EG-SalmaNeural"
-        },
+        "voice": {"name": "ar-EG-SalmaNeural"},
         "id": "ar-EG-SalmaNeural",
         "displayName": "Salma",
-        "locale": "ar-EG"
+        "locale": "ar-EG",
     },
     "ar-eg-shakirneural": {
-        "voice": {
-            "name": "ar-EG-ShakirNeural"
-        },
+        "voice": {"name": "ar-EG-ShakirNeural"},
         "id": "ar-EG-ShakirNeural",
         "displayName": "Shakir",
-        "locale": "ar-EG"
+        "locale": "ar-EG",
     },
     "ar-iq-basselneural": {
-        "voice": {
-            "name": "ar-IQ-BasselNeural"
-        },
+        "voice": {"name": "ar-IQ-BasselNeural"},
         "id": "ar-IQ-BasselNeural",
         "displayName": "Bassel",
-        "locale": "ar-IQ"
+        "locale": "ar-IQ",
     },
     "ar-iq-rananeural": {
-        "voice": {
-            "name": "ar-IQ-RanaNeural"
-        },
+        "voice": {"name": "ar-IQ-RanaNeural"},
         "id": "ar-IQ-RanaNeural",
         "displayName": "Rana",
-        "locale": "ar-IQ"
+        "locale": "ar-IQ",
     },
     "ar-jo-sananeural": {
-        "voice": {
-            "name": "ar-JO-SanaNeural"
-        },
+        "voice": {"name": "ar-JO-SanaNeural"},
         "id": "ar-JO-SanaNeural",
         "displayName": "Sana",
-        "locale": "ar-JO"
+        "locale": "ar-JO",
     },
     "ar-jo-taimneural": {
-        "voice": {
-            "name": "ar-JO-TaimNeural"
-        },
+        "voice": {"name": "ar-JO-TaimNeural"},
         "id": "ar-JO-TaimNeural",
         "displayName": "Taim",
-        "locale": "ar-JO"
+        "locale": "ar-JO",
     },
     "ar-kw-fahedneural": {
-        "voice": {
-            "name": "ar-KW-FahedNeural"
-        },
+        "voice": {"name": "ar-KW-FahedNeural"},
         "id": "ar-KW-FahedNeural",
         "displayName": "Fahed",
-        "locale": "ar-KW"
+        "locale": "ar-KW",
     },
     "ar-kw-nouraneural": {
-        "voice": {
-            "name": "ar-KW-NouraNeural"
-        },
+        "voice": {"name": "ar-KW-NouraNeural"},
         "id": "ar-KW-NouraNeural",
         "displayName": "Noura",
-        "locale": "ar-KW"
+        "locale": "ar-KW",
     },
     "ar-lb-laylaneural": {
-        "voice": {
-            "name": "ar-LB-LaylaNeural"
-        },
+        "voice": {"name": "ar-LB-LaylaNeural"},
         "id": "ar-LB-LaylaNeural",
         "displayName": "Layla",
-        "locale": "ar-LB"
+        "locale": "ar-LB",
     },
     "ar-lb-ramineural": {
-        "voice": {
-            "name": "ar-LB-RamiNeural"
-        },
+        "voice": {"name": "ar-LB-RamiNeural"},
         "id": "ar-LB-RamiNeural",
         "displayName": "Rami",
-        "locale": "ar-LB"
+        "locale": "ar-LB",
     },
     "ar-ly-imanneural": {
-        "voice": {
-            "name": "ar-LY-ImanNeural"
-        },
+        "voice": {"name": "ar-LY-ImanNeural"},
         "id": "ar-LY-ImanNeural",
         "displayName": "Iman",
-        "locale": "ar-LY"
+        "locale": "ar-LY",
     },
     "ar-ly-omarneural": {
-        "voice": {
-            "name": "ar-LY-OmarNeural"
-        },
+        "voice": {"name": "ar-LY-OmarNeural"},
         "id": "ar-LY-OmarNeural",
         "displayName": "Omar",
-        "locale": "ar-LY"
+        "locale": "ar-LY",
     },
     "ar-ma-jamalneural": {
-        "voice": {
-            "name": "ar-MA-JamalNeural"
-        },
+        "voice": {"name": "ar-MA-JamalNeural"},
         "id": "ar-MA-JamalNeural",
         "displayName": "Jamal",
-        "locale": "ar-MA"
+        "locale": "ar-MA",
     },
     "ar-ma-mounaneural": {
-        "voice": {
-            "name": "ar-MA-MounaNeural"
-        },
+        "voice": {"name": "ar-MA-MounaNeural"},
         "id": "ar-MA-MounaNeural",
         "displayName": "Mouna",
-        "locale": "ar-MA"
+        "locale": "ar-MA",
     },
     "ar-om-abdullahneural": {
-        "voice": {
-            "name": "ar-OM-AbdullahNeural"
-        },
+        "voice": {"name": "ar-OM-AbdullahNeural"},
         "id": "ar-OM-AbdullahNeural",
         "displayName": "Abdullah",
-        "locale": "ar-OM"
+        "locale": "ar-OM",
     },
     "ar-om-ayshaneural": {
-        "voice": {
-            "name": "ar-OM-AyshaNeural"
-        },
+        "voice": {"name": "ar-OM-AyshaNeural"},
         "id": "ar-OM-AyshaNeural",
         "displayName": "Aysha",
-        "locale": "ar-OM"
+        "locale": "ar-OM",
     },
     "ar-qa-amalneural": {
-        "voice": {
-            "name": "ar-QA-AmalNeural"
-        },
+        "voice": {"name": "ar-QA-AmalNeural"},
         "id": "ar-QA-AmalNeural",
         "displayName": "Amal",
-        "locale": "ar-QA"
+        "locale": "ar-QA",
     },
     "ar-qa-moazneural": {
-        "voice": {
-            "name": "ar-QA-MoazNeural"
-        },
+        "voice": {"name": "ar-QA-MoazNeural"},
         "id": "ar-QA-MoazNeural",
         "displayName": "Moaz",
-        "locale": "ar-QA"
+        "locale": "ar-QA",
     },
     "ar-sa-hamedneural": {
-        "voice": {
-            "name": "ar-SA-HamedNeural"
-        },
+        "voice": {"name": "ar-SA-HamedNeural"},
         "id": "ar-SA-HamedNeural",
         "displayName": "Hamed",
-        "locale": "ar-SA"
+        "locale": "ar-SA",
     },
     "ar-sa-zariyahneural": {
-        "voice": {
-            "name": "ar-SA-ZariyahNeural"
-        },
+        "voice": {"name": "ar-SA-ZariyahNeural"},
         "id": "ar-SA-ZariyahNeural",
         "displayName": "Zariyah",
-        "locale": "ar-SA"
+        "locale": "ar-SA",
     },
     "ar-sy-amanyneural": {
-        "voice": {
-            "name": "ar-SY-AmanyNeural"
-        },
+        "voice": {"name": "ar-SY-AmanyNeural"},
         "id": "ar-SY-AmanyNeural",
         "displayName": "Amany",
-        "locale": "ar-SY"
+        "locale": "ar-SY",
     },
     "ar-sy-laithneural": {
-        "voice": {
-            "name": "ar-SY-LaithNeural"
-        },
+        "voice": {"name": "ar-SY-LaithNeural"},
         "id": "ar-SY-LaithNeural",
         "displayName": "Laith",
-        "locale": "ar-SY"
+        "locale": "ar-SY",
     },
     "ar-tn-hedineural": {
-        "voice": {
-            "name": "ar-TN-HediNeural"
-        },
+        "voice": {"name": "ar-TN-HediNeural"},
         "id": "ar-TN-HediNeural",
         "displayName": "Hedi",
-        "locale": "ar-TN"
+        "locale": "ar-TN",
     },
     "ar-tn-reemneural": {
-        "voice": {
-            "name": "ar-TN-ReemNeural"
-        },
+        "voice": {"name": "ar-TN-ReemNeural"},
         "id": "ar-TN-ReemNeural",
         "displayName": "Reem",
-        "locale": "ar-TN"
+        "locale": "ar-TN",
     },
     "ar-ye-maryamneural": {
-        "voice": {
-            "name": "ar-YE-MaryamNeural"
-        },
+        "voice": {"name": "ar-YE-MaryamNeural"},
         "id": "ar-YE-MaryamNeural",
         "displayName": "Maryam",
-        "locale": "ar-YE"
+        "locale": "ar-YE",
     },
     "ar-ye-salehneural": {
-        "voice": {
-            "name": "ar-YE-SalehNeural"
-        },
+        "voice": {"name": "ar-YE-SalehNeural"},
         "id": "ar-YE-SalehNeural",
         "displayName": "Saleh",
-        "locale": "ar-YE"
+        "locale": "ar-YE",
     },
     "arabella multilingual": {
-        "voice": {
-            "name": "es-ES-ArabellaMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-ArabellaMultilingualNeural"},
         "id": "es-ES-ArabellaMultilingualNeural",
         "displayName": "Arabella Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "ardi": {
-        "voice": {
-            "name": "id-ID-ArdiNeural"
-        },
+        "voice": {"name": "id-ID-ArdiNeural"},
         "id": "id-ID-ArdiNeural",
         "displayName": "Ardi",
-        "locale": "id-ID"
+        "locale": "id-ID",
     },
     "aria": {
-        "voice": {
-            "name": "en-US-AriaNeural"
-        },
+        "voice": {"name": "en-US-AriaNeural"},
         "id": "en-US-AriaNeural",
         "displayName": "Aria",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "ariane": {
-        "voice": {
-            "name": "fr-CH-ArianeNeural"
-        },
+        "voice": {"name": "fr-CH-ArianeNeural"},
         "id": "fr-CH-ArianeNeural",
         "displayName": "Ariane",
-        "locale": "fr-CH"
+        "locale": "fr-CH",
     },
     "arjun": {
-        "voice": {
-            "name": "en-IN-ArjunNeural"
-        },
+        "voice": {"name": "en-IN-ArjunNeural"},
         "id": "en-IN-ArjunNeural",
         "displayName": "Arjun",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "arjun indic": {
-        "voice": {
-            "name": "en-IN-ArjunIndicNeural"
-        },
+        "voice": {"name": "en-IN-ArjunIndicNeural"},
         "id": "en-IN-ArjunIndicNeural",
         "displayName": "Arjun Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "arnau": {
-        "voice": {
-            "name": "es-ES-ArnauNeural"
-        },
+        "voice": {"name": "es-ES-ArnauNeural"},
         "id": "es-ES-ArnauNeural",
         "displayName": "Arnau",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "arnaud": {
-        "voice": {
-            "name": "nl-BE-ArnaudNeural"
-        },
+        "voice": {"name": "nl-BE-ArnaudNeural"},
         "id": "nl-BE-ArnaudNeural",
         "displayName": "Arnaud",
-        "locale": "nl-BE"
+        "locale": "nl-BE",
     },
     "as-in-priyomneural": {
-        "voice": {
-            "name": "as-IN-PriyomNeural"
-        },
+        "voice": {"name": "as-IN-PriyomNeural"},
         "id": "as-IN-PriyomNeural",
         "displayName": "Priyom",
-        "locale": "as-IN"
+        "locale": "as-IN",
     },
     "as-in-yashicaneural": {
-        "voice": {
-            "name": "as-IN-YashicaNeural"
-        },
+        "voice": {"name": "as-IN-YashicaNeural"},
         "id": "as-IN-YashicaNeural",
         "displayName": "Yashica",
-        "locale": "as-IN"
+        "locale": "as-IN",
     },
     "asad": {
-        "voice": {
-            "name": "ur-PK-AsadNeural"
-        },
+        "voice": {"name": "ur-PK-AsadNeural"},
         "id": "ur-PK-AsadNeural",
         "displayName": "Asad",
-        "locale": "ur-PK"
+        "locale": "ur-PK",
     },
     "ashley": {
-        "voice": {
-            "name": "en-US-AshleyNeural"
-        },
+        "voice": {"name": "en-US-AshleyNeural"},
         "id": "en-US-AshleyNeural",
         "displayName": "Ashley",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "asilia": {
-        "voice": {
-            "name": "en-KE-AsiliaNeural"
-        },
+        "voice": {"name": "en-KE-AsiliaNeural"},
         "id": "en-KE-AsiliaNeural",
         "displayName": "Asilia",
-        "locale": "en-KE"
+        "locale": "en-KE",
     },
     "athina": {
-        "voice": {
-            "name": "el-GR-AthinaNeural"
-        },
+        "voice": {"name": "el-GR-AthinaNeural"},
         "id": "el-GR-AthinaNeural",
         "displayName": "Athina",
-        "locale": "el-GR"
+        "locale": "el-GR",
     },
     "ava": {
-        "voice": {
-            "name": "en-US-AvaNeural"
-        },
+        "voice": {"name": "en-US-AvaNeural"},
         "id": "en-US-AvaNeural",
         "displayName": "Ava",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "ava multilingual": {
-        "voice": {
-            "name": "en-US-AvaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AvaMultilingualNeural"},
         "id": "en-US-AvaMultilingualNeural",
         "displayName": "Ava Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "avri": {
-        "voice": {
-            "name": "he-IL-AvriNeural"
-        },
+        "voice": {"name": "he-IL-AvriNeural"},
         "id": "he-IL-AvriNeural",
         "displayName": "Avri",
-        "locale": "he-IL"
+        "locale": "he-IL",
     },
     "aysha": {
-        "voice": {
-            "name": "ar-OM-AyshaNeural"
-        },
+        "voice": {"name": "ar-OM-AyshaNeural"},
         "id": "ar-OM-AyshaNeural",
         "displayName": "Aysha",
-        "locale": "ar-OM"
+        "locale": "ar-OM",
     },
     "az-az-babekneural": {
-        "voice": {
-            "name": "az-AZ-BabekNeural"
-        },
+        "voice": {"name": "az-AZ-BabekNeural"},
         "id": "az-AZ-BabekNeural",
         "displayName": "Babek",
-        "locale": "az-AZ"
+        "locale": "az-AZ",
     },
     "az-az-banuneural": {
-        "voice": {
-            "name": "az-AZ-BanuNeural"
-        },
+        "voice": {"name": "az-AZ-BanuNeural"},
         "id": "az-AZ-BanuNeural",
         "displayName": "Banu",
-        "locale": "az-AZ"
+        "locale": "az-AZ",
     },
     "babek": {
-        "voice": {
-            "name": "az-AZ-BabekNeural"
-        },
+        "voice": {"name": "az-AZ-BabekNeural"},
         "id": "az-AZ-BabekNeural",
         "displayName": "Babek",
-        "locale": "az-AZ"
+        "locale": "az-AZ",
     },
     "banu": {
-        "voice": {
-            "name": "az-AZ-BanuNeural"
-        },
+        "voice": {"name": "az-AZ-BanuNeural"},
         "id": "az-AZ-BanuNeural",
         "displayName": "Banu",
-        "locale": "az-AZ"
+        "locale": "az-AZ",
     },
     "bashkar": {
-        "voice": {
-            "name": "bn-IN-BashkarNeural"
-        },
+        "voice": {"name": "bn-IN-BashkarNeural"},
         "id": "bn-IN-BashkarNeural",
         "displayName": "Bashkar",
-        "locale": "bn-IN"
+        "locale": "bn-IN",
     },
     "bassel": {
-        "voice": {
-            "name": "ar-IQ-BasselNeural"
-        },
+        "voice": {"name": "ar-IQ-BasselNeural"},
         "id": "ar-IQ-BasselNeural",
         "displayName": "Bassel",
-        "locale": "ar-IQ"
+        "locale": "ar-IQ",
     },
     "bataa": {
-        "voice": {
-            "name": "mn-MN-BataaNeural"
-        },
+        "voice": {"name": "mn-MN-BataaNeural"},
         "id": "mn-MN-BataaNeural",
         "displayName": "Bataa",
-        "locale": "mn-MN"
+        "locale": "mn-MN",
     },
     "beatriz": {
-        "voice": {
-            "name": "es-MX-BeatrizNeural"
-        },
+        "voice": {"name": "es-MX-BeatrizNeural"},
         "id": "es-MX-BeatrizNeural",
         "displayName": "Beatriz",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "belkys": {
-        "voice": {
-            "name": "es-CU-BelkysNeural"
-        },
+        "voice": {"name": "es-CU-BelkysNeural"},
         "id": "es-CU-BelkysNeural",
         "displayName": "Belkys",
-        "locale": "es-CU"
+        "locale": "es-CU",
     },
     "bella": {
-        "voice": {
-            "name": "en-GB-BellaNeural"
-        },
+        "voice": {"name": "en-GB-BellaNeural"},
         "id": "en-GB-BellaNeural",
         "displayName": "Bella",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "benigno": {
-        "voice": {
-            "name": "it-IT-BenignoNeural"
-        },
+        "voice": {"name": "it-IT-BenignoNeural"},
         "id": "it-IT-BenignoNeural",
         "displayName": "Benigno",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "bernd": {
-        "voice": {
-            "name": "de-DE-BerndNeural"
-        },
+        "voice": {"name": "de-DE-BerndNeural"},
         "id": "de-DE-BerndNeural",
         "displayName": "Bernd",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "bg-bg-borislavneural": {
-        "voice": {
-            "name": "bg-BG-BorislavNeural"
-        },
+        "voice": {"name": "bg-BG-BorislavNeural"},
         "id": "bg-BG-BorislavNeural",
         "displayName": "Borislav",
-        "locale": "bg-BG"
+        "locale": "bg-BG",
     },
     "bg-bg-kalinaneural": {
-        "voice": {
-            "name": "bg-BG-KalinaNeural"
-        },
+        "voice": {"name": "bg-BG-KalinaNeural"},
         "id": "bg-BG-KalinaNeural",
         "displayName": "Kalina",
-        "locale": "bg-BG"
+        "locale": "bg-BG",
     },
     "blessica": {
-        "voice": {
-            "name": "fil-PH-BlessicaNeural"
-        },
+        "voice": {"name": "fil-PH-BlessicaNeural"},
         "id": "fil-PH-BlessicaNeural",
         "displayName": "Blessica",
-        "locale": "fil-PH"
+        "locale": "fil-PH",
     },
     "bn-bd-nabanitaneural": {
-        "voice": {
-            "name": "bn-BD-NabanitaNeural"
-        },
+        "voice": {"name": "bn-BD-NabanitaNeural"},
         "id": "bn-BD-NabanitaNeural",
         "displayName": "Nabanita",
-        "locale": "bn-BD"
+        "locale": "bn-BD",
     },
     "bn-bd-pradeepneural": {
-        "voice": {
-            "name": "bn-BD-PradeepNeural"
-        },
+        "voice": {"name": "bn-BD-PradeepNeural"},
         "id": "bn-BD-PradeepNeural",
         "displayName": "Pradeep",
-        "locale": "bn-BD"
+        "locale": "bn-BD",
     },
     "bn-in-bashkarneural": {
-        "voice": {
-            "name": "bn-IN-BashkarNeural"
-        },
+        "voice": {"name": "bn-IN-BashkarNeural"},
         "id": "bn-IN-BashkarNeural",
         "displayName": "Bashkar",
-        "locale": "bn-IN"
+        "locale": "bn-IN",
     },
     "bn-in-tanishaaneural": {
-        "voice": {
-            "name": "bn-IN-TanishaaNeural"
-        },
+        "voice": {"name": "bn-IN-TanishaaNeural"},
         "id": "bn-IN-TanishaaNeural",
         "displayName": "Tanishaa",
-        "locale": "bn-IN"
+        "locale": "bn-IN",
     },
     "bongjin": {
-        "voice": {
-            "name": "ko-KR-BongJinNeural"
-        },
+        "voice": {"name": "ko-KR-BongJinNeural"},
         "id": "ko-KR-BongJinNeural",
         "displayName": "BongJin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "borislav": {
-        "voice": {
-            "name": "bg-BG-BorislavNeural"
-        },
+        "voice": {"name": "bg-BG-BorislavNeural"},
         "id": "bg-BG-BorislavNeural",
         "displayName": "Borislav",
-        "locale": "bg-BG"
+        "locale": "bg-BG",
     },
     "brandon": {
-        "voice": {
-            "name": "en-US-BrandonNeural"
-        },
+        "voice": {"name": "en-US-BrandonNeural"},
         "id": "en-US-BrandonNeural",
         "displayName": "Brandon",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "brandon multilingual": {
-        "voice": {
-            "name": "en-US-BrandonMultilingualNeural"
-        },
+        "voice": {"name": "en-US-BrandonMultilingualNeural"},
         "id": "en-US-BrandonMultilingualNeural",
         "displayName": "Brandon Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "brenda": {
-        "voice": {
-            "name": "pt-BR-BrendaNeural"
-        },
+        "voice": {"name": "pt-BR-BrendaNeural"},
         "id": "pt-BR-BrendaNeural",
         "displayName": "Brenda",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "brian": {
-        "voice": {
-            "name": "en-US-BrianNeural"
-        },
+        "voice": {"name": "en-US-BrianNeural"},
         "id": "en-US-BrianNeural",
         "displayName": "Brian",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "brian multilingual": {
-        "voice": {
-            "name": "en-US-BrianMultilingualNeural"
-        },
+        "voice": {"name": "en-US-BrianMultilingualNeural"},
         "id": "en-US-BrianMultilingualNeural",
         "displayName": "Brian Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "brigitte": {
-        "voice": {
-            "name": "fr-FR-BrigitteNeural"
-        },
+        "voice": {"name": "fr-FR-BrigitteNeural"},
         "id": "fr-FR-BrigitteNeural",
         "displayName": "Brigitte",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "bs-ba-goranneural": {
-        "voice": {
-            "name": "bs-BA-GoranNeural"
-        },
+        "voice": {"name": "bs-BA-GoranNeural"},
         "id": "bs-BA-GoranNeural",
         "displayName": "Goran",
-        "locale": "bs-BA"
+        "locale": "bs-BA",
     },
     "bs-ba-vesnaneural": {
-        "voice": {
-            "name": "bs-BA-VesnaNeural"
-        },
+        "voice": {"name": "bs-BA-VesnaNeural"},
         "id": "bs-BA-VesnaNeural",
         "displayName": "Vesna",
-        "locale": "bs-BA"
+        "locale": "bs-BA",
     },
     "ca-es-albaneural": {
-        "voice": {
-            "name": "ca-ES-AlbaNeural"
-        },
+        "voice": {"name": "ca-ES-AlbaNeural"},
         "id": "ca-ES-AlbaNeural",
         "displayName": "Alba",
-        "locale": "ca-ES"
+        "locale": "ca-ES",
     },
     "ca-es-enricneural": {
-        "voice": {
-            "name": "ca-ES-EnricNeural"
-        },
+        "voice": {"name": "ca-ES-EnricNeural"},
         "id": "ca-ES-EnricNeural",
         "displayName": "Enric",
-        "locale": "ca-ES"
+        "locale": "ca-ES",
     },
     "ca-es-joananeural": {
-        "voice": {
-            "name": "ca-ES-JoanaNeural"
-        },
+        "voice": {"name": "ca-ES-JoanaNeural"},
         "id": "ca-ES-JoanaNeural",
         "displayName": "Joana",
-        "locale": "ca-ES"
+        "locale": "ca-ES",
     },
     "calimero": {
-        "voice": {
-            "name": "it-IT-CalimeroNeural"
-        },
+        "voice": {"name": "it-IT-CalimeroNeural"},
         "id": "it-IT-CalimeroNeural",
         "displayName": "Calimero",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "camila": {
-        "voice": {
-            "name": "es-PE-CamilaNeural"
-        },
+        "voice": {"name": "es-PE-CamilaNeural"},
         "id": "es-PE-CamilaNeural",
         "displayName": "Camila",
-        "locale": "es-PE"
+        "locale": "es-PE",
     },
     "candela": {
-        "voice": {
-            "name": "es-MX-CandelaNeural"
-        },
+        "voice": {"name": "es-MX-CandelaNeural"},
         "id": "es-MX-CandelaNeural",
         "displayName": "Candela",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "carlos": {
-        "voice": {
-            "name": "es-HN-CarlosNeural"
-        },
+        "voice": {"name": "es-HN-CarlosNeural"},
         "id": "es-HN-CarlosNeural",
         "displayName": "Carlos",
-        "locale": "es-HN"
+        "locale": "es-HN",
     },
     "carlota": {
-        "voice": {
-            "name": "es-MX-CarlotaNeural"
-        },
+        "voice": {"name": "es-MX-CarlotaNeural"},
         "id": "es-MX-CarlotaNeural",
         "displayName": "Carlota",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "carly": {
-        "voice": {
-            "name": "en-AU-CarlyNeural"
-        },
+        "voice": {"name": "en-AU-CarlyNeural"},
         "id": "en-AU-CarlyNeural",
         "displayName": "Carly",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "cataldo": {
-        "voice": {
-            "name": "it-IT-CataldoNeural"
-        },
+        "voice": {"name": "it-IT-CataldoNeural"},
         "id": "it-IT-CataldoNeural",
         "displayName": "Cataldo",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "catalina": {
-        "voice": {
-            "name": "es-CL-CatalinaNeural"
-        },
+        "voice": {"name": "es-CL-CatalinaNeural"},
         "id": "es-CL-CatalinaNeural",
         "displayName": "Catalina",
-        "locale": "es-CL"
+        "locale": "es-CL",
     },
     "cecilio": {
-        "voice": {
-            "name": "es-MX-CecilioNeural"
-        },
+        "voice": {"name": "es-MX-CecilioNeural"},
         "id": "es-MX-CecilioNeural",
         "displayName": "Cecilio",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "celeste": {
-        "voice": {
-            "name": "fr-FR-CelesteNeural"
-        },
+        "voice": {"name": "fr-FR-CelesteNeural"},
         "id": "fr-FR-CelesteNeural",
         "displayName": "Celeste",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "chanthavong": {
-        "voice": {
-            "name": "lo-LA-ChanthavongNeural"
-        },
+        "voice": {"name": "lo-LA-ChanthavongNeural"},
         "id": "lo-LA-ChanthavongNeural",
         "displayName": "Chanthavong",
-        "locale": "lo-LA"
+        "locale": "lo-LA",
     },
     "charline": {
-        "voice": {
-            "name": "fr-BE-CharlineNeural"
-        },
+        "voice": {"name": "fr-BE-CharlineNeural"},
         "id": "fr-BE-CharlineNeural",
         "displayName": "Charline",
-        "locale": "fr-BE"
+        "locale": "fr-BE",
     },
     "chilemba": {
-        "voice": {
-            "name": "en-KE-ChilembaNeural"
-        },
+        "voice": {"name": "en-KE-ChilembaNeural"},
         "id": "en-KE-ChilembaNeural",
         "displayName": "Chilemba",
-        "locale": "en-KE"
+        "locale": "en-KE",
     },
     "christel": {
-        "voice": {
-            "name": "da-DK-ChristelNeural"
-        },
+        "voice": {"name": "da-DK-ChristelNeural"},
         "id": "da-DK-ChristelNeural",
         "displayName": "Christel",
-        "locale": "da-DK"
+        "locale": "da-DK",
     },
     "christoph": {
-        "voice": {
-            "name": "de-DE-ChristophNeural"
-        },
+        "voice": {"name": "de-DE-ChristophNeural"},
         "id": "de-DE-ChristophNeural",
         "displayName": "Christoph",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "christopher": {
-        "voice": {
-            "name": "en-US-ChristopherNeural"
-        },
+        "voice": {"name": "en-US-ChristopherNeural"},
         "id": "en-US-ChristopherNeural",
         "displayName": "Christopher",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "christopher multilingual": {
-        "voice": {
-            "name": "en-US-ChristopherMultilingualNeural"
-        },
+        "voice": {"name": "en-US-ChristopherMultilingualNeural"},
         "id": "en-US-ChristopherMultilingualNeural",
         "displayName": "Christopher Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "clara": {
-        "voice": {
-            "name": "en-CA-ClaraNeural"
-        },
+        "voice": {"name": "en-CA-ClaraNeural"},
         "id": "en-CA-ClaraNeural",
         "displayName": "Clara",
-        "locale": "en-CA"
+        "locale": "en-CA",
     },
     "claude": {
-        "voice": {
-            "name": "fr-FR-ClaudeNeural"
-        },
+        "voice": {"name": "fr-FR-ClaudeNeural"},
         "id": "fr-FR-ClaudeNeural",
         "displayName": "Claude",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "colette": {
-        "voice": {
-            "name": "nl-NL-ColetteNeural"
-        },
+        "voice": {"name": "nl-NL-ColetteNeural"},
         "id": "nl-NL-ColetteNeural",
         "displayName": "Colette",
-        "locale": "nl-NL"
+        "locale": "nl-NL",
     },
     "colm": {
-        "voice": {
-            "name": "ga-IE-ColmNeural"
-        },
+        "voice": {"name": "ga-IE-ColmNeural"},
         "id": "ga-IE-ColmNeural",
         "displayName": "Colm",
-        "locale": "ga-IE"
+        "locale": "ga-IE",
     },
     "connor": {
-        "voice": {
-            "name": "en-IE-ConnorNeural"
-        },
+        "voice": {"name": "en-IE-ConnorNeural"},
         "id": "en-IE-ConnorNeural",
         "displayName": "Connor",
-        "locale": "en-IE"
+        "locale": "en-IE",
     },
     "conrad": {
-        "voice": {
-            "name": "de-DE-ConradNeural"
-        },
+        "voice": {"name": "de-DE-ConradNeural"},
         "id": "de-DE-ConradNeural",
         "displayName": "Conrad",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "cora": {
-        "voice": {
-            "name": "en-US-CoraNeural"
-        },
+        "voice": {"name": "en-US-CoraNeural"},
         "id": "en-US-CoraNeural",
         "displayName": "Cora",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "cora multilingual": {
-        "voice": {
-            "name": "en-US-CoraMultilingualNeural"
-        },
+        "voice": {"name": "en-US-CoraMultilingualNeural"},
         "id": "en-US-CoraMultilingualNeural",
         "displayName": "Cora Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "coralie": {
-        "voice": {
-            "name": "fr-FR-CoralieNeural"
-        },
+        "voice": {"name": "fr-FR-CoralieNeural"},
         "id": "fr-FR-CoralieNeural",
         "displayName": "Coralie",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "cs-cz-antoninneural": {
-        "voice": {
-            "name": "cs-CZ-AntoninNeural"
-        },
+        "voice": {"name": "cs-CZ-AntoninNeural"},
         "id": "cs-CZ-AntoninNeural",
         "displayName": "Antonin",
-        "locale": "cs-CZ"
+        "locale": "cs-CZ",
     },
     "cs-cz-vlastaneural": {
-        "voice": {
-            "name": "cs-CZ-VlastaNeural"
-        },
+        "voice": {"name": "cs-CZ-VlastaNeural"},
         "id": "cs-CZ-VlastaNeural",
         "displayName": "Vlasta",
-        "locale": "cs-CZ"
+        "locale": "cs-CZ",
     },
     "cy-gb-aledneural": {
-        "voice": {
-            "name": "cy-GB-AledNeural"
-        },
+        "voice": {"name": "cy-GB-AledNeural"},
         "id": "cy-GB-AledNeural",
         "displayName": "Aled",
-        "locale": "cy-GB"
+        "locale": "cy-GB",
     },
     "cy-gb-nianeural": {
-        "voice": {
-            "name": "cy-GB-NiaNeural"
-        },
+        "voice": {"name": "cy-GB-NiaNeural"},
         "id": "cy-GB-NiaNeural",
         "displayName": "Nia",
-        "locale": "cy-GB"
+        "locale": "cy-GB",
     },
     "da-dk-christelneural": {
-        "voice": {
-            "name": "da-DK-ChristelNeural"
-        },
+        "voice": {"name": "da-DK-ChristelNeural"},
         "id": "da-DK-ChristelNeural",
         "displayName": "Christel",
-        "locale": "da-DK"
+        "locale": "da-DK",
     },
     "da-dk-jeppeneural": {
-        "voice": {
-            "name": "da-DK-JeppeNeural"
-        },
+        "voice": {"name": "da-DK-JeppeNeural"},
         "id": "da-DK-JeppeNeural",
         "displayName": "Jeppe",
-        "locale": "da-DK"
+        "locale": "da-DK",
     },
     "daichi": {
-        "voice": {
-            "name": "ja-JP-DaichiNeural"
-        },
+        "voice": {"name": "ja-JP-DaichiNeural"},
         "id": "ja-JP-DaichiNeural",
         "displayName": "Daichi",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "dalia": {
-        "voice": {
-            "name": "es-MX-DaliaNeural"
-        },
+        "voice": {"name": "es-MX-DaliaNeural"},
         "id": "es-MX-DaliaNeural",
         "displayName": "Dalia",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "dalia multilingual": {
-        "voice": {
-            "name": "es-MX-DaliaMultilingualNeural"
-        },
+        "voice": {"name": "es-MX-DaliaMultilingualNeural"},
         "id": "es-MX-DaliaMultilingualNeural",
         "displayName": "Dalia Multilingual",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "dario": {
-        "voice": {
-            "name": "es-ES-DarioNeural"
-        },
+        "voice": {"name": "es-ES-DarioNeural"},
         "id": "es-ES-DarioNeural",
         "displayName": "Dario",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "dariya": {
-        "voice": {
-            "name": "ru-RU-DariyaNeural"
-        },
+        "voice": {"name": "ru-RU-DariyaNeural"},
         "id": "ru-RU-DariyaNeural",
         "displayName": "Dariya",
-        "locale": "ru-RU"
+        "locale": "ru-RU",
     },
     "darren": {
-        "voice": {
-            "name": "en-AU-DarrenNeural"
-        },
+        "voice": {"name": "en-AU-DarrenNeural"},
         "id": "en-AU-DarrenNeural",
         "displayName": "Darren",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "daudi": {
-        "voice": {
-            "name": "sw-TZ-DaudiNeural"
-        },
+        "voice": {"name": "sw-TZ-DaudiNeural"},
         "id": "sw-TZ-DaudiNeural",
         "displayName": "Daudi",
-        "locale": "sw-TZ"
+        "locale": "sw-TZ",
     },
     "daulet": {
-        "voice": {
-            "name": "kk-KZ-DauletNeural"
-        },
+        "voice": {"name": "kk-KZ-DauletNeural"},
         "id": "kk-KZ-DauletNeural",
         "displayName": "Daulet",
-        "locale": "kk-KZ"
+        "locale": "kk-KZ",
     },
     "davis": {
-        "voice": {
-            "name": "en-US-DavisNeural"
-        },
+        "voice": {"name": "en-US-DavisNeural"},
         "id": "en-US-DavisNeural",
         "displayName": "Davis",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "davis multilingual": {
-        "voice": {
-            "name": "en-US-DavisMultilingualNeural"
-        },
+        "voice": {"name": "en-US-DavisMultilingualNeural"},
         "id": "en-US-DavisMultilingualNeural",
         "displayName": "Davis Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "de-at-ingridneural": {
-        "voice": {
-            "name": "de-AT-IngridNeural"
-        },
+        "voice": {"name": "de-AT-IngridNeural"},
         "id": "de-AT-IngridNeural",
         "displayName": "Ingrid",
-        "locale": "de-AT"
+        "locale": "de-AT",
     },
     "de-at-jonasneural": {
-        "voice": {
-            "name": "de-AT-JonasNeural"
-        },
+        "voice": {"name": "de-AT-JonasNeural"},
         "id": "de-AT-JonasNeural",
         "displayName": "Jonas",
-        "locale": "de-AT"
+        "locale": "de-AT",
     },
     "de-ch-janneural": {
-        "voice": {
-            "name": "de-CH-JanNeural"
-        },
+        "voice": {"name": "de-CH-JanNeural"},
         "id": "de-CH-JanNeural",
         "displayName": "Jan",
-        "locale": "de-CH"
+        "locale": "de-CH",
     },
     "de-ch-lenineural": {
-        "voice": {
-            "name": "de-CH-LeniNeural"
-        },
+        "voice": {"name": "de-CH-LeniNeural"},
         "id": "de-CH-LeniNeural",
         "displayName": "Leni",
-        "locale": "de-CH"
+        "locale": "de-CH",
     },
     "de-de-amalaneural": {
-        "voice": {
-            "name": "de-DE-AmalaNeural"
-        },
+        "voice": {"name": "de-DE-AmalaNeural"},
         "id": "de-DE-AmalaNeural",
         "displayName": "Amala",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-berndneural": {
-        "voice": {
-            "name": "de-DE-BerndNeural"
-        },
+        "voice": {"name": "de-DE-BerndNeural"},
         "id": "de-DE-BerndNeural",
         "displayName": "Bernd",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-christophneural": {
-        "voice": {
-            "name": "de-DE-ChristophNeural"
-        },
+        "voice": {"name": "de-DE-ChristophNeural"},
         "id": "de-DE-ChristophNeural",
         "displayName": "Christoph",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-conradneural": {
-        "voice": {
-            "name": "de-DE-ConradNeural"
-        },
+        "voice": {"name": "de-DE-ConradNeural"},
         "id": "de-DE-ConradNeural",
         "displayName": "Conrad",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-elkeneural": {
-        "voice": {
-            "name": "de-DE-ElkeNeural"
-        },
+        "voice": {"name": "de-DE-ElkeNeural"},
         "id": "de-DE-ElkeNeural",
         "displayName": "Elke",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-florianmultilingualneural": {
-        "voice": {
-            "name": "de-DE-FlorianMultilingualNeural"
-        },
+        "voice": {"name": "de-DE-FlorianMultilingualNeural"},
         "id": "de-DE-FlorianMultilingualNeural",
         "displayName": "Florian Multilingual",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-giselaneural": {
-        "voice": {
-            "name": "de-DE-GiselaNeural"
-        },
+        "voice": {"name": "de-DE-GiselaNeural"},
         "id": "de-DE-GiselaNeural",
         "displayName": "Gisela",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-kasperneural": {
-        "voice": {
-            "name": "de-DE-KasperNeural"
-        },
+        "voice": {"name": "de-DE-KasperNeural"},
         "id": "de-DE-KasperNeural",
         "displayName": "Kasper",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-katjaneural": {
-        "voice": {
-            "name": "de-DE-KatjaNeural"
-        },
+        "voice": {"name": "de-DE-KatjaNeural"},
         "id": "de-DE-KatjaNeural",
         "displayName": "Katja",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-killianneural": {
-        "voice": {
-            "name": "de-DE-KillianNeural"
-        },
+        "voice": {"name": "de-DE-KillianNeural"},
         "id": "de-DE-KillianNeural",
         "displayName": "Killian",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-klarissaneural": {
-        "voice": {
-            "name": "de-DE-KlarissaNeural"
-        },
+        "voice": {"name": "de-DE-KlarissaNeural"},
         "id": "de-DE-KlarissaNeural",
         "displayName": "Klarissa",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-klausneural": {
-        "voice": {
-            "name": "de-DE-KlausNeural"
-        },
+        "voice": {"name": "de-DE-KlausNeural"},
         "id": "de-DE-KlausNeural",
         "displayName": "Klaus",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-louisaneural": {
-        "voice": {
-            "name": "de-DE-LouisaNeural"
-        },
+        "voice": {"name": "de-DE-LouisaNeural"},
         "id": "de-DE-LouisaNeural",
         "displayName": "Louisa",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-majaneural": {
-        "voice": {
-            "name": "de-DE-MajaNeural"
-        },
+        "voice": {"name": "de-DE-MajaNeural"},
         "id": "de-DE-MajaNeural",
         "displayName": "Maja",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-ralfneural": {
-        "voice": {
-            "name": "de-DE-RalfNeural"
-        },
+        "voice": {"name": "de-DE-RalfNeural"},
         "id": "de-DE-RalfNeural",
         "displayName": "Ralf",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-seraphinamultilingualneural": {
-        "voice": {
-            "name": "de-DE-SeraphinaMultilingualNeural"
-        },
+        "voice": {"name": "de-DE-SeraphinaMultilingualNeural"},
         "id": "de-DE-SeraphinaMultilingualNeural",
         "displayName": "Seraphina Multilingual",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "de-de-tanjaneural": {
-        "voice": {
-            "name": "de-DE-TanjaNeural"
-        },
+        "voice": {"name": "de-DE-TanjaNeural"},
         "id": "de-DE-TanjaNeural",
         "displayName": "Tanja",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "dena": {
-        "voice": {
-            "name": "nl-BE-DenaNeural"
-        },
+        "voice": {"name": "nl-BE-DenaNeural"},
         "id": "nl-BE-DenaNeural",
         "displayName": "Dena",
-        "locale": "nl-BE"
+        "locale": "nl-BE",
     },
     "denise": {
-        "voice": {
-            "name": "fr-FR-DeniseNeural"
-        },
+        "voice": {"name": "fr-FR-DeniseNeural"},
         "id": "fr-FR-DeniseNeural",
         "displayName": "Denise",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "derek multilingual": {
-        "voice": {
-            "name": "en-US-DerekMultilingualNeural"
-        },
+        "voice": {"name": "en-US-DerekMultilingualNeural"},
         "id": "en-US-DerekMultilingualNeural",
         "displayName": "Derek Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "dhwani": {
-        "voice": {
-            "name": "gu-IN-DhwaniNeural"
-        },
+        "voice": {"name": "gu-IN-DhwaniNeural"},
         "id": "gu-IN-DhwaniNeural",
         "displayName": "Dhwani",
-        "locale": "gu-IN"
+        "locale": "gu-IN",
     },
     "diego": {
-        "voice": {
-            "name": "it-IT-DiegoNeural"
-        },
+        "voice": {"name": "it-IT-DiegoNeural"},
         "id": "it-IT-DiegoNeural",
         "displayName": "Diego",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "dilara": {
-        "voice": {
-            "name": "fa-IR-DilaraNeural"
-        },
+        "voice": {"name": "fa-IR-DilaraNeural"},
         "id": "fa-IR-DilaraNeural",
         "displayName": "Dilara",
-        "locale": "fa-IR"
+        "locale": "fa-IR",
     },
     "dimas": {
-        "voice": {
-            "name": "jv-ID-DimasNeural"
-        },
+        "voice": {"name": "jv-ID-DimasNeural"},
         "id": "jv-ID-DimasNeural",
         "displayName": "Dimas",
-        "locale": "jv-ID"
+        "locale": "jv-ID",
     },
     "dmitry": {
-        "voice": {
-            "name": "ru-RU-DmitryNeural"
-        },
+        "voice": {"name": "ru-RU-DmitryNeural"},
         "id": "ru-RU-DmitryNeural",
         "displayName": "Dmitry",
-        "locale": "ru-RU"
+        "locale": "ru-RU",
     },
     "donato": {
-        "voice": {
-            "name": "pt-BR-DonatoNeural"
-        },
+        "voice": {"name": "pt-BR-DonatoNeural"},
         "id": "pt-BR-DonatoNeural",
         "displayName": "Donato",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "duarte": {
-        "voice": {
-            "name": "pt-PT-DuarteNeural"
-        },
+        "voice": {"name": "pt-PT-DuarteNeural"},
         "id": "pt-PT-DuarteNeural",
         "displayName": "Duarte",
-        "locale": "pt-PT"
+        "locale": "pt-PT",
     },
     "duncan": {
-        "voice": {
-            "name": "en-AU-DuncanNeural"
-        },
+        "voice": {"name": "en-AU-DuncanNeural"},
         "id": "en-AU-DuncanNeural",
         "displayName": "Duncan",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "dustin multilingual": {
-        "voice": {
-            "name": "en-US-DustinMultilingualNeural"
-        },
+        "voice": {"name": "en-US-DustinMultilingualNeural"},
         "id": "en-US-DustinMultilingualNeural",
         "displayName": "Dustin Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "echo turbo multilingual": {
-        "voice": {
-            "name": "en-US-EchoTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-EchoTurboMultilingualNeural"},
         "id": "en-US-EchoTurboMultilingualNeural",
         "displayName": "Echo Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "eka": {
-        "voice": {
-            "name": "ka-GE-EkaNeural"
-        },
+        "voice": {"name": "ka-GE-EkaNeural"},
         "id": "ka-GE-EkaNeural",
         "displayName": "Eka",
-        "locale": "ka-GE"
+        "locale": "ka-GE",
     },
     "el-gr-athinaneural": {
-        "voice": {
-            "name": "el-GR-AthinaNeural"
-        },
+        "voice": {"name": "el-GR-AthinaNeural"},
         "id": "el-GR-AthinaNeural",
         "displayName": "Athina",
-        "locale": "el-GR"
+        "locale": "el-GR",
     },
     "el-gr-nestorasneural": {
-        "voice": {
-            "name": "el-GR-NestorasNeural"
-        },
+        "voice": {"name": "el-GR-NestorasNeural"},
         "id": "el-GR-NestorasNeural",
         "displayName": "Nestoras",
-        "locale": "el-GR"
+        "locale": "el-GR",
     },
     "elena": {
-        "voice": {
-            "name": "es-AR-ElenaNeural"
-        },
+        "voice": {"name": "es-AR-ElenaNeural"},
         "id": "es-AR-ElenaNeural",
         "displayName": "Elena",
-        "locale": "es-AR"
+        "locale": "es-AR",
     },
     "elias": {
-        "voice": {
-            "name": "es-ES-EliasNeural"
-        },
+        "voice": {"name": "es-ES-EliasNeural"},
         "id": "es-ES-EliasNeural",
         "displayName": "Elias",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "elimu": {
-        "voice": {
-            "name": "en-TZ-ElimuNeural"
-        },
+        "voice": {"name": "en-TZ-ElimuNeural"},
         "id": "en-TZ-ElimuNeural",
         "displayName": "Elimu",
-        "locale": "en-TZ"
+        "locale": "en-TZ",
     },
     "elizabeth": {
-        "voice": {
-            "name": "en-US-ElizabethNeural"
-        },
+        "voice": {"name": "en-US-ElizabethNeural"},
         "id": "en-US-ElizabethNeural",
         "displayName": "Elizabeth",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "elke": {
-        "voice": {
-            "name": "de-DE-ElkeNeural"
-        },
+        "voice": {"name": "de-DE-ElkeNeural"},
         "id": "de-DE-ElkeNeural",
         "displayName": "Elke",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "elliot": {
-        "voice": {
-            "name": "en-GB-ElliotNeural"
-        },
+        "voice": {"name": "en-GB-ElliotNeural"},
         "id": "en-GB-ElliotNeural",
         "displayName": "Elliot",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "eloise": {
-        "voice": {
-            "name": "fr-FR-EloiseNeural"
-        },
+        "voice": {"name": "fr-FR-EloiseNeural"},
         "id": "fr-FR-EloiseNeural",
         "displayName": "Eloise",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "elsa": {
-        "voice": {
-            "name": "it-IT-ElsaNeural"
-        },
+        "voice": {"name": "it-IT-ElsaNeural"},
         "id": "it-IT-ElsaNeural",
         "displayName": "Elsa",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "elsie": {
-        "voice": {
-            "name": "en-AU-ElsieNeural"
-        },
+        "voice": {"name": "en-AU-ElsieNeural"},
         "id": "en-AU-ElsieNeural",
         "displayName": "Elsie",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "elvira": {
-        "voice": {
-            "name": "es-ES-ElviraNeural"
-        },
+        "voice": {"name": "es-ES-ElviraNeural"},
         "id": "es-ES-ElviraNeural",
         "displayName": "Elvira",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "elza": {
-        "voice": {
-            "name": "pt-BR-ElzaNeural"
-        },
+        "voice": {"name": "pt-BR-ElzaNeural"},
         "id": "pt-BR-ElzaNeural",
         "displayName": "Elza",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "emel": {
-        "voice": {
-            "name": "tr-TR-EmelNeural"
-        },
+        "voice": {"name": "tr-TR-EmelNeural"},
         "id": "tr-TR-EmelNeural",
         "displayName": "Emel",
-        "locale": "tr-TR"
+        "locale": "tr-TR",
     },
     "emil": {
-        "voice": {
-            "name": "ro-RO-EmilNeural"
-        },
+        "voice": {"name": "ro-RO-EmilNeural"},
         "id": "ro-RO-EmilNeural",
         "displayName": "Emil",
-        "locale": "ro-RO"
+        "locale": "ro-RO",
     },
     "emilio": {
-        "voice": {
-            "name": "es-DO-EmilioNeural"
-        },
+        "voice": {"name": "es-DO-EmilioNeural"},
         "id": "es-DO-EmilioNeural",
         "displayName": "Emilio",
-        "locale": "es-DO"
+        "locale": "es-DO",
     },
     "emily": {
-        "voice": {
-            "name": "en-IE-EmilyNeural"
-        },
+        "voice": {"name": "en-IE-EmilyNeural"},
         "id": "en-IE-EmilyNeural",
         "displayName": "Emily",
-        "locale": "en-IE"
+        "locale": "en-IE",
     },
     "emma": {
-        "voice": {
-            "name": "en-US-EmmaNeural"
-        },
+        "voice": {"name": "en-US-EmmaNeural"},
         "id": "en-US-EmmaNeural",
         "displayName": "Emma",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "emma multilingual": {
-        "voice": {
-            "name": "en-US-EmmaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-EmmaMultilingualNeural"},
         "id": "en-US-EmmaMultilingualNeural",
         "displayName": "Emma Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-au-annetteneural": {
-        "voice": {
-            "name": "en-AU-AnnetteNeural"
-        },
+        "voice": {"name": "en-AU-AnnetteNeural"},
         "id": "en-AU-AnnetteNeural",
         "displayName": "Annette",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-carlyneural": {
-        "voice": {
-            "name": "en-AU-CarlyNeural"
-        },
+        "voice": {"name": "en-AU-CarlyNeural"},
         "id": "en-AU-CarlyNeural",
         "displayName": "Carly",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-darrenneural": {
-        "voice": {
-            "name": "en-AU-DarrenNeural"
-        },
+        "voice": {"name": "en-AU-DarrenNeural"},
         "id": "en-AU-DarrenNeural",
         "displayName": "Darren",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-duncanneural": {
-        "voice": {
-            "name": "en-AU-DuncanNeural"
-        },
+        "voice": {"name": "en-AU-DuncanNeural"},
         "id": "en-AU-DuncanNeural",
         "displayName": "Duncan",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-elsieneural": {
-        "voice": {
-            "name": "en-AU-ElsieNeural"
-        },
+        "voice": {"name": "en-AU-ElsieNeural"},
         "id": "en-AU-ElsieNeural",
         "displayName": "Elsie",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-freyaneural": {
-        "voice": {
-            "name": "en-AU-FreyaNeural"
-        },
+        "voice": {"name": "en-AU-FreyaNeural"},
         "id": "en-AU-FreyaNeural",
         "displayName": "Freya",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-joanneneural": {
-        "voice": {
-            "name": "en-AU-JoanneNeural"
-        },
+        "voice": {"name": "en-AU-JoanneNeural"},
         "id": "en-AU-JoanneNeural",
         "displayName": "Joanne",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-kenneural": {
-        "voice": {
-            "name": "en-AU-KenNeural"
-        },
+        "voice": {"name": "en-AU-KenNeural"},
         "id": "en-AU-KenNeural",
         "displayName": "Ken",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-kimneural": {
-        "voice": {
-            "name": "en-AU-KimNeural"
-        },
+        "voice": {"name": "en-AU-KimNeural"},
         "id": "en-AU-KimNeural",
         "displayName": "Kim",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-natashaneural": {
-        "voice": {
-            "name": "en-AU-NatashaNeural"
-        },
+        "voice": {"name": "en-AU-NatashaNeural"},
         "id": "en-AU-NatashaNeural",
         "displayName": "Natasha",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-neilneural": {
-        "voice": {
-            "name": "en-AU-NeilNeural"
-        },
+        "voice": {"name": "en-AU-NeilNeural"},
         "id": "en-AU-NeilNeural",
         "displayName": "Neil",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-timneural": {
-        "voice": {
-            "name": "en-AU-TimNeural"
-        },
+        "voice": {"name": "en-AU-TimNeural"},
         "id": "en-AU-TimNeural",
         "displayName": "Tim",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-tinaneural": {
-        "voice": {
-            "name": "en-AU-TinaNeural"
-        },
+        "voice": {"name": "en-AU-TinaNeural"},
         "id": "en-AU-TinaNeural",
         "displayName": "Tina",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-williammultilingualneural": {
-        "voice": {
-            "name": "en-AU-WilliamMultilingualNeural"
-        },
+        "voice": {"name": "en-AU-WilliamMultilingualNeural"},
         "id": "en-AU-WilliamMultilingualNeural",
         "displayName": "William Multilingual",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-au-williamneural": {
-        "voice": {
-            "name": "en-AU-WilliamNeural"
-        },
+        "voice": {"name": "en-AU-WilliamNeural"},
         "id": "en-AU-WilliamNeural",
         "displayName": "William",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "en-ca-claraneural": {
-        "voice": {
-            "name": "en-CA-ClaraNeural"
-        },
+        "voice": {"name": "en-CA-ClaraNeural"},
         "id": "en-CA-ClaraNeural",
         "displayName": "Clara",
-        "locale": "en-CA"
+        "locale": "en-CA",
     },
     "en-ca-liamneural": {
-        "voice": {
-            "name": "en-CA-LiamNeural"
-        },
+        "voice": {"name": "en-CA-LiamNeural"},
         "id": "en-CA-LiamNeural",
         "displayName": "Liam",
-        "locale": "en-CA"
+        "locale": "en-CA",
     },
     "en-gb-abbineural": {
-        "voice": {
-            "name": "en-GB-AbbiNeural"
-        },
+        "voice": {"name": "en-GB-AbbiNeural"},
         "id": "en-GB-AbbiNeural",
         "displayName": "Abbi",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-adamultilingualneural": {
-        "voice": {
-            "name": "en-GB-AdaMultilingualNeural"
-        },
+        "voice": {"name": "en-GB-AdaMultilingualNeural"},
         "id": "en-GB-AdaMultilingualNeural",
         "displayName": "Ada Multilingual",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-alfieneural": {
-        "voice": {
-            "name": "en-GB-AlfieNeural"
-        },
+        "voice": {"name": "en-GB-AlfieNeural"},
         "id": "en-GB-AlfieNeural",
         "displayName": "Alfie",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-bellaneural": {
-        "voice": {
-            "name": "en-GB-BellaNeural"
-        },
+        "voice": {"name": "en-GB-BellaNeural"},
         "id": "en-GB-BellaNeural",
         "displayName": "Bella",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-elliotneural": {
-        "voice": {
-            "name": "en-GB-ElliotNeural"
-        },
+        "voice": {"name": "en-GB-ElliotNeural"},
         "id": "en-GB-ElliotNeural",
         "displayName": "Elliot",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-ethanneural": {
-        "voice": {
-            "name": "en-GB-EthanNeural"
-        },
+        "voice": {"name": "en-GB-EthanNeural"},
         "id": "en-GB-EthanNeural",
         "displayName": "Ethan",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-hollieneural": {
-        "voice": {
-            "name": "en-GB-HollieNeural"
-        },
+        "voice": {"name": "en-GB-HollieNeural"},
         "id": "en-GB-HollieNeural",
         "displayName": "Hollie",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-libbyneural": {
-        "voice": {
-            "name": "en-GB-LibbyNeural"
-        },
+        "voice": {"name": "en-GB-LibbyNeural"},
         "id": "en-GB-LibbyNeural",
         "displayName": "Libby",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-maisieneural": {
-        "voice": {
-            "name": "en-GB-MaisieNeural"
-        },
+        "voice": {"name": "en-GB-MaisieNeural"},
         "id": "en-GB-MaisieNeural",
         "displayName": "Maisie",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-mianeural": {
-        "voice": {
-            "name": "en-GB-MiaNeural"
-        },
+        "voice": {"name": "en-GB-MiaNeural"},
         "id": "en-GB-MiaNeural",
         "displayName": "Mia",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-noahneural": {
-        "voice": {
-            "name": "en-GB-NoahNeural"
-        },
+        "voice": {"name": "en-GB-NoahNeural"},
         "id": "en-GB-NoahNeural",
         "displayName": "Noah",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-oliverneural": {
-        "voice": {
-            "name": "en-GB-OliverNeural"
-        },
+        "voice": {"name": "en-GB-OliverNeural"},
         "id": "en-GB-OliverNeural",
         "displayName": "Oliver",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-olivianeural": {
-        "voice": {
-            "name": "en-GB-OliviaNeural"
-        },
+        "voice": {"name": "en-GB-OliviaNeural"},
         "id": "en-GB-OliviaNeural",
         "displayName": "Olivia",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-olliemultilingualneural": {
-        "voice": {
-            "name": "en-GB-OllieMultilingualNeural"
-        },
+        "voice": {"name": "en-GB-OllieMultilingualNeural"},
         "id": "en-GB-OllieMultilingualNeural",
         "displayName": "Ollie Multilingual",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-ryanneural": {
-        "voice": {
-            "name": "en-GB-RyanNeural"
-        },
+        "voice": {"name": "en-GB-RyanNeural"},
         "id": "en-GB-RyanNeural",
         "displayName": "Ryan",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-sonianeural": {
-        "voice": {
-            "name": "en-GB-SoniaNeural"
-        },
+        "voice": {"name": "en-GB-SoniaNeural"},
         "id": "en-GB-SoniaNeural",
         "displayName": "Sonia",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-gb-thomasneural": {
-        "voice": {
-            "name": "en-GB-ThomasNeural"
-        },
+        "voice": {"name": "en-GB-ThomasNeural"},
         "id": "en-GB-ThomasNeural",
         "displayName": "Thomas",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "en-hk-samneural": {
-        "voice": {
-            "name": "en-HK-SamNeural"
-        },
+        "voice": {"name": "en-HK-SamNeural"},
         "id": "en-HK-SamNeural",
         "displayName": "Sam",
-        "locale": "en-HK"
+        "locale": "en-HK",
     },
     "en-hk-yanneural": {
-        "voice": {
-            "name": "en-HK-YanNeural"
-        },
+        "voice": {"name": "en-HK-YanNeural"},
         "id": "en-HK-YanNeural",
         "displayName": "Yan",
-        "locale": "en-HK"
+        "locale": "en-HK",
     },
     "en-ie-connorneural": {
-        "voice": {
-            "name": "en-IE-ConnorNeural"
-        },
+        "voice": {"name": "en-IE-ConnorNeural"},
         "id": "en-IE-ConnorNeural",
         "displayName": "Connor",
-        "locale": "en-IE"
+        "locale": "en-IE",
     },
     "en-ie-emilyneural": {
-        "voice": {
-            "name": "en-IE-EmilyNeural"
-        },
+        "voice": {"name": "en-IE-EmilyNeural"},
         "id": "en-IE-EmilyNeural",
         "displayName": "Emily",
-        "locale": "en-IE"
+        "locale": "en-IE",
     },
     "en-in-aaravneural": {
-        "voice": {
-            "name": "en-IN-AaravNeural"
-        },
+        "voice": {"name": "en-IN-AaravNeural"},
         "id": "en-IN-AaravNeural",
         "displayName": "Aarav",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-aartiindicneural": {
-        "voice": {
-            "name": "en-IN-AartiIndicNeural"
-        },
+        "voice": {"name": "en-IN-AartiIndicNeural"},
         "id": "en-IN-AartiIndicNeural",
         "displayName": "Aarti Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-aartineural": {
-        "voice": {
-            "name": "en-IN-AartiNeural"
-        },
+        "voice": {"name": "en-IN-AartiNeural"},
         "id": "en-IN-AartiNeural",
         "displayName": "Aarti",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-aashineural": {
-        "voice": {
-            "name": "en-IN-AashiNeural"
-        },
+        "voice": {"name": "en-IN-AashiNeural"},
         "id": "en-IN-AashiNeural",
         "displayName": "Aashi",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-ananyaneural": {
-        "voice": {
-            "name": "en-IN-AnanyaNeural"
-        },
+        "voice": {"name": "en-IN-AnanyaNeural"},
         "id": "en-IN-AnanyaNeural",
         "displayName": "Ananya",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-arjunindicneural": {
-        "voice": {
-            "name": "en-IN-ArjunIndicNeural"
-        },
+        "voice": {"name": "en-IN-ArjunIndicNeural"},
         "id": "en-IN-ArjunIndicNeural",
         "displayName": "Arjun Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-arjunneural": {
-        "voice": {
-            "name": "en-IN-ArjunNeural"
-        },
+        "voice": {"name": "en-IN-ArjunNeural"},
         "id": "en-IN-ArjunNeural",
         "displayName": "Arjun",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-kavyaneural": {
-        "voice": {
-            "name": "en-IN-KavyaNeural"
-        },
+        "voice": {"name": "en-IN-KavyaNeural"},
         "id": "en-IN-KavyaNeural",
         "displayName": "Kavya",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-kunalneural": {
-        "voice": {
-            "name": "en-IN-KunalNeural"
-        },
+        "voice": {"name": "en-IN-KunalNeural"},
         "id": "en-IN-KunalNeural",
         "displayName": "Kunal",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-neerjaindicneural": {
-        "voice": {
-            "name": "en-IN-NeerjaIndicNeural"
-        },
+        "voice": {"name": "en-IN-NeerjaIndicNeural"},
         "id": "en-IN-NeerjaIndicNeural",
         "displayName": "Neerja Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-neerjaneural": {
-        "voice": {
-            "name": "en-IN-NeerjaNeural"
-        },
+        "voice": {"name": "en-IN-NeerjaNeural"},
         "id": "en-IN-NeerjaNeural",
         "displayName": "Neerja",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-prabhatindicneural": {
-        "voice": {
-            "name": "en-IN-PrabhatIndicNeural"
-        },
+        "voice": {"name": "en-IN-PrabhatIndicNeural"},
         "id": "en-IN-PrabhatIndicNeural",
         "displayName": "Prabhat Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-prabhatneural": {
-        "voice": {
-            "name": "en-IN-PrabhatNeural"
-        },
+        "voice": {"name": "en-IN-PrabhatNeural"},
         "id": "en-IN-PrabhatNeural",
         "displayName": "Prabhat",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-in-rehaanneural": {
-        "voice": {
-            "name": "en-IN-RehaanNeural"
-        },
+        "voice": {"name": "en-IN-RehaanNeural"},
         "id": "en-IN-RehaanNeural",
         "displayName": "Rehaan",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "en-ke-asilianeural": {
-        "voice": {
-            "name": "en-KE-AsiliaNeural"
-        },
+        "voice": {"name": "en-KE-AsiliaNeural"},
         "id": "en-KE-AsiliaNeural",
         "displayName": "Asilia",
-        "locale": "en-KE"
+        "locale": "en-KE",
     },
     "en-ke-chilembaneural": {
-        "voice": {
-            "name": "en-KE-ChilembaNeural"
-        },
+        "voice": {"name": "en-KE-ChilembaNeural"},
         "id": "en-KE-ChilembaNeural",
         "displayName": "Chilemba",
-        "locale": "en-KE"
+        "locale": "en-KE",
     },
     "en-ng-abeoneural": {
-        "voice": {
-            "name": "en-NG-AbeoNeural"
-        },
+        "voice": {"name": "en-NG-AbeoNeural"},
         "id": "en-NG-AbeoNeural",
         "displayName": "Abeo",
-        "locale": "en-NG"
+        "locale": "en-NG",
     },
     "en-ng-ezinneneural": {
-        "voice": {
-            "name": "en-NG-EzinneNeural"
-        },
+        "voice": {"name": "en-NG-EzinneNeural"},
         "id": "en-NG-EzinneNeural",
         "displayName": "Ezinne",
-        "locale": "en-NG"
+        "locale": "en-NG",
     },
     "en-nz-mitchellneural": {
-        "voice": {
-            "name": "en-NZ-MitchellNeural"
-        },
+        "voice": {"name": "en-NZ-MitchellNeural"},
         "id": "en-NZ-MitchellNeural",
         "displayName": "Mitchell",
-        "locale": "en-NZ"
+        "locale": "en-NZ",
     },
     "en-nz-mollyneural": {
-        "voice": {
-            "name": "en-NZ-MollyNeural"
-        },
+        "voice": {"name": "en-NZ-MollyNeural"},
         "id": "en-NZ-MollyNeural",
         "displayName": "Molly",
-        "locale": "en-NZ"
+        "locale": "en-NZ",
     },
     "en-ph-jamesneural": {
-        "voice": {
-            "name": "en-PH-JamesNeural"
-        },
+        "voice": {"name": "en-PH-JamesNeural"},
         "id": "en-PH-JamesNeural",
         "displayName": "James",
-        "locale": "en-PH"
+        "locale": "en-PH",
     },
     "en-ph-rosaneural": {
-        "voice": {
-            "name": "en-PH-RosaNeural"
-        },
+        "voice": {"name": "en-PH-RosaNeural"},
         "id": "en-PH-RosaNeural",
         "displayName": "Rosa",
-        "locale": "en-PH"
+        "locale": "en-PH",
     },
     "en-sg-lunaneural": {
-        "voice": {
-            "name": "en-SG-LunaNeural"
-        },
+        "voice": {"name": "en-SG-LunaNeural"},
         "id": "en-SG-LunaNeural",
         "displayName": "Luna",
-        "locale": "en-SG"
+        "locale": "en-SG",
     },
     "en-sg-wayneneural": {
-        "voice": {
-            "name": "en-SG-WayneNeural"
-        },
+        "voice": {"name": "en-SG-WayneNeural"},
         "id": "en-SG-WayneNeural",
         "displayName": "Wayne",
-        "locale": "en-SG"
+        "locale": "en-SG",
     },
     "en-tz-elimuneural": {
-        "voice": {
-            "name": "en-TZ-ElimuNeural"
-        },
+        "voice": {"name": "en-TZ-ElimuNeural"},
         "id": "en-TZ-ElimuNeural",
         "displayName": "Elimu",
-        "locale": "en-TZ"
+        "locale": "en-TZ",
     },
     "en-tz-imanineural": {
-        "voice": {
-            "name": "en-TZ-ImaniNeural"
-        },
+        "voice": {"name": "en-TZ-ImaniNeural"},
         "id": "en-TZ-ImaniNeural",
         "displayName": "Imani",
-        "locale": "en-TZ"
+        "locale": "en-TZ",
     },
     "en-us-adammultilingualneural": {
-        "voice": {
-            "name": "en-US-AdamMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AdamMultilingualNeural"},
         "id": "en-US-AdamMultilingualNeural",
         "displayName": "Adam Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-alloyturbomultilingualneural": {
-        "voice": {
-            "name": "en-US-AlloyTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AlloyTurboMultilingualNeural"},
         "id": "en-US-AlloyTurboMultilingualNeural",
         "displayName": "Alloy Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-amandamultilingualneural": {
-        "voice": {
-            "name": "en-US-AmandaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AmandaMultilingualNeural"},
         "id": "en-US-AmandaMultilingualNeural",
         "displayName": "Amanda Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-amberneural": {
-        "voice": {
-            "name": "en-US-AmberNeural"
-        },
+        "voice": {"name": "en-US-AmberNeural"},
         "id": "en-US-AmberNeural",
         "displayName": "Amber",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-ananeural": {
-        "voice": {
-            "name": "en-US-AnaNeural"
-        },
+        "voice": {"name": "en-US-AnaNeural"},
         "id": "en-US-AnaNeural",
         "displayName": "Ana",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-andrewmultilingualneural": {
-        "voice": {
-            "name": "en-US-AndrewMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AndrewMultilingualNeural"},
         "id": "en-US-AndrewMultilingualNeural",
         "displayName": "Andrew Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-andrewneural": {
-        "voice": {
-            "name": "en-US-AndrewNeural"
-        },
+        "voice": {"name": "en-US-AndrewNeural"},
         "id": "en-US-AndrewNeural",
         "displayName": "Andrew",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-arianeural": {
-        "voice": {
-            "name": "en-US-AriaNeural"
-        },
+        "voice": {"name": "en-US-AriaNeural"},
         "id": "en-US-AriaNeural",
         "displayName": "Aria",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-ashleyneural": {
-        "voice": {
-            "name": "en-US-AshleyNeural"
-        },
+        "voice": {"name": "en-US-AshleyNeural"},
         "id": "en-US-AshleyNeural",
         "displayName": "Ashley",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-avamultilingualneural": {
-        "voice": {
-            "name": "en-US-AvaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-AvaMultilingualNeural"},
         "id": "en-US-AvaMultilingualNeural",
         "displayName": "Ava Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-avaneural": {
-        "voice": {
-            "name": "en-US-AvaNeural"
-        },
+        "voice": {"name": "en-US-AvaNeural"},
         "id": "en-US-AvaNeural",
         "displayName": "Ava",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-brandonmultilingualneural": {
-        "voice": {
-            "name": "en-US-BrandonMultilingualNeural"
-        },
+        "voice": {"name": "en-US-BrandonMultilingualNeural"},
         "id": "en-US-BrandonMultilingualNeural",
         "displayName": "Brandon Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-brandonneural": {
-        "voice": {
-            "name": "en-US-BrandonNeural"
-        },
+        "voice": {"name": "en-US-BrandonNeural"},
         "id": "en-US-BrandonNeural",
         "displayName": "Brandon",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-brianmultilingualneural": {
-        "voice": {
-            "name": "en-US-BrianMultilingualNeural"
-        },
+        "voice": {"name": "en-US-BrianMultilingualNeural"},
         "id": "en-US-BrianMultilingualNeural",
         "displayName": "Brian Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-brianneural": {
-        "voice": {
-            "name": "en-US-BrianNeural"
-        },
+        "voice": {"name": "en-US-BrianNeural"},
         "id": "en-US-BrianNeural",
         "displayName": "Brian",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-christophermultilingualneural": {
-        "voice": {
-            "name": "en-US-ChristopherMultilingualNeural"
-        },
+        "voice": {"name": "en-US-ChristopherMultilingualNeural"},
         "id": "en-US-ChristopherMultilingualNeural",
         "displayName": "Christopher Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-christopherneural": {
-        "voice": {
-            "name": "en-US-ChristopherNeural"
-        },
+        "voice": {"name": "en-US-ChristopherNeural"},
         "id": "en-US-ChristopherNeural",
         "displayName": "Christopher",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-coramultilingualneural": {
-        "voice": {
-            "name": "en-US-CoraMultilingualNeural"
-        },
+        "voice": {"name": "en-US-CoraMultilingualNeural"},
         "id": "en-US-CoraMultilingualNeural",
         "displayName": "Cora Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-coraneural": {
-        "voice": {
-            "name": "en-US-CoraNeural"
-        },
+        "voice": {"name": "en-US-CoraNeural"},
         "id": "en-US-CoraNeural",
         "displayName": "Cora",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-davismultilingualneural": {
-        "voice": {
-            "name": "en-US-DavisMultilingualNeural"
-        },
+        "voice": {"name": "en-US-DavisMultilingualNeural"},
         "id": "en-US-DavisMultilingualNeural",
         "displayName": "Davis Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-davisneural": {
-        "voice": {
-            "name": "en-US-DavisNeural"
-        },
+        "voice": {"name": "en-US-DavisNeural"},
         "id": "en-US-DavisNeural",
         "displayName": "Davis",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-derekmultilingualneural": {
-        "voice": {
-            "name": "en-US-DerekMultilingualNeural"
-        },
+        "voice": {"name": "en-US-DerekMultilingualNeural"},
         "id": "en-US-DerekMultilingualNeural",
         "displayName": "Derek Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-dustinmultilingualneural": {
-        "voice": {
-            "name": "en-US-DustinMultilingualNeural"
-        },
+        "voice": {"name": "en-US-DustinMultilingualNeural"},
         "id": "en-US-DustinMultilingualNeural",
         "displayName": "Dustin Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-echoturbomultilingualneural": {
-        "voice": {
-            "name": "en-US-EchoTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-EchoTurboMultilingualNeural"},
         "id": "en-US-EchoTurboMultilingualNeural",
         "displayName": "Echo Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-elizabethneural": {
-        "voice": {
-            "name": "en-US-ElizabethNeural"
-        },
+        "voice": {"name": "en-US-ElizabethNeural"},
         "id": "en-US-ElizabethNeural",
         "displayName": "Elizabeth",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-emmamultilingualneural": {
-        "voice": {
-            "name": "en-US-EmmaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-EmmaMultilingualNeural"},
         "id": "en-US-EmmaMultilingualNeural",
         "displayName": "Emma Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-emmaneural": {
-        "voice": {
-            "name": "en-US-EmmaNeural"
-        },
+        "voice": {"name": "en-US-EmmaNeural"},
         "id": "en-US-EmmaNeural",
         "displayName": "Emma",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-ericneural": {
-        "voice": {
-            "name": "en-US-EricNeural"
-        },
+        "voice": {"name": "en-US-EricNeural"},
         "id": "en-US-EricNeural",
         "displayName": "Eric",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-fableturbomultilingualneural": {
-        "voice": {
-            "name": "en-US-FableTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-FableTurboMultilingualNeural"},
         "id": "en-US-FableTurboMultilingualNeural",
         "displayName": "Fable Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-guyneural": {
-        "voice": {
-            "name": "en-US-GuyNeural"
-        },
+        "voice": {"name": "en-US-GuyNeural"},
         "id": "en-US-GuyNeural",
         "displayName": "Guy",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-jacobneural": {
-        "voice": {
-            "name": "en-US-JacobNeural"
-        },
+        "voice": {"name": "en-US-JacobNeural"},
         "id": "en-US-JacobNeural",
         "displayName": "Jacob",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-janeneural": {
-        "voice": {
-            "name": "en-US-JaneNeural"
-        },
+        "voice": {"name": "en-US-JaneNeural"},
         "id": "en-US-JaneNeural",
         "displayName": "Jane",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-jasonneural": {
-        "voice": {
-            "name": "en-US-JasonNeural"
-        },
+        "voice": {"name": "en-US-JasonNeural"},
         "id": "en-US-JasonNeural",
         "displayName": "Jason",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-jennymultilingualneural": {
-        "voice": {
-            "name": "en-US-JennyMultilingualNeural"
-        },
+        "voice": {"name": "en-US-JennyMultilingualNeural"},
         "id": "en-US-JennyMultilingualNeural",
         "displayName": "Jenny Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-jennyneural": {
-        "voice": {
-            "name": "en-US-JennyNeural"
-        },
+        "voice": {"name": "en-US-JennyNeural"},
         "id": "en-US-JennyNeural",
         "displayName": "Jenny",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-kaineural": {
-        "voice": {
-            "name": "en-US-KaiNeural"
-        },
+        "voice": {"name": "en-US-KaiNeural"},
         "id": "en-US-KaiNeural",
         "displayName": "Kai",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-lewismultilingualneural": {
-        "voice": {
-            "name": "en-US-LewisMultilingualNeural"
-        },
+        "voice": {"name": "en-US-LewisMultilingualNeural"},
         "id": "en-US-LewisMultilingualNeural",
         "displayName": "Lewis Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-lolamultilingualneural": {
-        "voice": {
-            "name": "en-US-LolaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-LolaMultilingualNeural"},
         "id": "en-US-LolaMultilingualNeural",
         "displayName": "Lola Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-lunaneural": {
-        "voice": {
-            "name": "en-US-LunaNeural"
-        },
+        "voice": {"name": "en-US-LunaNeural"},
         "id": "en-US-LunaNeural",
         "displayName": "Luna",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-michelleneural": {
-        "voice": {
-            "name": "en-US-MichelleNeural"
-        },
+        "voice": {"name": "en-US-MichelleNeural"},
         "id": "en-US-MichelleNeural",
         "displayName": "Michelle",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-monicaneural": {
-        "voice": {
-            "name": "en-US-MonicaNeural"
-        },
+        "voice": {"name": "en-US-MonicaNeural"},
         "id": "en-US-MonicaNeural",
         "displayName": "Monica",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-nancymultilingualneural": {
-        "voice": {
-            "name": "en-US-NancyMultilingualNeural"
-        },
+        "voice": {"name": "en-US-NancyMultilingualNeural"},
         "id": "en-US-NancyMultilingualNeural",
         "displayName": "Nancy Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-nancyneural": {
-        "voice": {
-            "name": "en-US-NancyNeural"
-        },
+        "voice": {"name": "en-US-NancyNeural"},
         "id": "en-US-NancyNeural",
         "displayName": "Nancy",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-novaturbomultilingualneural": {
-        "voice": {
-            "name": "en-US-NovaTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-NovaTurboMultilingualNeural"},
         "id": "en-US-NovaTurboMultilingualNeural",
         "displayName": "Nova Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-onyxturbomultilingualneural": {
-        "voice": {
-            "name": "en-US-OnyxTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-OnyxTurboMultilingualNeural"},
         "id": "en-US-OnyxTurboMultilingualNeural",
         "displayName": "Onyx Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-phoebemultilingualneural": {
-        "voice": {
-            "name": "en-US-PhoebeMultilingualNeural"
-        },
+        "voice": {"name": "en-US-PhoebeMultilingualNeural"},
         "id": "en-US-PhoebeMultilingualNeural",
         "displayName": "Phoebe Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-rogerneural": {
-        "voice": {
-            "name": "en-US-RogerNeural"
-        },
+        "voice": {"name": "en-US-RogerNeural"},
         "id": "en-US-RogerNeural",
         "displayName": "Roger",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-ryanmultilingualneural": {
-        "voice": {
-            "name": "en-US-RyanMultilingualNeural"
-        },
+        "voice": {"name": "en-US-RyanMultilingualNeural"},
         "id": "en-US-RyanMultilingualNeural",
         "displayName": "Ryan Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-samuelmultilingualneural": {
-        "voice": {
-            "name": "en-US-SamuelMultilingualNeural"
-        },
+        "voice": {"name": "en-US-SamuelMultilingualNeural"},
         "id": "en-US-SamuelMultilingualNeural",
         "displayName": "Samuel Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-saraneural": {
-        "voice": {
-            "name": "en-US-SaraNeural"
-        },
+        "voice": {"name": "en-US-SaraNeural"},
         "id": "en-US-SaraNeural",
         "displayName": "Sara",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-serenamultilingualneural": {
-        "voice": {
-            "name": "en-US-SerenaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-SerenaMultilingualNeural"},
         "id": "en-US-SerenaMultilingualNeural",
         "displayName": "Serena Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-shimmerturbomultilingualneural": {
-        "voice": {
-            "name": "en-US-ShimmerTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-ShimmerTurboMultilingualNeural"},
         "id": "en-US-ShimmerTurboMultilingualNeural",
         "displayName": "Shimmer Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-steffanmultilingualneural": {
-        "voice": {
-            "name": "en-US-SteffanMultilingualNeural"
-        },
+        "voice": {"name": "en-US-SteffanMultilingualNeural"},
         "id": "en-US-SteffanMultilingualNeural",
         "displayName": "Steffan Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-steffanneural": {
-        "voice": {
-            "name": "en-US-SteffanNeural"
-        },
+        "voice": {"name": "en-US-SteffanNeural"},
         "id": "en-US-SteffanNeural",
         "displayName": "Steffan",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-us-tonyneural": {
-        "voice": {
-            "name": "en-US-TonyNeural"
-        },
+        "voice": {"name": "en-US-TonyNeural"},
         "id": "en-US-TonyNeural",
         "displayName": "Tony",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "en-za-leahneural": {
-        "voice": {
-            "name": "en-ZA-LeahNeural"
-        },
+        "voice": {"name": "en-ZA-LeahNeural"},
         "id": "en-ZA-LeahNeural",
         "displayName": "Leah",
-        "locale": "en-ZA"
+        "locale": "en-ZA",
     },
     "en-za-lukeneural": {
-        "voice": {
-            "name": "en-ZA-LukeNeural"
-        },
+        "voice": {"name": "en-ZA-LukeNeural"},
         "id": "en-ZA-LukeNeural",
         "displayName": "Luke",
-        "locale": "en-ZA"
+        "locale": "en-ZA",
     },
     "enric": {
-        "voice": {
-            "name": "ca-ES-EnricNeural"
-        },
+        "voice": {"name": "ca-ES-EnricNeural"},
         "id": "ca-ES-EnricNeural",
         "displayName": "Enric",
-        "locale": "ca-ES"
+        "locale": "ca-ES",
     },
     "eric": {
-        "voice": {
-            "name": "en-US-EricNeural"
-        },
+        "voice": {"name": "en-US-EricNeural"},
         "id": "en-US-EricNeural",
         "displayName": "Eric",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "es-ar-elenaneural": {
-        "voice": {
-            "name": "es-AR-ElenaNeural"
-        },
+        "voice": {"name": "es-AR-ElenaNeural"},
         "id": "es-AR-ElenaNeural",
         "displayName": "Elena",
-        "locale": "es-AR"
+        "locale": "es-AR",
     },
     "es-ar-tomasneural": {
-        "voice": {
-            "name": "es-AR-TomasNeural"
-        },
+        "voice": {"name": "es-AR-TomasNeural"},
         "id": "es-AR-TomasNeural",
         "displayName": "Tomas",
-        "locale": "es-AR"
+        "locale": "es-AR",
     },
     "es-bo-marceloneural": {
-        "voice": {
-            "name": "es-BO-MarceloNeural"
-        },
+        "voice": {"name": "es-BO-MarceloNeural"},
         "id": "es-BO-MarceloNeural",
         "displayName": "Marcelo",
-        "locale": "es-BO"
+        "locale": "es-BO",
     },
     "es-bo-sofianeural": {
-        "voice": {
-            "name": "es-BO-SofiaNeural"
-        },
+        "voice": {"name": "es-BO-SofiaNeural"},
         "id": "es-BO-SofiaNeural",
         "displayName": "Sofia",
-        "locale": "es-BO"
+        "locale": "es-BO",
     },
     "es-cl-catalinaneural": {
-        "voice": {
-            "name": "es-CL-CatalinaNeural"
-        },
+        "voice": {"name": "es-CL-CatalinaNeural"},
         "id": "es-CL-CatalinaNeural",
         "displayName": "Catalina",
-        "locale": "es-CL"
+        "locale": "es-CL",
     },
     "es-cl-lorenzoneural": {
-        "voice": {
-            "name": "es-CL-LorenzoNeural"
-        },
+        "voice": {"name": "es-CL-LorenzoNeural"},
         "id": "es-CL-LorenzoNeural",
         "displayName": "Lorenzo",
-        "locale": "es-CL"
+        "locale": "es-CL",
     },
     "es-co-gonzaloneural": {
-        "voice": {
-            "name": "es-CO-GonzaloNeural"
-        },
+        "voice": {"name": "es-CO-GonzaloNeural"},
         "id": "es-CO-GonzaloNeural",
         "displayName": "Gonzalo",
-        "locale": "es-CO"
+        "locale": "es-CO",
     },
     "es-co-salomeneural": {
-        "voice": {
-            "name": "es-CO-SalomeNeural"
-        },
+        "voice": {"name": "es-CO-SalomeNeural"},
         "id": "es-CO-SalomeNeural",
         "displayName": "Salome",
-        "locale": "es-CO"
+        "locale": "es-CO",
     },
     "es-cr-juanneural": {
-        "voice": {
-            "name": "es-CR-JuanNeural"
-        },
+        "voice": {"name": "es-CR-JuanNeural"},
         "id": "es-CR-JuanNeural",
         "displayName": "Juan",
-        "locale": "es-CR"
+        "locale": "es-CR",
     },
     "es-cr-marianeural": {
-        "voice": {
-            "name": "es-CR-MariaNeural"
-        },
+        "voice": {"name": "es-CR-MariaNeural"},
         "id": "es-CR-MariaNeural",
         "displayName": "Maria",
-        "locale": "es-CR"
+        "locale": "es-CR",
     },
     "es-cu-belkysneural": {
-        "voice": {
-            "name": "es-CU-BelkysNeural"
-        },
+        "voice": {"name": "es-CU-BelkysNeural"},
         "id": "es-CU-BelkysNeural",
         "displayName": "Belkys",
-        "locale": "es-CU"
+        "locale": "es-CU",
     },
     "es-cu-manuelneural": {
-        "voice": {
-            "name": "es-CU-ManuelNeural"
-        },
+        "voice": {"name": "es-CU-ManuelNeural"},
         "id": "es-CU-ManuelNeural",
         "displayName": "Manuel",
-        "locale": "es-CU"
+        "locale": "es-CU",
     },
     "es-do-emilioneural": {
-        "voice": {
-            "name": "es-DO-EmilioNeural"
-        },
+        "voice": {"name": "es-DO-EmilioNeural"},
         "id": "es-DO-EmilioNeural",
         "displayName": "Emilio",
-        "locale": "es-DO"
+        "locale": "es-DO",
     },
     "es-do-ramonaneural": {
-        "voice": {
-            "name": "es-DO-RamonaNeural"
-        },
+        "voice": {"name": "es-DO-RamonaNeural"},
         "id": "es-DO-RamonaNeural",
         "displayName": "Ramona",
-        "locale": "es-DO"
+        "locale": "es-DO",
     },
     "es-ec-andreaneural": {
-        "voice": {
-            "name": "es-EC-AndreaNeural"
-        },
+        "voice": {"name": "es-EC-AndreaNeural"},
         "id": "es-EC-AndreaNeural",
         "displayName": "Andrea",
-        "locale": "es-EC"
+        "locale": "es-EC",
     },
     "es-ec-luisneural": {
-        "voice": {
-            "name": "es-EC-LuisNeural"
-        },
+        "voice": {"name": "es-EC-LuisNeural"},
         "id": "es-EC-LuisNeural",
         "displayName": "Luis",
-        "locale": "es-EC"
+        "locale": "es-EC",
     },
     "es-es-abrilneural": {
-        "voice": {
-            "name": "es-ES-AbrilNeural"
-        },
+        "voice": {"name": "es-ES-AbrilNeural"},
         "id": "es-ES-AbrilNeural",
         "displayName": "Abril",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-alvaroneural": {
-        "voice": {
-            "name": "es-ES-AlvaroNeural"
-        },
+        "voice": {"name": "es-ES-AlvaroNeural"},
         "id": "es-ES-AlvaroNeural",
         "displayName": "Alvaro",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-arabellamultilingualneural": {
-        "voice": {
-            "name": "es-ES-ArabellaMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-ArabellaMultilingualNeural"},
         "id": "es-ES-ArabellaMultilingualNeural",
         "displayName": "Arabella Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-arnauneural": {
-        "voice": {
-            "name": "es-ES-ArnauNeural"
-        },
+        "voice": {"name": "es-ES-ArnauNeural"},
         "id": "es-ES-ArnauNeural",
         "displayName": "Arnau",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-darioneural": {
-        "voice": {
-            "name": "es-ES-DarioNeural"
-        },
+        "voice": {"name": "es-ES-DarioNeural"},
         "id": "es-ES-DarioNeural",
         "displayName": "Dario",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-eliasneural": {
-        "voice": {
-            "name": "es-ES-EliasNeural"
-        },
+        "voice": {"name": "es-ES-EliasNeural"},
         "id": "es-ES-EliasNeural",
         "displayName": "Elias",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-elviraneural": {
-        "voice": {
-            "name": "es-ES-ElviraNeural"
-        },
+        "voice": {"name": "es-ES-ElviraNeural"},
         "id": "es-ES-ElviraNeural",
         "displayName": "Elvira",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-estrellaneural": {
-        "voice": {
-            "name": "es-ES-EstrellaNeural"
-        },
+        "voice": {"name": "es-ES-EstrellaNeural"},
         "id": "es-ES-EstrellaNeural",
         "displayName": "Estrella",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-ireneneural": {
-        "voice": {
-            "name": "es-ES-IreneNeural"
-        },
+        "voice": {"name": "es-ES-IreneNeural"},
         "id": "es-ES-IreneNeural",
         "displayName": "Irene",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-isidoramultilingualneural": {
-        "voice": {
-            "name": "es-ES-IsidoraMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-IsidoraMultilingualNeural"},
         "id": "es-ES-IsidoraMultilingualNeural",
         "displayName": "Isidora Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-laianeural": {
-        "voice": {
-            "name": "es-ES-LaiaNeural"
-        },
+        "voice": {"name": "es-ES-LaiaNeural"},
         "id": "es-ES-LaiaNeural",
         "displayName": "Laia",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-lianeural": {
-        "voice": {
-            "name": "es-ES-LiaNeural"
-        },
+        "voice": {"name": "es-ES-LiaNeural"},
         "id": "es-ES-LiaNeural",
         "displayName": "Lia",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-nilneural": {
-        "voice": {
-            "name": "es-ES-NilNeural"
-        },
+        "voice": {"name": "es-ES-NilNeural"},
         "id": "es-ES-NilNeural",
         "displayName": "Nil",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-saulneural": {
-        "voice": {
-            "name": "es-ES-SaulNeural"
-        },
+        "voice": {"name": "es-ES-SaulNeural"},
         "id": "es-ES-SaulNeural",
         "displayName": "Saul",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-teoneural": {
-        "voice": {
-            "name": "es-ES-TeoNeural"
-        },
+        "voice": {"name": "es-ES-TeoNeural"},
         "id": "es-ES-TeoNeural",
         "displayName": "Teo",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-triananeural": {
-        "voice": {
-            "name": "es-ES-TrianaNeural"
-        },
+        "voice": {"name": "es-ES-TrianaNeural"},
         "id": "es-ES-TrianaNeural",
         "displayName": "Triana",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-tristanmultilingualneural": {
-        "voice": {
-            "name": "es-ES-TristanMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-TristanMultilingualNeural"},
         "id": "es-ES-TristanMultilingualNeural",
         "displayName": "Tristan Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-veraneural": {
-        "voice": {
-            "name": "es-ES-VeraNeural"
-        },
+        "voice": {"name": "es-ES-VeraNeural"},
         "id": "es-ES-VeraNeural",
         "displayName": "Vera",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-ximenamultilingualneural": {
-        "voice": {
-            "name": "es-ES-XimenaMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-XimenaMultilingualNeural"},
         "id": "es-ES-XimenaMultilingualNeural",
         "displayName": "Ximena Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-es-ximenaneural": {
-        "voice": {
-            "name": "es-ES-XimenaNeural"
-        },
+        "voice": {"name": "es-ES-XimenaNeural"},
         "id": "es-ES-XimenaNeural",
         "displayName": "Ximena",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "es-gq-javierneural": {
-        "voice": {
-            "name": "es-GQ-JavierNeural"
-        },
+        "voice": {"name": "es-GQ-JavierNeural"},
         "id": "es-GQ-JavierNeural",
         "displayName": "Javier",
-        "locale": "es-GQ"
+        "locale": "es-GQ",
     },
     "es-gq-teresaneural": {
-        "voice": {
-            "name": "es-GQ-TeresaNeural"
-        },
+        "voice": {"name": "es-GQ-TeresaNeural"},
         "id": "es-GQ-TeresaNeural",
         "displayName": "Teresa",
-        "locale": "es-GQ"
+        "locale": "es-GQ",
     },
     "es-gt-andresneural": {
-        "voice": {
-            "name": "es-GT-AndresNeural"
-        },
+        "voice": {"name": "es-GT-AndresNeural"},
         "id": "es-GT-AndresNeural",
         "displayName": "Andres",
-        "locale": "es-GT"
+        "locale": "es-GT",
     },
     "es-gt-martaneural": {
-        "voice": {
-            "name": "es-GT-MartaNeural"
-        },
+        "voice": {"name": "es-GT-MartaNeural"},
         "id": "es-GT-MartaNeural",
         "displayName": "Marta",
-        "locale": "es-GT"
+        "locale": "es-GT",
     },
     "es-hn-carlosneural": {
-        "voice": {
-            "name": "es-HN-CarlosNeural"
-        },
+        "voice": {"name": "es-HN-CarlosNeural"},
         "id": "es-HN-CarlosNeural",
         "displayName": "Carlos",
-        "locale": "es-HN"
+        "locale": "es-HN",
     },
     "es-hn-karlaneural": {
-        "voice": {
-            "name": "es-HN-KarlaNeural"
-        },
+        "voice": {"name": "es-HN-KarlaNeural"},
         "id": "es-HN-KarlaNeural",
         "displayName": "Karla",
-        "locale": "es-HN"
+        "locale": "es-HN",
     },
     "es-mx-beatrizneural": {
-        "voice": {
-            "name": "es-MX-BeatrizNeural"
-        },
+        "voice": {"name": "es-MX-BeatrizNeural"},
         "id": "es-MX-BeatrizNeural",
         "displayName": "Beatriz",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-candelaneural": {
-        "voice": {
-            "name": "es-MX-CandelaNeural"
-        },
+        "voice": {"name": "es-MX-CandelaNeural"},
         "id": "es-MX-CandelaNeural",
         "displayName": "Candela",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-carlotaneural": {
-        "voice": {
-            "name": "es-MX-CarlotaNeural"
-        },
+        "voice": {"name": "es-MX-CarlotaNeural"},
         "id": "es-MX-CarlotaNeural",
         "displayName": "Carlota",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-cecilioneural": {
-        "voice": {
-            "name": "es-MX-CecilioNeural"
-        },
+        "voice": {"name": "es-MX-CecilioNeural"},
         "id": "es-MX-CecilioNeural",
         "displayName": "Cecilio",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-daliamultilingualneural": {
-        "voice": {
-            "name": "es-MX-DaliaMultilingualNeural"
-        },
+        "voice": {"name": "es-MX-DaliaMultilingualNeural"},
         "id": "es-MX-DaliaMultilingualNeural",
         "displayName": "Dalia Multilingual",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-dalianeural": {
-        "voice": {
-            "name": "es-MX-DaliaNeural"
-        },
+        "voice": {"name": "es-MX-DaliaNeural"},
         "id": "es-MX-DaliaNeural",
         "displayName": "Dalia",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-gerardoneural": {
-        "voice": {
-            "name": "es-MX-GerardoNeural"
-        },
+        "voice": {"name": "es-MX-GerardoNeural"},
         "id": "es-MX-GerardoNeural",
         "displayName": "Gerardo",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-jorgemultilingualneural": {
-        "voice": {
-            "name": "es-MX-JorgeMultilingualNeural"
-        },
+        "voice": {"name": "es-MX-JorgeMultilingualNeural"},
         "id": "es-MX-JorgeMultilingualNeural",
         "displayName": "Jorge Multilingual",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-jorgeneural": {
-        "voice": {
-            "name": "es-MX-JorgeNeural"
-        },
+        "voice": {"name": "es-MX-JorgeNeural"},
         "id": "es-MX-JorgeNeural",
         "displayName": "Jorge",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-larissaneural": {
-        "voice": {
-            "name": "es-MX-LarissaNeural"
-        },
+        "voice": {"name": "es-MX-LarissaNeural"},
         "id": "es-MX-LarissaNeural",
         "displayName": "Larissa",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-libertoneural": {
-        "voice": {
-            "name": "es-MX-LibertoNeural"
-        },
+        "voice": {"name": "es-MX-LibertoNeural"},
         "id": "es-MX-LibertoNeural",
         "displayName": "Liberto",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-lucianoneural": {
-        "voice": {
-            "name": "es-MX-LucianoNeural"
-        },
+        "voice": {"name": "es-MX-LucianoNeural"},
         "id": "es-MX-LucianoNeural",
         "displayName": "Luciano",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-marinaneural": {
-        "voice": {
-            "name": "es-MX-MarinaNeural"
-        },
+        "voice": {"name": "es-MX-MarinaNeural"},
         "id": "es-MX-MarinaNeural",
         "displayName": "Marina",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-nurianeural": {
-        "voice": {
-            "name": "es-MX-NuriaNeural"
-        },
+        "voice": {"name": "es-MX-NuriaNeural"},
         "id": "es-MX-NuriaNeural",
         "displayName": "Nuria",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-pelayoneural": {
-        "voice": {
-            "name": "es-MX-PelayoNeural"
-        },
+        "voice": {"name": "es-MX-PelayoNeural"},
         "id": "es-MX-PelayoNeural",
         "displayName": "Pelayo",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-renataneural": {
-        "voice": {
-            "name": "es-MX-RenataNeural"
-        },
+        "voice": {"name": "es-MX-RenataNeural"},
         "id": "es-MX-RenataNeural",
         "displayName": "Renata",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-mx-yagoneural": {
-        "voice": {
-            "name": "es-MX-YagoNeural"
-        },
+        "voice": {"name": "es-MX-YagoNeural"},
         "id": "es-MX-YagoNeural",
         "displayName": "Yago",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "es-ni-federiconeural": {
-        "voice": {
-            "name": "es-NI-FedericoNeural"
-        },
+        "voice": {"name": "es-NI-FedericoNeural"},
         "id": "es-NI-FedericoNeural",
         "displayName": "Federico",
-        "locale": "es-NI"
+        "locale": "es-NI",
     },
     "es-ni-yolandaneural": {
-        "voice": {
-            "name": "es-NI-YolandaNeural"
-        },
+        "voice": {"name": "es-NI-YolandaNeural"},
         "id": "es-NI-YolandaNeural",
         "displayName": "Yolanda",
-        "locale": "es-NI"
+        "locale": "es-NI",
     },
     "es-pa-margaritaneural": {
-        "voice": {
-            "name": "es-PA-MargaritaNeural"
-        },
+        "voice": {"name": "es-PA-MargaritaNeural"},
         "id": "es-PA-MargaritaNeural",
         "displayName": "Margarita",
-        "locale": "es-PA"
+        "locale": "es-PA",
     },
     "es-pa-robertoneural": {
-        "voice": {
-            "name": "es-PA-RobertoNeural"
-        },
+        "voice": {"name": "es-PA-RobertoNeural"},
         "id": "es-PA-RobertoNeural",
         "displayName": "Roberto",
-        "locale": "es-PA"
+        "locale": "es-PA",
     },
     "es-pe-alexneural": {
-        "voice": {
-            "name": "es-PE-AlexNeural"
-        },
+        "voice": {"name": "es-PE-AlexNeural"},
         "id": "es-PE-AlexNeural",
         "displayName": "Alex",
-        "locale": "es-PE"
+        "locale": "es-PE",
     },
     "es-pe-camilaneural": {
-        "voice": {
-            "name": "es-PE-CamilaNeural"
-        },
+        "voice": {"name": "es-PE-CamilaNeural"},
         "id": "es-PE-CamilaNeural",
         "displayName": "Camila",
-        "locale": "es-PE"
+        "locale": "es-PE",
     },
     "es-pr-karinaneural": {
-        "voice": {
-            "name": "es-PR-KarinaNeural"
-        },
+        "voice": {"name": "es-PR-KarinaNeural"},
         "id": "es-PR-KarinaNeural",
         "displayName": "Karina",
-        "locale": "es-PR"
+        "locale": "es-PR",
     },
     "es-pr-victorneural": {
-        "voice": {
-            "name": "es-PR-VictorNeural"
-        },
+        "voice": {"name": "es-PR-VictorNeural"},
         "id": "es-PR-VictorNeural",
         "displayName": "Victor",
-        "locale": "es-PR"
+        "locale": "es-PR",
     },
     "es-py-marioneural": {
-        "voice": {
-            "name": "es-PY-MarioNeural"
-        },
+        "voice": {"name": "es-PY-MarioNeural"},
         "id": "es-PY-MarioNeural",
         "displayName": "Mario",
-        "locale": "es-PY"
+        "locale": "es-PY",
     },
     "es-py-tanianeural": {
-        "voice": {
-            "name": "es-PY-TaniaNeural"
-        },
+        "voice": {"name": "es-PY-TaniaNeural"},
         "id": "es-PY-TaniaNeural",
         "displayName": "Tania",
-        "locale": "es-PY"
+        "locale": "es-PY",
     },
     "es-sv-lorenaneural": {
-        "voice": {
-            "name": "es-SV-LorenaNeural"
-        },
+        "voice": {"name": "es-SV-LorenaNeural"},
         "id": "es-SV-LorenaNeural",
         "displayName": "Lorena",
-        "locale": "es-SV"
+        "locale": "es-SV",
     },
     "es-sv-rodrigoneural": {
-        "voice": {
-            "name": "es-SV-RodrigoNeural"
-        },
+        "voice": {"name": "es-SV-RodrigoNeural"},
         "id": "es-SV-RodrigoNeural",
         "displayName": "Rodrigo",
-        "locale": "es-SV"
+        "locale": "es-SV",
     },
     "es-us-alonsoneural": {
-        "voice": {
-            "name": "es-US-AlonsoNeural"
-        },
+        "voice": {"name": "es-US-AlonsoNeural"},
         "id": "es-US-AlonsoNeural",
         "displayName": "Alonso",
-        "locale": "es-US"
+        "locale": "es-US",
     },
     "es-us-palomaneural": {
-        "voice": {
-            "name": "es-US-PalomaNeural"
-        },
+        "voice": {"name": "es-US-PalomaNeural"},
         "id": "es-US-PalomaNeural",
         "displayName": "Paloma",
-        "locale": "es-US"
+        "locale": "es-US",
     },
     "es-uy-mateoneural": {
-        "voice": {
-            "name": "es-UY-MateoNeural"
-        },
+        "voice": {"name": "es-UY-MateoNeural"},
         "id": "es-UY-MateoNeural",
         "displayName": "Mateo",
-        "locale": "es-UY"
+        "locale": "es-UY",
     },
     "es-uy-valentinaneural": {
-        "voice": {
-            "name": "es-UY-ValentinaNeural"
-        },
+        "voice": {"name": "es-UY-ValentinaNeural"},
         "id": "es-UY-ValentinaNeural",
         "displayName": "Valentina",
-        "locale": "es-UY"
+        "locale": "es-UY",
     },
     "es-ve-paolaneural": {
-        "voice": {
-            "name": "es-VE-PaolaNeural"
-        },
+        "voice": {"name": "es-VE-PaolaNeural"},
         "id": "es-VE-PaolaNeural",
         "displayName": "Paola",
-        "locale": "es-VE"
+        "locale": "es-VE",
     },
     "es-ve-sebastianneural": {
-        "voice": {
-            "name": "es-VE-SebastianNeural"
-        },
+        "voice": {"name": "es-VE-SebastianNeural"},
         "id": "es-VE-SebastianNeural",
         "displayName": "Sebastian",
-        "locale": "es-VE"
+        "locale": "es-VE",
     },
     "estrella": {
-        "voice": {
-            "name": "es-ES-EstrellaNeural"
-        },
+        "voice": {"name": "es-ES-EstrellaNeural"},
         "id": "es-ES-EstrellaNeural",
         "displayName": "Estrella",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "et-ee-anuneural": {
-        "voice": {
-            "name": "et-EE-AnuNeural"
-        },
+        "voice": {"name": "et-EE-AnuNeural"},
         "id": "et-EE-AnuNeural",
         "displayName": "Anu",
-        "locale": "et-EE"
+        "locale": "et-EE",
     },
     "et-ee-kertneural": {
-        "voice": {
-            "name": "et-EE-KertNeural"
-        },
+        "voice": {"name": "et-EE-KertNeural"},
         "id": "et-EE-KertNeural",
         "displayName": "Kert",
-        "locale": "et-EE"
+        "locale": "et-EE",
     },
     "ethan": {
-        "voice": {
-            "name": "en-GB-EthanNeural"
-        },
+        "voice": {"name": "en-GB-EthanNeural"},
         "id": "en-GB-EthanNeural",
         "displayName": "Ethan",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "eu-es-ainhoaneural": {
-        "voice": {
-            "name": "eu-ES-AinhoaNeural"
-        },
+        "voice": {"name": "eu-ES-AinhoaNeural"},
         "id": "eu-ES-AinhoaNeural",
         "displayName": "Ainhoa",
-        "locale": "eu-ES"
+        "locale": "eu-ES",
     },
     "eu-es-anderneural": {
-        "voice": {
-            "name": "eu-ES-AnderNeural"
-        },
+        "voice": {"name": "eu-ES-AnderNeural"},
         "id": "eu-ES-AnderNeural",
         "displayName": "Ander",
-        "locale": "eu-ES"
+        "locale": "eu-ES",
     },
     "everita": {
-        "voice": {
-            "name": "lv-LV-EveritaNeural"
-        },
+        "voice": {"name": "lv-LV-EveritaNeural"},
         "id": "lv-LV-EveritaNeural",
         "displayName": "Everita",
-        "locale": "lv-LV"
+        "locale": "lv-LV",
     },
     "ezinne": {
-        "voice": {
-            "name": "en-NG-EzinneNeural"
-        },
+        "voice": {"name": "en-NG-EzinneNeural"},
         "id": "en-NG-EzinneNeural",
         "displayName": "Ezinne",
-        "locale": "en-NG"
+        "locale": "en-NG",
     },
     "fa-ir-dilaraneural": {
-        "voice": {
-            "name": "fa-IR-DilaraNeural"
-        },
+        "voice": {"name": "fa-IR-DilaraNeural"},
         "id": "fa-IR-DilaraNeural",
         "displayName": "Dilara",
-        "locale": "fa-IR"
+        "locale": "fa-IR",
     },
     "fa-ir-faridneural": {
-        "voice": {
-            "name": "fa-IR-FaridNeural"
-        },
+        "voice": {"name": "fa-IR-FaridNeural"},
         "id": "fa-IR-FaridNeural",
         "displayName": "Farid",
-        "locale": "fa-IR"
+        "locale": "fa-IR",
     },
     "fabio": {
-        "voice": {
-            "name": "pt-BR-FabioNeural"
-        },
+        "voice": {"name": "pt-BR-FabioNeural"},
         "id": "pt-BR-FabioNeural",
         "displayName": "Fabio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "fabiola": {
-        "voice": {
-            "name": "it-IT-FabiolaNeural"
-        },
+        "voice": {"name": "it-IT-FabiolaNeural"},
         "id": "it-IT-FabiolaNeural",
         "displayName": "Fabiola",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "fable turbo multilingual": {
-        "voice": {
-            "name": "en-US-FableTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-FableTurboMultilingualNeural"},
         "id": "en-US-FableTurboMultilingualNeural",
         "displayName": "Fable Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "fabrice": {
-        "voice": {
-            "name": "fr-CH-FabriceNeural"
-        },
+        "voice": {"name": "fr-CH-FabriceNeural"},
         "id": "fr-CH-FabriceNeural",
         "displayName": "Fabrice",
-        "locale": "fr-CH"
+        "locale": "fr-CH",
     },
     "fahed": {
-        "voice": {
-            "name": "ar-KW-FahedNeural"
-        },
+        "voice": {"name": "ar-KW-FahedNeural"},
         "id": "ar-KW-FahedNeural",
         "displayName": "Fahed",
-        "locale": "ar-KW"
+        "locale": "ar-KW",
     },
     "farid": {
-        "voice": {
-            "name": "fa-IR-FaridNeural"
-        },
+        "voice": {"name": "fa-IR-FaridNeural"},
         "id": "fa-IR-FaridNeural",
         "displayName": "Farid",
-        "locale": "fa-IR"
+        "locale": "fa-IR",
     },
     "fatima": {
-        "voice": {
-            "name": "ar-AE-FatimaNeural"
-        },
+        "voice": {"name": "ar-AE-FatimaNeural"},
         "id": "ar-AE-FatimaNeural",
         "displayName": "Fatima",
-        "locale": "ar-AE"
+        "locale": "ar-AE",
     },
     "federico": {
-        "voice": {
-            "name": "es-NI-FedericoNeural"
-        },
+        "voice": {"name": "es-NI-FedericoNeural"},
         "id": "es-NI-FedericoNeural",
         "displayName": "Federico",
-        "locale": "es-NI"
+        "locale": "es-NI",
     },
     "fenna": {
-        "voice": {
-            "name": "nl-NL-FennaNeural"
-        },
+        "voice": {"name": "nl-NL-FennaNeural"},
         "id": "nl-NL-FennaNeural",
         "displayName": "Fenna",
-        "locale": "nl-NL"
+        "locale": "nl-NL",
     },
     "fernanda": {
-        "voice": {
-            "name": "pt-PT-FernandaNeural"
-        },
+        "voice": {"name": "pt-PT-FernandaNeural"},
         "id": "pt-PT-FernandaNeural",
         "displayName": "Fernanda",
-        "locale": "pt-PT"
+        "locale": "pt-PT",
     },
     "fi-fi-harrineural": {
-        "voice": {
-            "name": "fi-FI-HarriNeural"
-        },
+        "voice": {"name": "fi-FI-HarriNeural"},
         "id": "fi-FI-HarriNeural",
         "displayName": "Harri",
-        "locale": "fi-FI"
+        "locale": "fi-FI",
     },
     "fi-fi-nooraneural": {
-        "voice": {
-            "name": "fi-FI-NooraNeural"
-        },
+        "voice": {"name": "fi-FI-NooraNeural"},
         "id": "fi-FI-NooraNeural",
         "displayName": "Noora",
-        "locale": "fi-FI"
+        "locale": "fi-FI",
     },
     "fi-fi-selmaneural": {
-        "voice": {
-            "name": "fi-FI-SelmaNeural"
-        },
+        "voice": {"name": "fi-FI-SelmaNeural"},
         "id": "fi-FI-SelmaNeural",
         "displayName": "Selma",
-        "locale": "fi-FI"
+        "locale": "fi-FI",
     },
     "fiamma": {
-        "voice": {
-            "name": "it-IT-FiammaNeural"
-        },
+        "voice": {"name": "it-IT-FiammaNeural"},
         "id": "it-IT-FiammaNeural",
         "displayName": "Fiamma",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "fil-ph-angeloneural": {
-        "voice": {
-            "name": "fil-PH-AngeloNeural"
-        },
+        "voice": {"name": "fil-PH-AngeloNeural"},
         "id": "fil-PH-AngeloNeural",
         "displayName": "Angelo",
-        "locale": "fil-PH"
+        "locale": "fil-PH",
     },
     "fil-ph-blessicaneural": {
-        "voice": {
-            "name": "fil-PH-BlessicaNeural"
-        },
+        "voice": {"name": "fil-PH-BlessicaNeural"},
         "id": "fil-PH-BlessicaNeural",
         "displayName": "Blessica",
-        "locale": "fil-PH"
+        "locale": "fil-PH",
     },
     "finn": {
-        "voice": {
-            "name": "nb-NO-FinnNeural"
-        },
+        "voice": {"name": "nb-NO-FinnNeural"},
         "id": "nb-NO-FinnNeural",
         "displayName": "Finn",
-        "locale": "nb-NO"
+        "locale": "nb-NO",
     },
     "florian multilingual": {
-        "voice": {
-            "name": "de-DE-FlorianMultilingualNeural"
-        },
+        "voice": {"name": "de-DE-FlorianMultilingualNeural"},
         "id": "de-DE-FlorianMultilingualNeural",
         "displayName": "Florian Multilingual",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "fr-be-charlineneural": {
-        "voice": {
-            "name": "fr-BE-CharlineNeural"
-        },
+        "voice": {"name": "fr-BE-CharlineNeural"},
         "id": "fr-BE-CharlineNeural",
         "displayName": "Charline",
-        "locale": "fr-BE"
+        "locale": "fr-BE",
     },
     "fr-be-gerardneural": {
-        "voice": {
-            "name": "fr-BE-GerardNeural"
-        },
+        "voice": {"name": "fr-BE-GerardNeural"},
         "id": "fr-BE-GerardNeural",
         "displayName": "Gerard",
-        "locale": "fr-BE"
+        "locale": "fr-BE",
     },
     "fr-ca-antoineneural": {
-        "voice": {
-            "name": "fr-CA-AntoineNeural"
-        },
+        "voice": {"name": "fr-CA-AntoineNeural"},
         "id": "fr-CA-AntoineNeural",
         "displayName": "Antoine",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "fr-ca-jeanneural": {
-        "voice": {
-            "name": "fr-CA-JeanNeural"
-        },
+        "voice": {"name": "fr-CA-JeanNeural"},
         "id": "fr-CA-JeanNeural",
         "displayName": "Jean",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "fr-ca-sylvieneural": {
-        "voice": {
-            "name": "fr-CA-SylvieNeural"
-        },
+        "voice": {"name": "fr-CA-SylvieNeural"},
         "id": "fr-CA-SylvieNeural",
         "displayName": "Sylvie",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "fr-ca-thierryneural": {
-        "voice": {
-            "name": "fr-CA-ThierryNeural"
-        },
+        "voice": {"name": "fr-CA-ThierryNeural"},
         "id": "fr-CA-ThierryNeural",
         "displayName": "Thierry",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "fr-ch-arianeneural": {
-        "voice": {
-            "name": "fr-CH-ArianeNeural"
-        },
+        "voice": {"name": "fr-CH-ArianeNeural"},
         "id": "fr-CH-ArianeNeural",
         "displayName": "Ariane",
-        "locale": "fr-CH"
+        "locale": "fr-CH",
     },
     "fr-ch-fabriceneural": {
-        "voice": {
-            "name": "fr-CH-FabriceNeural"
-        },
+        "voice": {"name": "fr-CH-FabriceNeural"},
         "id": "fr-CH-FabriceNeural",
         "displayName": "Fabrice",
-        "locale": "fr-CH"
+        "locale": "fr-CH",
     },
     "fr-fr-alainneural": {
-        "voice": {
-            "name": "fr-FR-AlainNeural"
-        },
+        "voice": {"name": "fr-FR-AlainNeural"},
         "id": "fr-FR-AlainNeural",
         "displayName": "Alain",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-brigitteneural": {
-        "voice": {
-            "name": "fr-FR-BrigitteNeural"
-        },
+        "voice": {"name": "fr-FR-BrigitteNeural"},
         "id": "fr-FR-BrigitteNeural",
         "displayName": "Brigitte",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-celesteneural": {
-        "voice": {
-            "name": "fr-FR-CelesteNeural"
-        },
+        "voice": {"name": "fr-FR-CelesteNeural"},
         "id": "fr-FR-CelesteNeural",
         "displayName": "Celeste",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-claudeneural": {
-        "voice": {
-            "name": "fr-FR-ClaudeNeural"
-        },
+        "voice": {"name": "fr-FR-ClaudeNeural"},
         "id": "fr-FR-ClaudeNeural",
         "displayName": "Claude",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-coralieneural": {
-        "voice": {
-            "name": "fr-FR-CoralieNeural"
-        },
+        "voice": {"name": "fr-FR-CoralieNeural"},
         "id": "fr-FR-CoralieNeural",
         "displayName": "Coralie",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-deniseneural": {
-        "voice": {
-            "name": "fr-FR-DeniseNeural"
-        },
+        "voice": {"name": "fr-FR-DeniseNeural"},
         "id": "fr-FR-DeniseNeural",
         "displayName": "Denise",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-eloiseneural": {
-        "voice": {
-            "name": "fr-FR-EloiseNeural"
-        },
+        "voice": {"name": "fr-FR-EloiseNeural"},
         "id": "fr-FR-EloiseNeural",
         "displayName": "Eloise",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-henrineural": {
-        "voice": {
-            "name": "fr-FR-HenriNeural"
-        },
+        "voice": {"name": "fr-FR-HenriNeural"},
         "id": "fr-FR-HenriNeural",
         "displayName": "Henri",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-jacquelineneural": {
-        "voice": {
-            "name": "fr-FR-JacquelineNeural"
-        },
+        "voice": {"name": "fr-FR-JacquelineNeural"},
         "id": "fr-FR-JacquelineNeural",
         "displayName": "Jacqueline",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-jeromeneural": {
-        "voice": {
-            "name": "fr-FR-JeromeNeural"
-        },
+        "voice": {"name": "fr-FR-JeromeNeural"},
         "id": "fr-FR-JeromeNeural",
         "displayName": "Jerome",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-josephineneural": {
-        "voice": {
-            "name": "fr-FR-JosephineNeural"
-        },
+        "voice": {"name": "fr-FR-JosephineNeural"},
         "id": "fr-FR-JosephineNeural",
         "displayName": "Josephine",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-lucienmultilingualneural": {
-        "voice": {
-            "name": "fr-FR-LucienMultilingualNeural"
-        },
+        "voice": {"name": "fr-FR-LucienMultilingualNeural"},
         "id": "fr-FR-LucienMultilingualNeural",
         "displayName": "Lucien Multilingual",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-mauriceneural": {
-        "voice": {
-            "name": "fr-FR-MauriceNeural"
-        },
+        "voice": {"name": "fr-FR-MauriceNeural"},
         "id": "fr-FR-MauriceNeural",
         "displayName": "Maurice",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-remymultilingualneural": {
-        "voice": {
-            "name": "fr-FR-RemyMultilingualNeural"
-        },
+        "voice": {"name": "fr-FR-RemyMultilingualNeural"},
         "id": "fr-FR-RemyMultilingualNeural",
         "displayName": "Remy Multilingual",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-viviennemultilingualneural": {
-        "voice": {
-            "name": "fr-FR-VivienneMultilingualNeural"
-        },
+        "voice": {"name": "fr-FR-VivienneMultilingualNeural"},
         "id": "fr-FR-VivienneMultilingualNeural",
         "displayName": "Vivienne Multilingual",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-yvesneural": {
-        "voice": {
-            "name": "fr-FR-YvesNeural"
-        },
+        "voice": {"name": "fr-FR-YvesNeural"},
         "id": "fr-FR-YvesNeural",
         "displayName": "Yves",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "fr-fr-yvetteneural": {
-        "voice": {
-            "name": "fr-FR-YvetteNeural"
-        },
+        "voice": {"name": "fr-FR-YvetteNeural"},
         "id": "fr-FR-YvetteNeural",
         "displayName": "Yvette",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "francisca": {
-        "voice": {
-            "name": "pt-BR-FranciscaNeural"
-        },
+        "voice": {"name": "pt-BR-FranciscaNeural"},
         "id": "pt-BR-FranciscaNeural",
         "displayName": "Francisca",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "freya": {
-        "voice": {
-            "name": "en-AU-FreyaNeural"
-        },
+        "voice": {"name": "en-AU-FreyaNeural"},
         "id": "en-AU-FreyaNeural",
         "displayName": "Freya",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "ga-ie-colmneural": {
-        "voice": {
-            "name": "ga-IE-ColmNeural"
-        },
+        "voice": {"name": "ga-IE-ColmNeural"},
         "id": "ga-IE-ColmNeural",
         "displayName": "Colm",
-        "locale": "ga-IE"
+        "locale": "ga-IE",
     },
     "ga-ie-orlaneural": {
-        "voice": {
-            "name": "ga-IE-OrlaNeural"
-        },
+        "voice": {"name": "ga-IE-OrlaNeural"},
         "id": "ga-IE-OrlaNeural",
         "displayName": "Orla",
-        "locale": "ga-IE"
+        "locale": "ga-IE",
     },
     "gabrijela": {
-        "voice": {
-            "name": "hr-HR-GabrijelaNeural"
-        },
+        "voice": {"name": "hr-HR-GabrijelaNeural"},
         "id": "hr-HR-GabrijelaNeural",
         "displayName": "Gabrijela",
-        "locale": "hr-HR"
+        "locale": "hr-HR",
     },
     "gadis": {
-        "voice": {
-            "name": "id-ID-GadisNeural"
-        },
+        "voice": {"name": "id-ID-GadisNeural"},
         "id": "id-ID-GadisNeural",
         "displayName": "Gadis",
-        "locale": "id-ID"
+        "locale": "id-ID",
     },
     "gagan": {
-        "voice": {
-            "name": "kn-IN-GaganNeural"
-        },
+        "voice": {"name": "kn-IN-GaganNeural"},
         "id": "kn-IN-GaganNeural",
         "displayName": "Gagan",
-        "locale": "kn-IN"
+        "locale": "kn-IN",
     },
     "gerard": {
-        "voice": {
-            "name": "fr-BE-GerardNeural"
-        },
+        "voice": {"name": "fr-BE-GerardNeural"},
         "id": "fr-BE-GerardNeural",
         "displayName": "Gerard",
-        "locale": "fr-BE"
+        "locale": "fr-BE",
     },
     "gerardo": {
-        "voice": {
-            "name": "es-MX-GerardoNeural"
-        },
+        "voice": {"name": "es-MX-GerardoNeural"},
         "id": "es-MX-GerardoNeural",
         "displayName": "Gerardo",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "gianni": {
-        "voice": {
-            "name": "it-IT-GianniNeural"
-        },
+        "voice": {"name": "it-IT-GianniNeural"},
         "id": "it-IT-GianniNeural",
         "displayName": "Gianni",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "giorgi": {
-        "voice": {
-            "name": "ka-GE-GiorgiNeural"
-        },
+        "voice": {"name": "ka-GE-GiorgiNeural"},
         "id": "ka-GE-GiorgiNeural",
         "displayName": "Giorgi",
-        "locale": "ka-GE"
+        "locale": "ka-GE",
     },
     "giovanna": {
-        "voice": {
-            "name": "pt-BR-GiovannaNeural"
-        },
+        "voice": {"name": "pt-BR-GiovannaNeural"},
         "id": "pt-BR-GiovannaNeural",
         "displayName": "Giovanna",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "gisela": {
-        "voice": {
-            "name": "de-DE-GiselaNeural"
-        },
+        "voice": {"name": "de-DE-GiselaNeural"},
         "id": "de-DE-GiselaNeural",
         "displayName": "Gisela",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "giuseppe": {
-        "voice": {
-            "name": "it-IT-GiuseppeNeural"
-        },
+        "voice": {"name": "it-IT-GiuseppeNeural"},
         "id": "it-IT-GiuseppeNeural",
         "displayName": "Giuseppe",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "giuseppe multilingual": {
-        "voice": {
-            "name": "it-IT-GiuseppeMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-GiuseppeMultilingualNeural"},
         "id": "it-IT-GiuseppeMultilingualNeural",
         "displayName": "Giuseppe Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "gl-es-roineural": {
-        "voice": {
-            "name": "gl-ES-RoiNeural"
-        },
+        "voice": {"name": "gl-ES-RoiNeural"},
         "id": "gl-ES-RoiNeural",
         "displayName": "Roi",
-        "locale": "gl-ES"
+        "locale": "gl-ES",
     },
     "gl-es-sabelaneural": {
-        "voice": {
-            "name": "gl-ES-SabelaNeural"
-        },
+        "voice": {"name": "gl-ES-SabelaNeural"},
         "id": "gl-ES-SabelaNeural",
         "displayName": "Sabela",
-        "locale": "gl-ES"
+        "locale": "gl-ES",
     },
     "gonzalo": {
-        "voice": {
-            "name": "es-CO-GonzaloNeural"
-        },
+        "voice": {"name": "es-CO-GonzaloNeural"},
         "id": "es-CO-GonzaloNeural",
         "displayName": "Gonzalo",
-        "locale": "es-CO"
+        "locale": "es-CO",
     },
     "gookmin": {
-        "voice": {
-            "name": "ko-KR-GookMinNeural"
-        },
+        "voice": {"name": "ko-KR-GookMinNeural"},
         "id": "ko-KR-GookMinNeural",
         "displayName": "GookMin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "goran": {
-        "voice": {
-            "name": "bs-BA-GoranNeural"
-        },
+        "voice": {"name": "bs-BA-GoranNeural"},
         "id": "bs-BA-GoranNeural",
         "displayName": "Goran",
-        "locale": "bs-BA"
+        "locale": "bs-BA",
     },
     "grace": {
-        "voice": {
-            "name": "mt-MT-GraceNeural"
-        },
+        "voice": {"name": "mt-MT-GraceNeural"},
         "id": "mt-MT-GraceNeural",
         "displayName": "Grace",
-        "locale": "mt-MT"
+        "locale": "mt-MT",
     },
     "gu-in-dhwanineural": {
-        "voice": {
-            "name": "gu-IN-DhwaniNeural"
-        },
+        "voice": {"name": "gu-IN-DhwaniNeural"},
         "id": "gu-IN-DhwaniNeural",
         "displayName": "Dhwani",
-        "locale": "gu-IN"
+        "locale": "gu-IN",
     },
     "gu-in-niranjanneural": {
-        "voice": {
-            "name": "gu-IN-NiranjanNeural"
-        },
+        "voice": {"name": "gu-IN-NiranjanNeural"},
         "id": "gu-IN-NiranjanNeural",
         "displayName": "Niranjan",
-        "locale": "gu-IN"
+        "locale": "gu-IN",
     },
     "gudrun": {
-        "voice": {
-            "name": "is-IS-GudrunNeural"
-        },
+        "voice": {"name": "is-IS-GudrunNeural"},
         "id": "is-IS-GudrunNeural",
         "displayName": "Gudrun",
-        "locale": "is-IS"
+        "locale": "is-IS",
     },
     "gul": {
-        "voice": {
-            "name": "ur-IN-GulNeural"
-        },
+        "voice": {"name": "ur-IN-GulNeural"},
         "id": "ur-IN-GulNeural",
         "displayName": "Gul",
-        "locale": "ur-IN"
+        "locale": "ur-IN",
     },
     "gul nawaz": {
-        "voice": {
-            "name": "ps-AF-GulNawazNeural"
-        },
+        "voice": {"name": "ps-AF-GulNawazNeural"},
         "id": "ps-AF-GulNawazNeural",
         "displayName": "Gul Nawaz",
-        "locale": "ps-AF"
+        "locale": "ps-AF",
     },
     "gunnar": {
-        "voice": {
-            "name": "is-IS-GunnarNeural"
-        },
+        "voice": {"name": "is-IS-GunnarNeural"},
         "id": "is-IS-GunnarNeural",
         "displayName": "Gunnar",
-        "locale": "is-IS"
+        "locale": "is-IS",
     },
     "guy": {
-        "voice": {
-            "name": "en-US-GuyNeural"
-        },
+        "voice": {"name": "en-US-GuyNeural"},
         "id": "en-US-GuyNeural",
         "displayName": "Guy",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "hamdan": {
-        "voice": {
-            "name": "ar-AE-HamdanNeural"
-        },
+        "voice": {"name": "ar-AE-HamdanNeural"},
         "id": "ar-AE-HamdanNeural",
         "displayName": "Hamdan",
-        "locale": "ar-AE"
+        "locale": "ar-AE",
     },
     "hamed": {
-        "voice": {
-            "name": "ar-SA-HamedNeural"
-        },
+        "voice": {"name": "ar-SA-HamedNeural"},
         "id": "ar-SA-HamedNeural",
         "displayName": "Hamed",
-        "locale": "ar-SA"
+        "locale": "ar-SA",
     },
     "harri": {
-        "voice": {
-            "name": "fi-FI-HarriNeural"
-        },
+        "voice": {"name": "fi-FI-HarriNeural"},
         "id": "fi-FI-HarriNeural",
         "displayName": "Harri",
-        "locale": "fi-FI"
+        "locale": "fi-FI",
     },
     "hayk": {
-        "voice": {
-            "name": "hy-AM-HaykNeural"
-        },
+        "voice": {"name": "hy-AM-HaykNeural"},
         "id": "hy-AM-HaykNeural",
         "displayName": "Hayk",
-        "locale": "hy-AM"
+        "locale": "hy-AM",
     },
     "he-il-avrineural": {
-        "voice": {
-            "name": "he-IL-AvriNeural"
-        },
+        "voice": {"name": "he-IL-AvriNeural"},
         "id": "he-IL-AvriNeural",
         "displayName": "Avri",
-        "locale": "he-IL"
+        "locale": "he-IL",
     },
     "he-il-hilaneural": {
-        "voice": {
-            "name": "he-IL-HilaNeural"
-        },
+        "voice": {"name": "he-IL-HilaNeural"},
         "id": "he-IL-HilaNeural",
         "displayName": "Hila",
-        "locale": "he-IL"
+        "locale": "he-IL",
     },
     "hedi": {
-        "voice": {
-            "name": "ar-TN-HediNeural"
-        },
+        "voice": {"name": "ar-TN-HediNeural"},
         "id": "ar-TN-HediNeural",
         "displayName": "Hedi",
-        "locale": "ar-TN"
+        "locale": "ar-TN",
     },
     "hemkala": {
-        "voice": {
-            "name": "ne-NP-HemkalaNeural"
-        },
+        "voice": {"name": "ne-NP-HemkalaNeural"},
         "id": "ne-NP-HemkalaNeural",
         "displayName": "Hemkala",
-        "locale": "ne-NP"
+        "locale": "ne-NP",
     },
     "henri": {
-        "voice": {
-            "name": "fr-FR-HenriNeural"
-        },
+        "voice": {"name": "fr-FR-HenriNeural"},
         "id": "fr-FR-HenriNeural",
         "displayName": "Henri",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "hi-in-aaravneural": {
-        "voice": {
-            "name": "hi-IN-AaravNeural"
-        },
+        "voice": {"name": "hi-IN-AaravNeural"},
         "id": "hi-IN-AaravNeural",
         "displayName": "Aarav",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-aartineural": {
-        "voice": {
-            "name": "hi-IN-AartiNeural"
-        },
+        "voice": {"name": "hi-IN-AartiNeural"},
         "id": "hi-IN-AartiNeural",
         "displayName": "Aarti",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-ananyaneural": {
-        "voice": {
-            "name": "hi-IN-AnanyaNeural"
-        },
+        "voice": {"name": "hi-IN-AnanyaNeural"},
         "id": "hi-IN-AnanyaNeural",
         "displayName": "Ananya",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-arjunneural": {
-        "voice": {
-            "name": "hi-IN-ArjunNeural"
-        },
+        "voice": {"name": "hi-IN-ArjunNeural"},
         "id": "hi-IN-ArjunNeural",
         "displayName": "Arjun",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-kavyaneural": {
-        "voice": {
-            "name": "hi-IN-KavyaNeural"
-        },
+        "voice": {"name": "hi-IN-KavyaNeural"},
         "id": "hi-IN-KavyaNeural",
         "displayName": "Kavya",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-kunalneural": {
-        "voice": {
-            "name": "hi-IN-KunalNeural"
-        },
+        "voice": {"name": "hi-IN-KunalNeural"},
         "id": "hi-IN-KunalNeural",
         "displayName": "Kunal",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-madhurneural": {
-        "voice": {
-            "name": "hi-IN-MadhurNeural"
-        },
+        "voice": {"name": "hi-IN-MadhurNeural"},
         "id": "hi-IN-MadhurNeural",
         "displayName": "Madhur",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-rehaanneural": {
-        "voice": {
-            "name": "hi-IN-RehaanNeural"
-        },
+        "voice": {"name": "hi-IN-RehaanNeural"},
         "id": "hi-IN-RehaanNeural",
         "displayName": "Rehaan",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hi-in-swaraneural": {
-        "voice": {
-            "name": "hi-IN-SwaraNeural"
-        },
+        "voice": {"name": "hi-IN-SwaraNeural"},
         "id": "hi-IN-SwaraNeural",
         "displayName": "Swara",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "hila": {
-        "voice": {
-            "name": "he-IL-HilaNeural"
-        },
+        "voice": {"name": "he-IL-HilaNeural"},
         "id": "he-IL-HilaNeural",
         "displayName": "Hila",
-        "locale": "he-IL"
+        "locale": "he-IL",
     },
     "hillevi": {
-        "voice": {
-            "name": "sv-SE-HilleviNeural"
-        },
+        "voice": {"name": "sv-SE-HilleviNeural"},
         "id": "sv-SE-HilleviNeural",
         "displayName": "Hillevi",
-        "locale": "sv-SE"
+        "locale": "sv-SE",
     },
     "hiugaai": {
-        "voice": {
-            "name": "zh-HK-HiuGaaiNeural"
-        },
+        "voice": {"name": "zh-HK-HiuGaaiNeural"},
         "id": "zh-HK-HiuGaaiNeural",
         "displayName": "HiuGaai",
-        "locale": "zh-HK"
+        "locale": "zh-HK",
     },
     "hiumaan": {
-        "voice": {
-            "name": "zh-HK-HiuMaanNeural"
-        },
+        "voice": {"name": "zh-HK-HiuMaanNeural"},
         "id": "zh-HK-HiuMaanNeural",
         "displayName": "HiuMaan",
-        "locale": "zh-HK"
+        "locale": "zh-HK",
     },
     "hoaimy": {
-        "voice": {
-            "name": "vi-VN-HoaiMyNeural"
-        },
+        "voice": {"name": "vi-VN-HoaiMyNeural"},
         "id": "vi-VN-HoaiMyNeural",
         "displayName": "HoaiMy",
-        "locale": "vi-VN"
+        "locale": "vi-VN",
     },
     "hollie": {
-        "voice": {
-            "name": "en-GB-HollieNeural"
-        },
+        "voice": {"name": "en-GB-HollieNeural"},
         "id": "en-GB-HollieNeural",
         "displayName": "Hollie",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "hr-hr-gabrijelaneural": {
-        "voice": {
-            "name": "hr-HR-GabrijelaNeural"
-        },
+        "voice": {"name": "hr-HR-GabrijelaNeural"},
         "id": "hr-HR-GabrijelaNeural",
         "displayName": "Gabrijela",
-        "locale": "hr-HR"
+        "locale": "hr-HR",
     },
     "hr-hr-sreckoneural": {
-        "voice": {
-            "name": "hr-HR-SreckoNeural"
-        },
+        "voice": {"name": "hr-HR-SreckoNeural"},
         "id": "hr-HR-SreckoNeural",
         "displayName": "Srecko",
-        "locale": "hr-HR"
+        "locale": "hr-HR",
     },
     "hsiaochen": {
-        "voice": {
-            "name": "zh-TW-HsiaoChenNeural"
-        },
+        "voice": {"name": "zh-TW-HsiaoChenNeural"},
         "id": "zh-TW-HsiaoChenNeural",
         "displayName": "HsiaoChen",
-        "locale": "zh-TW"
+        "locale": "zh-TW",
     },
     "hsiaoyu": {
-        "voice": {
-            "name": "zh-TW-HsiaoYuNeural"
-        },
+        "voice": {"name": "zh-TW-HsiaoYuNeural"},
         "id": "zh-TW-HsiaoYuNeural",
         "displayName": "HsiaoYu",
-        "locale": "zh-TW"
+        "locale": "zh-TW",
     },
     "hu-hu-noemineural": {
-        "voice": {
-            "name": "hu-HU-NoemiNeural"
-        },
+        "voice": {"name": "hu-HU-NoemiNeural"},
         "id": "hu-HU-NoemiNeural",
         "displayName": "Noemi",
-        "locale": "hu-HU"
+        "locale": "hu-HU",
     },
     "hu-hu-tamasneural": {
-        "voice": {
-            "name": "hu-HU-TamasNeural"
-        },
+        "voice": {"name": "hu-HU-TamasNeural"},
         "id": "hu-HU-TamasNeural",
         "displayName": "Tamas",
-        "locale": "hu-HU"
+        "locale": "hu-HU",
     },
     "humberto": {
-        "voice": {
-            "name": "pt-BR-HumbertoNeural"
-        },
+        "voice": {"name": "pt-BR-HumbertoNeural"},
         "id": "pt-BR-HumbertoNeural",
         "displayName": "Humberto",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "hy-am-anahitneural": {
-        "voice": {
-            "name": "hy-AM-AnahitNeural"
-        },
+        "voice": {"name": "hy-AM-AnahitNeural"},
         "id": "hy-AM-AnahitNeural",
         "displayName": "Anahit",
-        "locale": "hy-AM"
+        "locale": "hy-AM",
     },
     "hy-am-haykneural": {
-        "voice": {
-            "name": "hy-AM-HaykNeural"
-        },
+        "voice": {"name": "hy-AM-HaykNeural"},
         "id": "hy-AM-HaykNeural",
         "displayName": "Hayk",
-        "locale": "hy-AM"
+        "locale": "hy-AM",
     },
     "hyunsu": {
-        "voice": {
-            "name": "ko-KR-HyunsuNeural"
-        },
+        "voice": {"name": "ko-KR-HyunsuNeural"},
         "id": "ko-KR-HyunsuNeural",
         "displayName": "Hyunsu",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "hyunsu multilingual": {
-        "voice": {
-            "name": "ko-KR-HyunsuMultilingualNeural"
-        },
+        "voice": {"name": "ko-KR-HyunsuMultilingualNeural"},
         "id": "ko-KR-HyunsuMultilingualNeural",
         "displayName": "Hyunsu Multilingual",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "id-id-ardineural": {
-        "voice": {
-            "name": "id-ID-ArdiNeural"
-        },
+        "voice": {"name": "id-ID-ArdiNeural"},
         "id": "id-ID-ArdiNeural",
         "displayName": "Ardi",
-        "locale": "id-ID"
+        "locale": "id-ID",
     },
     "id-id-gadisneural": {
-        "voice": {
-            "name": "id-ID-GadisNeural"
-        },
+        "voice": {"name": "id-ID-GadisNeural"},
         "id": "id-ID-GadisNeural",
         "displayName": "Gadis",
-        "locale": "id-ID"
+        "locale": "id-ID",
     },
     "ilir": {
-        "voice": {
-            "name": "sq-AL-IlirNeural"
-        },
+        "voice": {"name": "sq-AL-IlirNeural"},
         "id": "sq-AL-IlirNeural",
         "displayName": "Ilir",
-        "locale": "sq-AL"
+        "locale": "sq-AL",
     },
     "iman": {
-        "voice": {
-            "name": "ar-LY-ImanNeural"
-        },
+        "voice": {"name": "ar-LY-ImanNeural"},
         "id": "ar-LY-ImanNeural",
         "displayName": "Iman",
-        "locale": "ar-LY"
+        "locale": "ar-LY",
     },
     "imani": {
-        "voice": {
-            "name": "en-TZ-ImaniNeural"
-        },
+        "voice": {"name": "en-TZ-ImaniNeural"},
         "id": "en-TZ-ImaniNeural",
         "displayName": "Imani",
-        "locale": "en-TZ"
+        "locale": "en-TZ",
     },
     "imelda": {
-        "voice": {
-            "name": "it-IT-ImeldaNeural"
-        },
+        "voice": {"name": "it-IT-ImeldaNeural"},
         "id": "it-IT-ImeldaNeural",
         "displayName": "Imelda",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "ingrid": {
-        "voice": {
-            "name": "de-AT-IngridNeural"
-        },
+        "voice": {"name": "de-AT-IngridNeural"},
         "id": "de-AT-IngridNeural",
         "displayName": "Ingrid",
-        "locale": "de-AT"
+        "locale": "de-AT",
     },
     "injoon": {
-        "voice": {
-            "name": "ko-KR-InJoonNeural"
-        },
+        "voice": {"name": "ko-KR-InJoonNeural"},
         "id": "ko-KR-InJoonNeural",
         "displayName": "InJoon",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "irene": {
-        "voice": {
-            "name": "es-ES-IreneNeural"
-        },
+        "voice": {"name": "es-ES-IreneNeural"},
         "id": "es-ES-IreneNeural",
         "displayName": "Irene",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "irma": {
-        "voice": {
-            "name": "it-IT-IrmaNeural"
-        },
+        "voice": {"name": "it-IT-IrmaNeural"},
         "id": "it-IT-IrmaNeural",
         "displayName": "Irma",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "is-is-gudrunneural": {
-        "voice": {
-            "name": "is-IS-GudrunNeural"
-        },
+        "voice": {"name": "is-IS-GudrunNeural"},
         "id": "is-IS-GudrunNeural",
         "displayName": "Gudrun",
-        "locale": "is-IS"
+        "locale": "is-IS",
     },
     "is-is-gunnarneural": {
-        "voice": {
-            "name": "is-IS-GunnarNeural"
-        },
+        "voice": {"name": "is-IS-GunnarNeural"},
         "id": "is-IS-GunnarNeural",
         "displayName": "Gunnar",
-        "locale": "is-IS"
+        "locale": "is-IS",
     },
     "isabella": {
-        "voice": {
-            "name": "it-IT-IsabellaNeural"
-        },
+        "voice": {"name": "it-IT-IsabellaNeural"},
         "id": "it-IT-IsabellaNeural",
         "displayName": "Isabella",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "isabella multilingual": {
-        "voice": {
-            "name": "it-IT-IsabellaMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-IsabellaMultilingualNeural"},
         "id": "it-IT-IsabellaMultilingualNeural",
         "displayName": "Isabella Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "iselin": {
-        "voice": {
-            "name": "nb-NO-IselinNeural"
-        },
+        "voice": {"name": "nb-NO-IselinNeural"},
         "id": "nb-NO-IselinNeural",
         "displayName": "Iselin",
-        "locale": "nb-NO"
+        "locale": "nb-NO",
     },
     "isidora multilingual": {
-        "voice": {
-            "name": "es-ES-IsidoraMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-IsidoraMultilingualNeural"},
         "id": "es-ES-IsidoraMultilingualNeural",
         "displayName": "Isidora Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "ismael": {
-        "voice": {
-            "name": "ar-DZ-IsmaelNeural"
-        },
+        "voice": {"name": "ar-DZ-IsmaelNeural"},
         "id": "ar-DZ-IsmaelNeural",
         "displayName": "Ismael",
-        "locale": "ar-DZ"
+        "locale": "ar-DZ",
     },
     "it-it-alessiomultilingualneural": {
-        "voice": {
-            "name": "it-IT-AlessioMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-AlessioMultilingualNeural"},
         "id": "it-IT-AlessioMultilingualNeural",
         "displayName": "Alessio Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-benignoneural": {
-        "voice": {
-            "name": "it-IT-BenignoNeural"
-        },
+        "voice": {"name": "it-IT-BenignoNeural"},
         "id": "it-IT-BenignoNeural",
         "displayName": "Benigno",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-calimeroneural": {
-        "voice": {
-            "name": "it-IT-CalimeroNeural"
-        },
+        "voice": {"name": "it-IT-CalimeroNeural"},
         "id": "it-IT-CalimeroNeural",
         "displayName": "Calimero",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-cataldoneural": {
-        "voice": {
-            "name": "it-IT-CataldoNeural"
-        },
+        "voice": {"name": "it-IT-CataldoNeural"},
         "id": "it-IT-CataldoNeural",
         "displayName": "Cataldo",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-diegoneural": {
-        "voice": {
-            "name": "it-IT-DiegoNeural"
-        },
+        "voice": {"name": "it-IT-DiegoNeural"},
         "id": "it-IT-DiegoNeural",
         "displayName": "Diego",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-elsaneural": {
-        "voice": {
-            "name": "it-IT-ElsaNeural"
-        },
+        "voice": {"name": "it-IT-ElsaNeural"},
         "id": "it-IT-ElsaNeural",
         "displayName": "Elsa",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-fabiolaneural": {
-        "voice": {
-            "name": "it-IT-FabiolaNeural"
-        },
+        "voice": {"name": "it-IT-FabiolaNeural"},
         "id": "it-IT-FabiolaNeural",
         "displayName": "Fabiola",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-fiammaneural": {
-        "voice": {
-            "name": "it-IT-FiammaNeural"
-        },
+        "voice": {"name": "it-IT-FiammaNeural"},
         "id": "it-IT-FiammaNeural",
         "displayName": "Fiamma",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-giannineural": {
-        "voice": {
-            "name": "it-IT-GianniNeural"
-        },
+        "voice": {"name": "it-IT-GianniNeural"},
         "id": "it-IT-GianniNeural",
         "displayName": "Gianni",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-giuseppemultilingualneural": {
-        "voice": {
-            "name": "it-IT-GiuseppeMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-GiuseppeMultilingualNeural"},
         "id": "it-IT-GiuseppeMultilingualNeural",
         "displayName": "Giuseppe Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-giuseppeneural": {
-        "voice": {
-            "name": "it-IT-GiuseppeNeural"
-        },
+        "voice": {"name": "it-IT-GiuseppeNeural"},
         "id": "it-IT-GiuseppeNeural",
         "displayName": "Giuseppe",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-imeldaneural": {
-        "voice": {
-            "name": "it-IT-ImeldaNeural"
-        },
+        "voice": {"name": "it-IT-ImeldaNeural"},
         "id": "it-IT-ImeldaNeural",
         "displayName": "Imelda",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-irmaneural": {
-        "voice": {
-            "name": "it-IT-IrmaNeural"
-        },
+        "voice": {"name": "it-IT-IrmaNeural"},
         "id": "it-IT-IrmaNeural",
         "displayName": "Irma",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-isabellamultilingualneural": {
-        "voice": {
-            "name": "it-IT-IsabellaMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-IsabellaMultilingualNeural"},
         "id": "it-IT-IsabellaMultilingualNeural",
         "displayName": "Isabella Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-isabellaneural": {
-        "voice": {
-            "name": "it-IT-IsabellaNeural"
-        },
+        "voice": {"name": "it-IT-IsabellaNeural"},
         "id": "it-IT-IsabellaNeural",
         "displayName": "Isabella",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-lisandroneural": {
-        "voice": {
-            "name": "it-IT-LisandroNeural"
-        },
+        "voice": {"name": "it-IT-LisandroNeural"},
         "id": "it-IT-LisandroNeural",
         "displayName": "Lisandro",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-marcellomultilingualneural": {
-        "voice": {
-            "name": "it-IT-MarcelloMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-MarcelloMultilingualNeural"},
         "id": "it-IT-MarcelloMultilingualNeural",
         "displayName": "Marcello Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-palmiraneural": {
-        "voice": {
-            "name": "it-IT-PalmiraNeural"
-        },
+        "voice": {"name": "it-IT-PalmiraNeural"},
         "id": "it-IT-PalmiraNeural",
         "displayName": "Palmira",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-pierinaneural": {
-        "voice": {
-            "name": "it-IT-PierinaNeural"
-        },
+        "voice": {"name": "it-IT-PierinaNeural"},
         "id": "it-IT-PierinaNeural",
         "displayName": "Pierina",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "it-it-rinaldoneural": {
-        "voice": {
-            "name": "it-IT-RinaldoNeural"
-        },
+        "voice": {"name": "it-IT-RinaldoNeural"},
         "id": "it-IT-RinaldoNeural",
         "displayName": "Rinaldo",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "iu-cans-ca-siqiniqneural": {
-        "voice": {
-            "name": "iu-Cans-CA-SiqiniqNeural"
-        },
+        "voice": {"name": "iu-Cans-CA-SiqiniqNeural"},
         "id": "iu-Cans-CA-SiqiniqNeural",
         "displayName": "Siqiniq",
-        "locale": "iu-Cans-CA"
+        "locale": "iu-Cans-CA",
     },
     "iu-cans-ca-taqqiqneural": {
-        "voice": {
-            "name": "iu-Cans-CA-TaqqiqNeural"
-        },
+        "voice": {"name": "iu-Cans-CA-TaqqiqNeural"},
         "id": "iu-Cans-CA-TaqqiqNeural",
         "displayName": "Taqqiq",
-        "locale": "iu-Cans-CA"
+        "locale": "iu-Cans-CA",
     },
     "iu-latn-ca-siqiniqneural": {
-        "voice": {
-            "name": "iu-Latn-CA-SiqiniqNeural"
-        },
+        "voice": {"name": "iu-Latn-CA-SiqiniqNeural"},
         "id": "iu-Latn-CA-SiqiniqNeural",
         "displayName": "Siqiniq",
-        "locale": "iu-Latn-CA"
+        "locale": "iu-Latn-CA",
     },
     "iu-latn-ca-taqqiqneural": {
-        "voice": {
-            "name": "iu-Latn-CA-TaqqiqNeural"
-        },
+        "voice": {"name": "iu-Latn-CA-TaqqiqNeural"},
         "id": "iu-Latn-CA-TaqqiqNeural",
         "displayName": "Taqqiq",
-        "locale": "iu-Latn-CA"
+        "locale": "iu-Latn-CA",
     },
     "ja-jp-aoineural": {
-        "voice": {
-            "name": "ja-JP-AoiNeural"
-        },
+        "voice": {"name": "ja-JP-AoiNeural"},
         "id": "ja-JP-AoiNeural",
         "displayName": "Aoi",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ja-jp-daichineural": {
-        "voice": {
-            "name": "ja-JP-DaichiNeural"
-        },
+        "voice": {"name": "ja-JP-DaichiNeural"},
         "id": "ja-JP-DaichiNeural",
         "displayName": "Daichi",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ja-jp-keitaneural": {
-        "voice": {
-            "name": "ja-JP-KeitaNeural"
-        },
+        "voice": {"name": "ja-JP-KeitaNeural"},
         "id": "ja-JP-KeitaNeural",
         "displayName": "Keita",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ja-jp-mayuneural": {
-        "voice": {
-            "name": "ja-JP-MayuNeural"
-        },
+        "voice": {"name": "ja-JP-MayuNeural"},
         "id": "ja-JP-MayuNeural",
         "displayName": "Mayu",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ja-jp-nanamineural": {
-        "voice": {
-            "name": "ja-JP-NanamiNeural"
-        },
+        "voice": {"name": "ja-JP-NanamiNeural"},
         "id": "ja-JP-NanamiNeural",
         "displayName": "Nanami",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ja-jp-naokineural": {
-        "voice": {
-            "name": "ja-JP-NaokiNeural"
-        },
+        "voice": {"name": "ja-JP-NaokiNeural"},
         "id": "ja-JP-NaokiNeural",
         "displayName": "Naoki",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ja-jp-shiorineural": {
-        "voice": {
-            "name": "ja-JP-ShioriNeural"
-        },
+        "voice": {"name": "ja-JP-ShioriNeural"},
         "id": "ja-JP-ShioriNeural",
         "displayName": "Shiori",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "jacob": {
-        "voice": {
-            "name": "en-US-JacobNeural"
-        },
+        "voice": {"name": "en-US-JacobNeural"},
         "id": "en-US-JacobNeural",
         "displayName": "Jacob",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "jacqueline": {
-        "voice": {
-            "name": "fr-FR-JacquelineNeural"
-        },
+        "voice": {"name": "fr-FR-JacquelineNeural"},
         "id": "fr-FR-JacquelineNeural",
         "displayName": "Jacqueline",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "jajang": {
-        "voice": {
-            "name": "su-ID-JajangNeural"
-        },
+        "voice": {"name": "su-ID-JajangNeural"},
         "id": "su-ID-JajangNeural",
         "displayName": "Jajang",
-        "locale": "su-ID"
+        "locale": "su-ID",
     },
     "jamal": {
-        "voice": {
-            "name": "ar-MA-JamalNeural"
-        },
+        "voice": {"name": "ar-MA-JamalNeural"},
         "id": "ar-MA-JamalNeural",
         "displayName": "Jamal",
-        "locale": "ar-MA"
+        "locale": "ar-MA",
     },
     "james": {
-        "voice": {
-            "name": "en-PH-JamesNeural"
-        },
+        "voice": {"name": "en-PH-JamesNeural"},
         "id": "en-PH-JamesNeural",
         "displayName": "James",
-        "locale": "en-PH"
+        "locale": "en-PH",
     },
     "jan": {
-        "voice": {
-            "name": "de-CH-JanNeural"
-        },
+        "voice": {"name": "de-CH-JanNeural"},
         "id": "de-CH-JanNeural",
         "displayName": "Jan",
-        "locale": "de-CH"
+        "locale": "de-CH",
     },
     "jane": {
-        "voice": {
-            "name": "en-US-JaneNeural"
-        },
+        "voice": {"name": "en-US-JaneNeural"},
         "id": "en-US-JaneNeural",
         "displayName": "Jane",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "jason": {
-        "voice": {
-            "name": "en-US-JasonNeural"
-        },
+        "voice": {"name": "en-US-JasonNeural"},
         "id": "en-US-JasonNeural",
         "displayName": "Jason",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "javier": {
-        "voice": {
-            "name": "es-GQ-JavierNeural"
-        },
+        "voice": {"name": "es-GQ-JavierNeural"},
         "id": "es-GQ-JavierNeural",
         "displayName": "Javier",
-        "locale": "es-GQ"
+        "locale": "es-GQ",
     },
     "jean": {
-        "voice": {
-            "name": "fr-CA-JeanNeural"
-        },
+        "voice": {"name": "fr-CA-JeanNeural"},
         "id": "fr-CA-JeanNeural",
         "displayName": "Jean",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "jenny": {
-        "voice": {
-            "name": "en-US-JennyNeural"
-        },
+        "voice": {"name": "en-US-JennyNeural"},
         "id": "en-US-JennyNeural",
         "displayName": "Jenny",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "jenny multilingual": {
-        "voice": {
-            "name": "en-US-JennyMultilingualNeural"
-        },
+        "voice": {"name": "en-US-JennyMultilingualNeural"},
         "id": "en-US-JennyMultilingualNeural",
         "displayName": "Jenny Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "jeppe": {
-        "voice": {
-            "name": "da-DK-JeppeNeural"
-        },
+        "voice": {"name": "da-DK-JeppeNeural"},
         "id": "da-DK-JeppeNeural",
         "displayName": "Jeppe",
-        "locale": "da-DK"
+        "locale": "da-DK",
     },
     "jerome": {
-        "voice": {
-            "name": "fr-FR-JeromeNeural"
-        },
+        "voice": {"name": "fr-FR-JeromeNeural"},
         "id": "fr-FR-JeromeNeural",
         "displayName": "Jerome",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "jimin": {
-        "voice": {
-            "name": "ko-KR-JiMinNeural"
-        },
+        "voice": {"name": "ko-KR-JiMinNeural"},
         "id": "ko-KR-JiMinNeural",
         "displayName": "JiMin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "joana": {
-        "voice": {
-            "name": "ca-ES-JoanaNeural"
-        },
+        "voice": {"name": "ca-ES-JoanaNeural"},
         "id": "ca-ES-JoanaNeural",
         "displayName": "Joana",
-        "locale": "ca-ES"
+        "locale": "ca-ES",
     },
     "joanne": {
-        "voice": {
-            "name": "en-AU-JoanneNeural"
-        },
+        "voice": {"name": "en-AU-JoanneNeural"},
         "id": "en-AU-JoanneNeural",
         "displayName": "Joanne",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "jonas": {
-        "voice": {
-            "name": "de-AT-JonasNeural"
-        },
+        "voice": {"name": "de-AT-JonasNeural"},
         "id": "de-AT-JonasNeural",
         "displayName": "Jonas",
-        "locale": "de-AT"
+        "locale": "de-AT",
     },
     "jorge": {
-        "voice": {
-            "name": "es-MX-JorgeNeural"
-        },
+        "voice": {"name": "es-MX-JorgeNeural"},
         "id": "es-MX-JorgeNeural",
         "displayName": "Jorge",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "jorge multilingual": {
-        "voice": {
-            "name": "es-MX-JorgeMultilingualNeural"
-        },
+        "voice": {"name": "es-MX-JorgeMultilingualNeural"},
         "id": "es-MX-JorgeMultilingualNeural",
         "displayName": "Jorge Multilingual",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "joseph": {
-        "voice": {
-            "name": "mt-MT-JosephNeural"
-        },
+        "voice": {"name": "mt-MT-JosephNeural"},
         "id": "mt-MT-JosephNeural",
         "displayName": "Joseph",
-        "locale": "mt-MT"
+        "locale": "mt-MT",
     },
     "josephine": {
-        "voice": {
-            "name": "fr-FR-JosephineNeural"
-        },
+        "voice": {"name": "fr-FR-JosephineNeural"},
         "id": "fr-FR-JosephineNeural",
         "displayName": "Josephine",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "juan": {
-        "voice": {
-            "name": "es-CR-JuanNeural"
-        },
+        "voice": {"name": "es-CR-JuanNeural"},
         "id": "es-CR-JuanNeural",
         "displayName": "Juan",
-        "locale": "es-CR"
+        "locale": "es-CR",
     },
     "julio": {
-        "voice": {
-            "name": "pt-BR-JulioNeural"
-        },
+        "voice": {"name": "pt-BR-JulioNeural"},
         "id": "pt-BR-JulioNeural",
         "displayName": "Julio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "jv-id-dimasneural": {
-        "voice": {
-            "name": "jv-ID-DimasNeural"
-        },
+        "voice": {"name": "jv-ID-DimasNeural"},
         "id": "jv-ID-DimasNeural",
         "displayName": "Dimas",
-        "locale": "jv-ID"
+        "locale": "jv-ID",
     },
     "jv-id-sitineural": {
-        "voice": {
-            "name": "jv-ID-SitiNeural"
-        },
+        "voice": {"name": "jv-ID-SitiNeural"},
         "id": "jv-ID-SitiNeural",
         "displayName": "Siti",
-        "locale": "jv-ID"
+        "locale": "jv-ID",
     },
     "ka-ge-ekaneural": {
-        "voice": {
-            "name": "ka-GE-EkaNeural"
-        },
+        "voice": {"name": "ka-GE-EkaNeural"},
         "id": "ka-GE-EkaNeural",
         "displayName": "Eka",
-        "locale": "ka-GE"
+        "locale": "ka-GE",
     },
     "ka-ge-giorgineural": {
-        "voice": {
-            "name": "ka-GE-GiorgiNeural"
-        },
+        "voice": {"name": "ka-GE-GiorgiNeural"},
         "id": "ka-GE-GiorgiNeural",
         "displayName": "Giorgi",
-        "locale": "ka-GE"
+        "locale": "ka-GE",
     },
     "kai": {
-        "voice": {
-            "name": "en-US-KaiNeural"
-        },
+        "voice": {"name": "en-US-KaiNeural"},
         "id": "en-US-KaiNeural",
         "displayName": "Kai",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "kalina": {
-        "voice": {
-            "name": "bg-BG-KalinaNeural"
-        },
+        "voice": {"name": "bg-BG-KalinaNeural"},
         "id": "bg-BG-KalinaNeural",
         "displayName": "Kalina",
-        "locale": "bg-BG"
+        "locale": "bg-BG",
     },
     "kani": {
-        "voice": {
-            "name": "ta-MY-KaniNeural"
-        },
+        "voice": {"name": "ta-MY-KaniNeural"},
         "id": "ta-MY-KaniNeural",
         "displayName": "Kani",
-        "locale": "ta-MY"
+        "locale": "ta-MY",
     },
     "karina": {
-        "voice": {
-            "name": "es-PR-KarinaNeural"
-        },
+        "voice": {"name": "es-PR-KarinaNeural"},
         "id": "es-PR-KarinaNeural",
         "displayName": "Karina",
-        "locale": "es-PR"
+        "locale": "es-PR",
     },
     "karla": {
-        "voice": {
-            "name": "es-HN-KarlaNeural"
-        },
+        "voice": {"name": "es-HN-KarlaNeural"},
         "id": "es-HN-KarlaNeural",
         "displayName": "Karla",
-        "locale": "es-HN"
+        "locale": "es-HN",
     },
     "kasper": {
-        "voice": {
-            "name": "de-DE-KasperNeural"
-        },
+        "voice": {"name": "de-DE-KasperNeural"},
         "id": "de-DE-KasperNeural",
         "displayName": "Kasper",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "katja": {
-        "voice": {
-            "name": "de-DE-KatjaNeural"
-        },
+        "voice": {"name": "de-DE-KatjaNeural"},
         "id": "de-DE-KatjaNeural",
         "displayName": "Katja",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "kavya": {
-        "voice": {
-            "name": "en-IN-KavyaNeural"
-        },
+        "voice": {"name": "en-IN-KavyaNeural"},
         "id": "en-IN-KavyaNeural",
         "displayName": "Kavya",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "keita": {
-        "voice": {
-            "name": "ja-JP-KeitaNeural"
-        },
+        "voice": {"name": "ja-JP-KeitaNeural"},
         "id": "ja-JP-KeitaNeural",
         "displayName": "Keita",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "ken": {
-        "voice": {
-            "name": "en-AU-KenNeural"
-        },
+        "voice": {"name": "en-AU-KenNeural"},
         "id": "en-AU-KenNeural",
         "displayName": "Ken",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "keomany": {
-        "voice": {
-            "name": "lo-LA-KeomanyNeural"
-        },
+        "voice": {"name": "lo-LA-KeomanyNeural"},
         "id": "lo-LA-KeomanyNeural",
         "displayName": "Keomany",
-        "locale": "lo-LA"
+        "locale": "lo-LA",
     },
     "kert": {
-        "voice": {
-            "name": "et-EE-KertNeural"
-        },
+        "voice": {"name": "et-EE-KertNeural"},
         "id": "et-EE-KertNeural",
         "displayName": "Kert",
-        "locale": "et-EE"
+        "locale": "et-EE",
     },
     "killian": {
-        "voice": {
-            "name": "de-DE-KillianNeural"
-        },
+        "voice": {"name": "de-DE-KillianNeural"},
         "id": "de-DE-KillianNeural",
         "displayName": "Killian",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "kim": {
-        "voice": {
-            "name": "en-AU-KimNeural"
-        },
+        "voice": {"name": "en-AU-KimNeural"},
         "id": "en-AU-KimNeural",
         "displayName": "Kim",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "kk-kz-aigulneural": {
-        "voice": {
-            "name": "kk-KZ-AigulNeural"
-        },
+        "voice": {"name": "kk-KZ-AigulNeural"},
         "id": "kk-KZ-AigulNeural",
         "displayName": "Aigul",
-        "locale": "kk-KZ"
+        "locale": "kk-KZ",
     },
     "kk-kz-dauletneural": {
-        "voice": {
-            "name": "kk-KZ-DauletNeural"
-        },
+        "voice": {"name": "kk-KZ-DauletNeural"},
         "id": "kk-KZ-DauletNeural",
         "displayName": "Daulet",
-        "locale": "kk-KZ"
+        "locale": "kk-KZ",
     },
     "klarissa": {
-        "voice": {
-            "name": "de-DE-KlarissaNeural"
-        },
+        "voice": {"name": "de-DE-KlarissaNeural"},
         "id": "de-DE-KlarissaNeural",
         "displayName": "Klarissa",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "klaus": {
-        "voice": {
-            "name": "de-DE-KlausNeural"
-        },
+        "voice": {"name": "de-DE-KlausNeural"},
         "id": "de-DE-KlausNeural",
         "displayName": "Klaus",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "km-kh-pisethneural": {
-        "voice": {
-            "name": "km-KH-PisethNeural"
-        },
+        "voice": {"name": "km-KH-PisethNeural"},
         "id": "km-KH-PisethNeural",
         "displayName": "Piseth",
-        "locale": "km-KH"
+        "locale": "km-KH",
     },
     "km-kh-sreymomneural": {
-        "voice": {
-            "name": "km-KH-SreymomNeural"
-        },
+        "voice": {"name": "km-KH-SreymomNeural"},
         "id": "km-KH-SreymomNeural",
         "displayName": "Sreymom",
-        "locale": "km-KH"
+        "locale": "km-KH",
     },
     "kn-in-gaganneural": {
-        "voice": {
-            "name": "kn-IN-GaganNeural"
-        },
+        "voice": {"name": "kn-IN-GaganNeural"},
         "id": "kn-IN-GaganNeural",
         "displayName": "Gagan",
-        "locale": "kn-IN"
+        "locale": "kn-IN",
     },
     "kn-in-sapnaneural": {
-        "voice": {
-            "name": "kn-IN-SapnaNeural"
-        },
+        "voice": {"name": "kn-IN-SapnaNeural"},
         "id": "kn-IN-SapnaNeural",
         "displayName": "Sapna",
-        "locale": "kn-IN"
+        "locale": "kn-IN",
     },
     "ko-kr-bongjinneural": {
-        "voice": {
-            "name": "ko-KR-BongJinNeural"
-        },
+        "voice": {"name": "ko-KR-BongJinNeural"},
         "id": "ko-KR-BongJinNeural",
         "displayName": "BongJin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-gookminneural": {
-        "voice": {
-            "name": "ko-KR-GookMinNeural"
-        },
+        "voice": {"name": "ko-KR-GookMinNeural"},
         "id": "ko-KR-GookMinNeural",
         "displayName": "GookMin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-hyunsumultilingualneural": {
-        "voice": {
-            "name": "ko-KR-HyunsuMultilingualNeural"
-        },
+        "voice": {"name": "ko-KR-HyunsuMultilingualNeural"},
         "id": "ko-KR-HyunsuMultilingualNeural",
         "displayName": "Hyunsu Multilingual",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-hyunsuneural": {
-        "voice": {
-            "name": "ko-KR-HyunsuNeural"
-        },
+        "voice": {"name": "ko-KR-HyunsuNeural"},
         "id": "ko-KR-HyunsuNeural",
         "displayName": "Hyunsu",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-injoonneural": {
-        "voice": {
-            "name": "ko-KR-InJoonNeural"
-        },
+        "voice": {"name": "ko-KR-InJoonNeural"},
         "id": "ko-KR-InJoonNeural",
         "displayName": "InJoon",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-jiminneural": {
-        "voice": {
-            "name": "ko-KR-JiMinNeural"
-        },
+        "voice": {"name": "ko-KR-JiMinNeural"},
         "id": "ko-KR-JiMinNeural",
         "displayName": "JiMin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-seohyeonneural": {
-        "voice": {
-            "name": "ko-KR-SeoHyeonNeural"
-        },
+        "voice": {"name": "ko-KR-SeoHyeonNeural"},
         "id": "ko-KR-SeoHyeonNeural",
         "displayName": "SeoHyeon",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-soonbokneural": {
-        "voice": {
-            "name": "ko-KR-SoonBokNeural"
-        },
+        "voice": {"name": "ko-KR-SoonBokNeural"},
         "id": "ko-KR-SoonBokNeural",
         "displayName": "SoonBok",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-sunhineural": {
-        "voice": {
-            "name": "ko-KR-SunHiNeural"
-        },
+        "voice": {"name": "ko-KR-SunHiNeural"},
         "id": "ko-KR-SunHiNeural",
         "displayName": "Sun-Hi",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "ko-kr-yujinneural": {
-        "voice": {
-            "name": "ko-KR-YuJinNeural"
-        },
+        "voice": {"name": "ko-KR-YuJinNeural"},
         "id": "ko-KR-YuJinNeural",
         "displayName": "YuJin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "kumar": {
-        "voice": {
-            "name": "ta-LK-KumarNeural"
-        },
+        "voice": {"name": "ta-LK-KumarNeural"},
         "id": "ta-LK-KumarNeural",
         "displayName": "Kumar",
-        "locale": "ta-LK"
+        "locale": "ta-LK",
     },
     "kunal": {
-        "voice": {
-            "name": "en-IN-KunalNeural"
-        },
+        "voice": {"name": "en-IN-KunalNeural"},
         "id": "en-IN-KunalNeural",
         "displayName": "Kunal",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "laia": {
-        "voice": {
-            "name": "es-ES-LaiaNeural"
-        },
+        "voice": {"name": "es-ES-LaiaNeural"},
         "id": "es-ES-LaiaNeural",
         "displayName": "Laia",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "laila": {
-        "voice": {
-            "name": "ar-BH-LailaNeural"
-        },
+        "voice": {"name": "ar-BH-LailaNeural"},
         "id": "ar-BH-LailaNeural",
         "displayName": "Laila",
-        "locale": "ar-BH"
+        "locale": "ar-BH",
     },
     "laith": {
-        "voice": {
-            "name": "ar-SY-LaithNeural"
-        },
+        "voice": {"name": "ar-SY-LaithNeural"},
         "id": "ar-SY-LaithNeural",
         "displayName": "Laith",
-        "locale": "ar-SY"
+        "locale": "ar-SY",
     },
     "larissa": {
-        "voice": {
-            "name": "es-MX-LarissaNeural"
-        },
+        "voice": {"name": "es-MX-LarissaNeural"},
         "id": "es-MX-LarissaNeural",
         "displayName": "Larissa",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "latifa": {
-        "voice": {
-            "name": "ps-AF-LatifaNeural"
-        },
+        "voice": {"name": "ps-AF-LatifaNeural"},
         "id": "ps-AF-LatifaNeural",
         "displayName": "Latifa",
-        "locale": "ps-AF"
+        "locale": "ps-AF",
     },
     "layla": {
-        "voice": {
-            "name": "ar-LB-LaylaNeural"
-        },
+        "voice": {"name": "ar-LB-LaylaNeural"},
         "id": "ar-LB-LaylaNeural",
         "displayName": "Layla",
-        "locale": "ar-LB"
+        "locale": "ar-LB",
     },
     "leah": {
-        "voice": {
-            "name": "en-ZA-LeahNeural"
-        },
+        "voice": {"name": "en-ZA-LeahNeural"},
         "id": "en-ZA-LeahNeural",
         "displayName": "Leah",
-        "locale": "en-ZA"
+        "locale": "en-ZA",
     },
     "leila": {
-        "voice": {
-            "name": "pt-BR-LeilaNeural"
-        },
+        "voice": {"name": "pt-BR-LeilaNeural"},
         "id": "pt-BR-LeilaNeural",
         "displayName": "Leila",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "leni": {
-        "voice": {
-            "name": "de-CH-LeniNeural"
-        },
+        "voice": {"name": "de-CH-LeniNeural"},
         "id": "de-CH-LeniNeural",
         "displayName": "Leni",
-        "locale": "de-CH"
+        "locale": "de-CH",
     },
     "leonas": {
-        "voice": {
-            "name": "lt-LT-LeonasNeural"
-        },
+        "voice": {"name": "lt-LT-LeonasNeural"},
         "id": "lt-LT-LeonasNeural",
         "displayName": "Leonas",
-        "locale": "lt-LT"
+        "locale": "lt-LT",
     },
     "leticia": {
-        "voice": {
-            "name": "pt-BR-LeticiaNeural"
-        },
+        "voice": {"name": "pt-BR-LeticiaNeural"},
         "id": "pt-BR-LeticiaNeural",
         "displayName": "Leticia",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "lewis multilingual": {
-        "voice": {
-            "name": "en-US-LewisMultilingualNeural"
-        },
+        "voice": {"name": "en-US-LewisMultilingualNeural"},
         "id": "en-US-LewisMultilingualNeural",
         "displayName": "Lewis Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "lia": {
-        "voice": {
-            "name": "es-ES-LiaNeural"
-        },
+        "voice": {"name": "es-ES-LiaNeural"},
         "id": "es-ES-LiaNeural",
         "displayName": "Lia",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "liam": {
-        "voice": {
-            "name": "en-CA-LiamNeural"
-        },
+        "voice": {"name": "en-CA-LiamNeural"},
         "id": "en-CA-LiamNeural",
         "displayName": "Liam",
-        "locale": "en-CA"
+        "locale": "en-CA",
     },
     "libby": {
-        "voice": {
-            "name": "en-GB-LibbyNeural"
-        },
+        "voice": {"name": "en-GB-LibbyNeural"},
         "id": "en-GB-LibbyNeural",
         "displayName": "Libby",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "liberto": {
-        "voice": {
-            "name": "es-MX-LibertoNeural"
-        },
+        "voice": {"name": "es-MX-LibertoNeural"},
         "id": "es-MX-LibertoNeural",
         "displayName": "Liberto",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "lisandro": {
-        "voice": {
-            "name": "it-IT-LisandroNeural"
-        },
+        "voice": {"name": "it-IT-LisandroNeural"},
         "id": "it-IT-LisandroNeural",
         "displayName": "Lisandro",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "lo-la-chanthavongneural": {
-        "voice": {
-            "name": "lo-LA-ChanthavongNeural"
-        },
+        "voice": {"name": "lo-LA-ChanthavongNeural"},
         "id": "lo-LA-ChanthavongNeural",
         "displayName": "Chanthavong",
-        "locale": "lo-LA"
+        "locale": "lo-LA",
     },
     "lo-la-keomanyneural": {
-        "voice": {
-            "name": "lo-LA-KeomanyNeural"
-        },
+        "voice": {"name": "lo-LA-KeomanyNeural"},
         "id": "lo-LA-KeomanyNeural",
         "displayName": "Keomany",
-        "locale": "lo-LA"
+        "locale": "lo-LA",
     },
     "lola multilingual": {
-        "voice": {
-            "name": "en-US-LolaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-LolaMultilingualNeural"},
         "id": "en-US-LolaMultilingualNeural",
         "displayName": "Lola Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "lorena": {
-        "voice": {
-            "name": "es-SV-LorenaNeural"
-        },
+        "voice": {"name": "es-SV-LorenaNeural"},
         "id": "es-SV-LorenaNeural",
         "displayName": "Lorena",
-        "locale": "es-SV"
+        "locale": "es-SV",
     },
     "lorenzo": {
-        "voice": {
-            "name": "es-CL-LorenzoNeural"
-        },
+        "voice": {"name": "es-CL-LorenzoNeural"},
         "id": "es-CL-LorenzoNeural",
         "displayName": "Lorenzo",
-        "locale": "es-CL"
+        "locale": "es-CL",
     },
     "louisa": {
-        "voice": {
-            "name": "de-DE-LouisaNeural"
-        },
+        "voice": {"name": "de-DE-LouisaNeural"},
         "id": "de-DE-LouisaNeural",
         "displayName": "Louisa",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "lt-lt-leonasneural": {
-        "voice": {
-            "name": "lt-LT-LeonasNeural"
-        },
+        "voice": {"name": "lt-LT-LeonasNeural"},
         "id": "lt-LT-LeonasNeural",
         "displayName": "Leonas",
-        "locale": "lt-LT"
+        "locale": "lt-LT",
     },
     "lt-lt-onaneural": {
-        "voice": {
-            "name": "lt-LT-OnaNeural"
-        },
+        "voice": {"name": "lt-LT-OnaNeural"},
         "id": "lt-LT-OnaNeural",
         "displayName": "Ona",
-        "locale": "lt-LT"
+        "locale": "lt-LT",
     },
     "luciano": {
-        "voice": {
-            "name": "es-MX-LucianoNeural"
-        },
+        "voice": {"name": "es-MX-LucianoNeural"},
         "id": "es-MX-LucianoNeural",
         "displayName": "Luciano",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "lucien multilingual": {
-        "voice": {
-            "name": "fr-FR-LucienMultilingualNeural"
-        },
+        "voice": {"name": "fr-FR-LucienMultilingualNeural"},
         "id": "fr-FR-LucienMultilingualNeural",
         "displayName": "Lucien Multilingual",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "luis": {
-        "voice": {
-            "name": "es-EC-LuisNeural"
-        },
+        "voice": {"name": "es-EC-LuisNeural"},
         "id": "es-EC-LuisNeural",
         "displayName": "Luis",
-        "locale": "es-EC"
+        "locale": "es-EC",
     },
     "lukas": {
-        "voice": {
-            "name": "sk-SK-LukasNeural"
-        },
+        "voice": {"name": "sk-SK-LukasNeural"},
         "id": "sk-SK-LukasNeural",
         "displayName": "Lukas",
-        "locale": "sk-SK"
+        "locale": "sk-SK",
     },
     "luke": {
-        "voice": {
-            "name": "en-ZA-LukeNeural"
-        },
+        "voice": {"name": "en-ZA-LukeNeural"},
         "id": "en-ZA-LukeNeural",
         "displayName": "Luke",
-        "locale": "en-ZA"
+        "locale": "en-ZA",
     },
     "luna": {
-        "voice": {
-            "name": "en-SG-LunaNeural"
-        },
+        "voice": {"name": "en-SG-LunaNeural"},
         "id": "en-SG-LunaNeural",
         "displayName": "Luna",
-        "locale": "en-SG"
+        "locale": "en-SG",
     },
     "lv-lv-everitaneural": {
-        "voice": {
-            "name": "lv-LV-EveritaNeural"
-        },
+        "voice": {"name": "lv-LV-EveritaNeural"},
         "id": "lv-LV-EveritaNeural",
         "displayName": "Everita",
-        "locale": "lv-LV"
+        "locale": "lv-LV",
     },
     "lv-lv-nilsneural": {
-        "voice": {
-            "name": "lv-LV-NilsNeural"
-        },
+        "voice": {"name": "lv-LV-NilsNeural"},
         "id": "lv-LV-NilsNeural",
         "displayName": "Nils",
-        "locale": "lv-LV"
+        "locale": "lv-LV",
     },
     "maarten": {
-        "voice": {
-            "name": "nl-NL-MaartenNeural"
-        },
+        "voice": {"name": "nl-NL-MaartenNeural"},
         "id": "nl-NL-MaartenNeural",
         "displayName": "Maarten",
-        "locale": "nl-NL"
+        "locale": "nl-NL",
     },
     "macerio multilingual": {
-        "voice": {
-            "name": "pt-BR-MacerioMultilingualNeural"
-        },
+        "voice": {"name": "pt-BR-MacerioMultilingualNeural"},
         "id": "pt-BR-MacerioMultilingualNeural",
         "displayName": "Macerio Multilingual",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "madhur": {
-        "voice": {
-            "name": "hi-IN-MadhurNeural"
-        },
+        "voice": {"name": "hi-IN-MadhurNeural"},
         "id": "hi-IN-MadhurNeural",
         "displayName": "Madhur",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "madina": {
-        "voice": {
-            "name": "uz-UZ-MadinaNeural"
-        },
+        "voice": {"name": "uz-UZ-MadinaNeural"},
         "id": "uz-UZ-MadinaNeural",
         "displayName": "Madina",
-        "locale": "uz-UZ"
+        "locale": "uz-UZ",
     },
     "maisie": {
-        "voice": {
-            "name": "en-GB-MaisieNeural"
-        },
+        "voice": {"name": "en-GB-MaisieNeural"},
         "id": "en-GB-MaisieNeural",
         "displayName": "Maisie",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "maja": {
-        "voice": {
-            "name": "de-DE-MajaNeural"
-        },
+        "voice": {"name": "de-DE-MajaNeural"},
         "id": "de-DE-MajaNeural",
         "displayName": "Maja",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "manohar": {
-        "voice": {
-            "name": "mr-IN-ManoharNeural"
-        },
+        "voice": {"name": "mr-IN-ManoharNeural"},
         "id": "mr-IN-ManoharNeural",
         "displayName": "Manohar",
-        "locale": "mr-IN"
+        "locale": "mr-IN",
     },
     "manuel": {
-        "voice": {
-            "name": "es-CU-ManuelNeural"
-        },
+        "voice": {"name": "es-CU-ManuelNeural"},
         "id": "es-CU-ManuelNeural",
         "displayName": "Manuel",
-        "locale": "es-CU"
+        "locale": "es-CU",
     },
     "manuela": {
-        "voice": {
-            "name": "pt-BR-ManuelaNeural"
-        },
+        "voice": {"name": "pt-BR-ManuelaNeural"},
         "id": "pt-BR-ManuelaNeural",
         "displayName": "Manuela",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "marcello multilingual": {
-        "voice": {
-            "name": "it-IT-MarcelloMultilingualNeural"
-        },
+        "voice": {"name": "it-IT-MarcelloMultilingualNeural"},
         "id": "it-IT-MarcelloMultilingualNeural",
         "displayName": "Marcello Multilingual",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "marcelo": {
-        "voice": {
-            "name": "es-BO-MarceloNeural"
-        },
+        "voice": {"name": "es-BO-MarceloNeural"},
         "id": "es-BO-MarceloNeural",
         "displayName": "Marcelo",
-        "locale": "es-BO"
+        "locale": "es-BO",
     },
     "marek": {
-        "voice": {
-            "name": "pl-PL-MarekNeural"
-        },
+        "voice": {"name": "pl-PL-MarekNeural"},
         "id": "pl-PL-MarekNeural",
         "displayName": "Marek",
-        "locale": "pl-PL"
+        "locale": "pl-PL",
     },
     "margarita": {
-        "voice": {
-            "name": "es-PA-MargaritaNeural"
-        },
+        "voice": {"name": "es-PA-MargaritaNeural"},
         "id": "es-PA-MargaritaNeural",
         "displayName": "Margarita",
-        "locale": "es-PA"
+        "locale": "es-PA",
     },
     "maria": {
-        "voice": {
-            "name": "es-CR-MariaNeural"
-        },
+        "voice": {"name": "es-CR-MariaNeural"},
         "id": "es-CR-MariaNeural",
         "displayName": "Maria",
-        "locale": "es-CR"
+        "locale": "es-CR",
     },
     "marija": {
-        "voice": {
-            "name": "mk-MK-MarijaNeural"
-        },
+        "voice": {"name": "mk-MK-MarijaNeural"},
         "id": "mk-MK-MarijaNeural",
         "displayName": "Marija",
-        "locale": "mk-MK"
+        "locale": "mk-MK",
     },
     "marina": {
-        "voice": {
-            "name": "es-MX-MarinaNeural"
-        },
+        "voice": {"name": "es-MX-MarinaNeural"},
         "id": "es-MX-MarinaNeural",
         "displayName": "Marina",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "mario": {
-        "voice": {
-            "name": "es-PY-MarioNeural"
-        },
+        "voice": {"name": "es-PY-MarioNeural"},
         "id": "es-PY-MarioNeural",
         "displayName": "Mario",
-        "locale": "es-PY"
+        "locale": "es-PY",
     },
     "marta": {
-        "voice": {
-            "name": "es-GT-MartaNeural"
-        },
+        "voice": {"name": "es-GT-MartaNeural"},
         "id": "es-GT-MartaNeural",
         "displayName": "Marta",
-        "locale": "es-GT"
+        "locale": "es-GT",
     },
     "maryam": {
-        "voice": {
-            "name": "ar-YE-MaryamNeural"
-        },
+        "voice": {"name": "ar-YE-MaryamNeural"},
         "id": "ar-YE-MaryamNeural",
         "displayName": "Maryam",
-        "locale": "ar-YE"
+        "locale": "ar-YE",
     },
     "mateo": {
-        "voice": {
-            "name": "es-UY-MateoNeural"
-        },
+        "voice": {"name": "es-UY-MateoNeural"},
         "id": "es-UY-MateoNeural",
         "displayName": "Mateo",
-        "locale": "es-UY"
+        "locale": "es-UY",
     },
     "mattias": {
-        "voice": {
-            "name": "sv-SE-MattiasNeural"
-        },
+        "voice": {"name": "sv-SE-MattiasNeural"},
         "id": "sv-SE-MattiasNeural",
         "displayName": "Mattias",
-        "locale": "sv-SE"
+        "locale": "sv-SE",
     },
     "maurice": {
-        "voice": {
-            "name": "fr-FR-MauriceNeural"
-        },
+        "voice": {"name": "fr-FR-MauriceNeural"},
         "id": "fr-FR-MauriceNeural",
         "displayName": "Maurice",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "mayu": {
-        "voice": {
-            "name": "ja-JP-MayuNeural"
-        },
+        "voice": {"name": "ja-JP-MayuNeural"},
         "id": "ja-JP-MayuNeural",
         "displayName": "Mayu",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "mekdes": {
-        "voice": {
-            "name": "am-ET-MekdesNeural"
-        },
+        "voice": {"name": "am-ET-MekdesNeural"},
         "id": "am-ET-MekdesNeural",
         "displayName": "Mekdes",
-        "locale": "am-ET"
+        "locale": "am-ET",
     },
     "mia": {
-        "voice": {
-            "name": "en-GB-MiaNeural"
-        },
+        "voice": {"name": "en-GB-MiaNeural"},
         "id": "en-GB-MiaNeural",
         "displayName": "Mia",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "michelle": {
-        "voice": {
-            "name": "en-US-MichelleNeural"
-        },
+        "voice": {"name": "en-US-MichelleNeural"},
         "id": "en-US-MichelleNeural",
         "displayName": "Michelle",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "midhun": {
-        "voice": {
-            "name": "ml-IN-MidhunNeural"
-        },
+        "voice": {"name": "ml-IN-MidhunNeural"},
         "id": "ml-IN-MidhunNeural",
         "displayName": "Midhun",
-        "locale": "ml-IN"
+        "locale": "ml-IN",
     },
     "mitchell": {
-        "voice": {
-            "name": "en-NZ-MitchellNeural"
-        },
+        "voice": {"name": "en-NZ-MitchellNeural"},
         "id": "en-NZ-MitchellNeural",
         "displayName": "Mitchell",
-        "locale": "en-NZ"
+        "locale": "en-NZ",
     },
     "mk-mk-aleksandarneural": {
-        "voice": {
-            "name": "mk-MK-AleksandarNeural"
-        },
+        "voice": {"name": "mk-MK-AleksandarNeural"},
         "id": "mk-MK-AleksandarNeural",
         "displayName": "Aleksandar",
-        "locale": "mk-MK"
+        "locale": "mk-MK",
     },
     "mk-mk-marijaneural": {
-        "voice": {
-            "name": "mk-MK-MarijaNeural"
-        },
+        "voice": {"name": "mk-MK-MarijaNeural"},
         "id": "mk-MK-MarijaNeural",
         "displayName": "Marija",
-        "locale": "mk-MK"
+        "locale": "mk-MK",
     },
     "ml-in-midhunneural": {
-        "voice": {
-            "name": "ml-IN-MidhunNeural"
-        },
+        "voice": {"name": "ml-IN-MidhunNeural"},
         "id": "ml-IN-MidhunNeural",
         "displayName": "Midhun",
-        "locale": "ml-IN"
+        "locale": "ml-IN",
     },
     "ml-in-sobhananeural": {
-        "voice": {
-            "name": "ml-IN-SobhanaNeural"
-        },
+        "voice": {"name": "ml-IN-SobhanaNeural"},
         "id": "ml-IN-SobhanaNeural",
         "displayName": "Sobhana",
-        "locale": "ml-IN"
+        "locale": "ml-IN",
     },
     "mn-mn-bataaneural": {
-        "voice": {
-            "name": "mn-MN-BataaNeural"
-        },
+        "voice": {"name": "mn-MN-BataaNeural"},
         "id": "mn-MN-BataaNeural",
         "displayName": "Bataa",
-        "locale": "mn-MN"
+        "locale": "mn-MN",
     },
     "mn-mn-yesuineural": {
-        "voice": {
-            "name": "mn-MN-YesuiNeural"
-        },
+        "voice": {"name": "mn-MN-YesuiNeural"},
         "id": "mn-MN-YesuiNeural",
         "displayName": "Yesui",
-        "locale": "mn-MN"
+        "locale": "mn-MN",
     },
     "moaz": {
-        "voice": {
-            "name": "ar-QA-MoazNeural"
-        },
+        "voice": {"name": "ar-QA-MoazNeural"},
         "id": "ar-QA-MoazNeural",
         "displayName": "Moaz",
-        "locale": "ar-QA"
+        "locale": "ar-QA",
     },
     "mohan": {
-        "voice": {
-            "name": "te-IN-MohanNeural"
-        },
+        "voice": {"name": "te-IN-MohanNeural"},
         "id": "te-IN-MohanNeural",
         "displayName": "Mohan",
-        "locale": "te-IN"
+        "locale": "te-IN",
     },
     "molly": {
-        "voice": {
-            "name": "en-NZ-MollyNeural"
-        },
+        "voice": {"name": "en-NZ-MollyNeural"},
         "id": "en-NZ-MollyNeural",
         "displayName": "Molly",
-        "locale": "en-NZ"
+        "locale": "en-NZ",
     },
     "monica": {
-        "voice": {
-            "name": "en-US-MonicaNeural"
-        },
+        "voice": {"name": "en-US-MonicaNeural"},
         "id": "en-US-MonicaNeural",
         "displayName": "Monica",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "mouna": {
-        "voice": {
-            "name": "ar-MA-MounaNeural"
-        },
+        "voice": {"name": "ar-MA-MounaNeural"},
         "id": "ar-MA-MounaNeural",
         "displayName": "Mouna",
-        "locale": "ar-MA"
+        "locale": "ar-MA",
     },
     "mr-in-aarohineural": {
-        "voice": {
-            "name": "mr-IN-AarohiNeural"
-        },
+        "voice": {"name": "mr-IN-AarohiNeural"},
         "id": "mr-IN-AarohiNeural",
         "displayName": "Aarohi",
-        "locale": "mr-IN"
+        "locale": "mr-IN",
     },
     "mr-in-manoharneural": {
-        "voice": {
-            "name": "mr-IN-ManoharNeural"
-        },
+        "voice": {"name": "mr-IN-ManoharNeural"},
         "id": "mr-IN-ManoharNeural",
         "displayName": "Manohar",
-        "locale": "mr-IN"
+        "locale": "mr-IN",
     },
     "ms-my-osmanneural": {
-        "voice": {
-            "name": "ms-MY-OsmanNeural"
-        },
+        "voice": {"name": "ms-MY-OsmanNeural"},
         "id": "ms-MY-OsmanNeural",
         "displayName": "Osman",
-        "locale": "ms-MY"
+        "locale": "ms-MY",
     },
     "ms-my-yasminneural": {
-        "voice": {
-            "name": "ms-MY-YasminNeural"
-        },
+        "voice": {"name": "ms-MY-YasminNeural"},
         "id": "ms-MY-YasminNeural",
         "displayName": "Yasmin",
-        "locale": "ms-MY"
+        "locale": "ms-MY",
     },
     "mt-mt-graceneural": {
-        "voice": {
-            "name": "mt-MT-GraceNeural"
-        },
+        "voice": {"name": "mt-MT-GraceNeural"},
         "id": "mt-MT-GraceNeural",
         "displayName": "Grace",
-        "locale": "mt-MT"
+        "locale": "mt-MT",
     },
     "mt-mt-josephneural": {
-        "voice": {
-            "name": "mt-MT-JosephNeural"
-        },
+        "voice": {"name": "mt-MT-JosephNeural"},
         "id": "mt-MT-JosephNeural",
         "displayName": "Joseph",
-        "locale": "mt-MT"
+        "locale": "mt-MT",
     },
     "muuse": {
-        "voice": {
-            "name": "so-SO-MuuseNeural"
-        },
+        "voice": {"name": "so-SO-MuuseNeural"},
         "id": "so-SO-MuuseNeural",
         "displayName": "Muuse",
-        "locale": "so-SO"
+        "locale": "so-SO",
     },
     "my-mm-nilarneural": {
-        "voice": {
-            "name": "my-MM-NilarNeural"
-        },
+        "voice": {"name": "my-MM-NilarNeural"},
         "id": "my-MM-NilarNeural",
         "displayName": "Nilar",
-        "locale": "my-MM"
+        "locale": "my-MM",
     },
     "my-mm-thihaneural": {
-        "voice": {
-            "name": "my-MM-ThihaNeural"
-        },
+        "voice": {"name": "my-MM-ThihaNeural"},
         "id": "my-MM-ThihaNeural",
         "displayName": "Thiha",
-        "locale": "my-MM"
+        "locale": "my-MM",
     },
     "nabanita": {
-        "voice": {
-            "name": "bn-BD-NabanitaNeural"
-        },
+        "voice": {"name": "bn-BD-NabanitaNeural"},
         "id": "bn-BD-NabanitaNeural",
         "displayName": "Nabanita",
-        "locale": "bn-BD"
+        "locale": "bn-BD",
     },
     "namminh": {
-        "voice": {
-            "name": "vi-VN-NamMinhNeural"
-        },
+        "voice": {"name": "vi-VN-NamMinhNeural"},
         "id": "vi-VN-NamMinhNeural",
         "displayName": "NamMinh",
-        "locale": "vi-VN"
+        "locale": "vi-VN",
     },
     "nanami": {
-        "voice": {
-            "name": "ja-JP-NanamiNeural"
-        },
+        "voice": {"name": "ja-JP-NanamiNeural"},
         "id": "ja-JP-NanamiNeural",
         "displayName": "Nanami",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "nancy": {
-        "voice": {
-            "name": "en-US-NancyNeural"
-        },
+        "voice": {"name": "en-US-NancyNeural"},
         "id": "en-US-NancyNeural",
         "displayName": "Nancy",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "nancy multilingual": {
-        "voice": {
-            "name": "en-US-NancyMultilingualNeural"
-        },
+        "voice": {"name": "en-US-NancyMultilingualNeural"},
         "id": "en-US-NancyMultilingualNeural",
         "displayName": "Nancy Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "naoki": {
-        "voice": {
-            "name": "ja-JP-NaokiNeural"
-        },
+        "voice": {"name": "ja-JP-NaokiNeural"},
         "id": "ja-JP-NaokiNeural",
         "displayName": "Naoki",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "natasha": {
-        "voice": {
-            "name": "en-AU-NatashaNeural"
-        },
+        "voice": {"name": "en-AU-NatashaNeural"},
         "id": "en-AU-NatashaNeural",
         "displayName": "Natasha",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "nb-no-finnneural": {
-        "voice": {
-            "name": "nb-NO-FinnNeural"
-        },
+        "voice": {"name": "nb-NO-FinnNeural"},
         "id": "nb-NO-FinnNeural",
         "displayName": "Finn",
-        "locale": "nb-NO"
+        "locale": "nb-NO",
     },
     "nb-no-iselinneural": {
-        "voice": {
-            "name": "nb-NO-IselinNeural"
-        },
+        "voice": {"name": "nb-NO-IselinNeural"},
         "id": "nb-NO-IselinNeural",
         "displayName": "Iselin",
-        "locale": "nb-NO"
+        "locale": "nb-NO",
     },
     "nb-no-pernilleneural": {
-        "voice": {
-            "name": "nb-NO-PernilleNeural"
-        },
+        "voice": {"name": "nb-NO-PernilleNeural"},
         "id": "nb-NO-PernilleNeural",
         "displayName": "Pernille",
-        "locale": "nb-NO"
+        "locale": "nb-NO",
     },
     "ne-np-hemkalaneural": {
-        "voice": {
-            "name": "ne-NP-HemkalaNeural"
-        },
+        "voice": {"name": "ne-NP-HemkalaNeural"},
         "id": "ne-NP-HemkalaNeural",
         "displayName": "Hemkala",
-        "locale": "ne-NP"
+        "locale": "ne-NP",
     },
     "ne-np-sagarneural": {
-        "voice": {
-            "name": "ne-NP-SagarNeural"
-        },
+        "voice": {"name": "ne-NP-SagarNeural"},
         "id": "ne-NP-SagarNeural",
         "displayName": "Sagar",
-        "locale": "ne-NP"
+        "locale": "ne-NP",
     },
     "neerja": {
-        "voice": {
-            "name": "en-IN-NeerjaNeural"
-        },
+        "voice": {"name": "en-IN-NeerjaNeural"},
         "id": "en-IN-NeerjaNeural",
         "displayName": "Neerja",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "neerja indic": {
-        "voice": {
-            "name": "en-IN-NeerjaIndicNeural"
-        },
+        "voice": {"name": "en-IN-NeerjaIndicNeural"},
         "id": "en-IN-NeerjaIndicNeural",
         "displayName": "Neerja Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "neil": {
-        "voice": {
-            "name": "en-AU-NeilNeural"
-        },
+        "voice": {"name": "en-AU-NeilNeural"},
         "id": "en-AU-NeilNeural",
         "displayName": "Neil",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "nestoras": {
-        "voice": {
-            "name": "el-GR-NestorasNeural"
-        },
+        "voice": {"name": "el-GR-NestorasNeural"},
         "id": "el-GR-NestorasNeural",
         "displayName": "Nestoras",
-        "locale": "el-GR"
+        "locale": "el-GR",
     },
     "nia": {
-        "voice": {
-            "name": "cy-GB-NiaNeural"
-        },
+        "voice": {"name": "cy-GB-NiaNeural"},
         "id": "cy-GB-NiaNeural",
         "displayName": "Nia",
-        "locale": "cy-GB"
+        "locale": "cy-GB",
     },
     "nicholas": {
-        "voice": {
-            "name": "sr-Latn-RS-NicholasNeural"
-        },
+        "voice": {"name": "sr-Latn-RS-NicholasNeural"},
         "id": "sr-Latn-RS-NicholasNeural",
         "displayName": "Nicholas",
-        "locale": "sr-Latn-RS"
+        "locale": "sr-Latn-RS",
     },
     "nicolau": {
-        "voice": {
-            "name": "pt-BR-NicolauNeural"
-        },
+        "voice": {"name": "pt-BR-NicolauNeural"},
         "id": "pt-BR-NicolauNeural",
         "displayName": "Nicolau",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "nil": {
-        "voice": {
-            "name": "es-ES-NilNeural"
-        },
+        "voice": {"name": "es-ES-NilNeural"},
         "id": "es-ES-NilNeural",
         "displayName": "Nil",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "nilar": {
-        "voice": {
-            "name": "my-MM-NilarNeural"
-        },
+        "voice": {"name": "my-MM-NilarNeural"},
         "id": "my-MM-NilarNeural",
         "displayName": "Nilar",
-        "locale": "my-MM"
+        "locale": "my-MM",
     },
     "nils": {
-        "voice": {
-            "name": "lv-LV-NilsNeural"
-        },
+        "voice": {"name": "lv-LV-NilsNeural"},
         "id": "lv-LV-NilsNeural",
         "displayName": "Nils",
-        "locale": "lv-LV"
+        "locale": "lv-LV",
     },
     "niranjan": {
-        "voice": {
-            "name": "gu-IN-NiranjanNeural"
-        },
+        "voice": {"name": "gu-IN-NiranjanNeural"},
         "id": "gu-IN-NiranjanNeural",
         "displayName": "Niranjan",
-        "locale": "gu-IN"
+        "locale": "gu-IN",
     },
     "niwat": {
-        "voice": {
-            "name": "th-TH-NiwatNeural"
-        },
+        "voice": {"name": "th-TH-NiwatNeural"},
         "id": "th-TH-NiwatNeural",
         "displayName": "Niwat",
-        "locale": "th-TH"
+        "locale": "th-TH",
     },
     "nl-be-arnaudneural": {
-        "voice": {
-            "name": "nl-BE-ArnaudNeural"
-        },
+        "voice": {"name": "nl-BE-ArnaudNeural"},
         "id": "nl-BE-ArnaudNeural",
         "displayName": "Arnaud",
-        "locale": "nl-BE"
+        "locale": "nl-BE",
     },
     "nl-be-denaneural": {
-        "voice": {
-            "name": "nl-BE-DenaNeural"
-        },
+        "voice": {"name": "nl-BE-DenaNeural"},
         "id": "nl-BE-DenaNeural",
         "displayName": "Dena",
-        "locale": "nl-BE"
+        "locale": "nl-BE",
     },
     "nl-nl-coletteneural": {
-        "voice": {
-            "name": "nl-NL-ColetteNeural"
-        },
+        "voice": {"name": "nl-NL-ColetteNeural"},
         "id": "nl-NL-ColetteNeural",
         "displayName": "Colette",
-        "locale": "nl-NL"
+        "locale": "nl-NL",
     },
     "nl-nl-fennaneural": {
-        "voice": {
-            "name": "nl-NL-FennaNeural"
-        },
+        "voice": {"name": "nl-NL-FennaNeural"},
         "id": "nl-NL-FennaNeural",
         "displayName": "Fenna",
-        "locale": "nl-NL"
+        "locale": "nl-NL",
     },
     "nl-nl-maartenneural": {
-        "voice": {
-            "name": "nl-NL-MaartenNeural"
-        },
+        "voice": {"name": "nl-NL-MaartenNeural"},
         "id": "nl-NL-MaartenNeural",
         "displayName": "Maarten",
-        "locale": "nl-NL"
+        "locale": "nl-NL",
     },
     "noah": {
-        "voice": {
-            "name": "en-GB-NoahNeural"
-        },
+        "voice": {"name": "en-GB-NoahNeural"},
         "id": "en-GB-NoahNeural",
         "displayName": "Noah",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "noemi": {
-        "voice": {
-            "name": "hu-HU-NoemiNeural"
-        },
+        "voice": {"name": "hu-HU-NoemiNeural"},
         "id": "hu-HU-NoemiNeural",
         "displayName": "Noemi",
-        "locale": "hu-HU"
+        "locale": "hu-HU",
     },
     "noora": {
-        "voice": {
-            "name": "fi-FI-NooraNeural"
-        },
+        "voice": {"name": "fi-FI-NooraNeural"},
         "id": "fi-FI-NooraNeural",
         "displayName": "Noora",
-        "locale": "fi-FI"
+        "locale": "fi-FI",
     },
     "noura": {
-        "voice": {
-            "name": "ar-KW-NouraNeural"
-        },
+        "voice": {"name": "ar-KW-NouraNeural"},
         "id": "ar-KW-NouraNeural",
         "displayName": "Noura",
-        "locale": "ar-KW"
+        "locale": "ar-KW",
     },
     "nova turbo multilingual": {
-        "voice": {
-            "name": "en-US-NovaTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-NovaTurboMultilingualNeural"},
         "id": "en-US-NovaTurboMultilingualNeural",
         "displayName": "Nova Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "nuria": {
-        "voice": {
-            "name": "es-MX-NuriaNeural"
-        },
+        "voice": {"name": "es-MX-NuriaNeural"},
         "id": "es-MX-NuriaNeural",
         "displayName": "Nuria",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "ojas": {
-        "voice": {
-            "name": "pa-IN-OjasNeural"
-        },
+        "voice": {"name": "pa-IN-OjasNeural"},
         "id": "pa-IN-OjasNeural",
         "displayName": "Ojas",
-        "locale": "pa-IN"
+        "locale": "pa-IN",
     },
     "oliver": {
-        "voice": {
-            "name": "en-GB-OliverNeural"
-        },
+        "voice": {"name": "en-GB-OliverNeural"},
         "id": "en-GB-OliverNeural",
         "displayName": "Oliver",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "olivia": {
-        "voice": {
-            "name": "en-GB-OliviaNeural"
-        },
+        "voice": {"name": "en-GB-OliviaNeural"},
         "id": "en-GB-OliviaNeural",
         "displayName": "Olivia",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "ollie multilingual": {
-        "voice": {
-            "name": "en-GB-OllieMultilingualNeural"
-        },
+        "voice": {"name": "en-GB-OllieMultilingualNeural"},
         "id": "en-GB-OllieMultilingualNeural",
         "displayName": "Ollie Multilingual",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "omar": {
-        "voice": {
-            "name": "ar-LY-OmarNeural"
-        },
+        "voice": {"name": "ar-LY-OmarNeural"},
         "id": "ar-LY-OmarNeural",
         "displayName": "Omar",
-        "locale": "ar-LY"
+        "locale": "ar-LY",
     },
     "ona": {
-        "voice": {
-            "name": "lt-LT-OnaNeural"
-        },
+        "voice": {"name": "lt-LT-OnaNeural"},
         "id": "lt-LT-OnaNeural",
         "displayName": "Ona",
-        "locale": "lt-LT"
+        "locale": "lt-LT",
     },
     "onyx turbo multilingual": {
-        "voice": {
-            "name": "en-US-OnyxTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-OnyxTurboMultilingualNeural"},
         "id": "en-US-OnyxTurboMultilingualNeural",
         "displayName": "Onyx Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "or-in-subhasinineural": {
-        "voice": {
-            "name": "or-IN-SubhasiniNeural"
-        },
+        "voice": {"name": "or-IN-SubhasiniNeural"},
         "id": "or-IN-SubhasiniNeural",
         "displayName": "Subhasini",
-        "locale": "or-IN"
+        "locale": "or-IN",
     },
     "or-in-sukantneural": {
-        "voice": {
-            "name": "or-IN-SukantNeural"
-        },
+        "voice": {"name": "or-IN-SukantNeural"},
         "id": "or-IN-SukantNeural",
         "displayName": "Sukant",
-        "locale": "or-IN"
+        "locale": "or-IN",
     },
     "orla": {
-        "voice": {
-            "name": "ga-IE-OrlaNeural"
-        },
+        "voice": {"name": "ga-IE-OrlaNeural"},
         "id": "ga-IE-OrlaNeural",
         "displayName": "Orla",
-        "locale": "ga-IE"
+        "locale": "ga-IE",
     },
     "osman": {
-        "voice": {
-            "name": "ms-MY-OsmanNeural"
-        },
+        "voice": {"name": "ms-MY-OsmanNeural"},
         "id": "ms-MY-OsmanNeural",
         "displayName": "Osman",
-        "locale": "ms-MY"
+        "locale": "ms-MY",
     },
     "ostap": {
-        "voice": {
-            "name": "uk-UA-OstapNeural"
-        },
+        "voice": {"name": "uk-UA-OstapNeural"},
         "id": "uk-UA-OstapNeural",
         "displayName": "Ostap",
-        "locale": "uk-UA"
+        "locale": "uk-UA",
     },
     "pa-in-ojasneural": {
-        "voice": {
-            "name": "pa-IN-OjasNeural"
-        },
+        "voice": {"name": "pa-IN-OjasNeural"},
         "id": "pa-IN-OjasNeural",
         "displayName": "Ojas",
-        "locale": "pa-IN"
+        "locale": "pa-IN",
     },
     "pa-in-vaanineural": {
-        "voice": {
-            "name": "pa-IN-VaaniNeural"
-        },
+        "voice": {"name": "pa-IN-VaaniNeural"},
         "id": "pa-IN-VaaniNeural",
         "displayName": "Vaani",
-        "locale": "pa-IN"
+        "locale": "pa-IN",
     },
     "pallavi": {
-        "voice": {
-            "name": "ta-IN-PallaviNeural"
-        },
+        "voice": {"name": "ta-IN-PallaviNeural"},
         "id": "ta-IN-PallaviNeural",
         "displayName": "Pallavi",
-        "locale": "ta-IN"
+        "locale": "ta-IN",
     },
     "palmira": {
-        "voice": {
-            "name": "it-IT-PalmiraNeural"
-        },
+        "voice": {"name": "it-IT-PalmiraNeural"},
         "id": "it-IT-PalmiraNeural",
         "displayName": "Palmira",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "paloma": {
-        "voice": {
-            "name": "es-US-PalomaNeural"
-        },
+        "voice": {"name": "es-US-PalomaNeural"},
         "id": "es-US-PalomaNeural",
         "displayName": "Paloma",
-        "locale": "es-US"
+        "locale": "es-US",
     },
     "paola": {
-        "voice": {
-            "name": "es-VE-PaolaNeural"
-        },
+        "voice": {"name": "es-VE-PaolaNeural"},
         "id": "es-VE-PaolaNeural",
         "displayName": "Paola",
-        "locale": "es-VE"
+        "locale": "es-VE",
     },
     "pelayo": {
-        "voice": {
-            "name": "es-MX-PelayoNeural"
-        },
+        "voice": {"name": "es-MX-PelayoNeural"},
         "id": "es-MX-PelayoNeural",
         "displayName": "Pelayo",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "pernille": {
-        "voice": {
-            "name": "nb-NO-PernilleNeural"
-        },
+        "voice": {"name": "nb-NO-PernilleNeural"},
         "id": "nb-NO-PernilleNeural",
         "displayName": "Pernille",
-        "locale": "nb-NO"
+        "locale": "nb-NO",
     },
     "petra": {
-        "voice": {
-            "name": "sl-SI-PetraNeural"
-        },
+        "voice": {"name": "sl-SI-PetraNeural"},
         "id": "sl-SI-PetraNeural",
         "displayName": "Petra",
-        "locale": "sl-SI"
+        "locale": "sl-SI",
     },
     "phoebe multilingual": {
-        "voice": {
-            "name": "en-US-PhoebeMultilingualNeural"
-        },
+        "voice": {"name": "en-US-PhoebeMultilingualNeural"},
         "id": "en-US-PhoebeMultilingualNeural",
         "displayName": "Phoebe Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "pierina": {
-        "voice": {
-            "name": "it-IT-PierinaNeural"
-        },
+        "voice": {"name": "it-IT-PierinaNeural"},
         "id": "it-IT-PierinaNeural",
         "displayName": "Pierina",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "piseth": {
-        "voice": {
-            "name": "km-KH-PisethNeural"
-        },
+        "voice": {"name": "km-KH-PisethNeural"},
         "id": "km-KH-PisethNeural",
         "displayName": "Piseth",
-        "locale": "km-KH"
+        "locale": "km-KH",
     },
     "pl-pl-agnieszkaneural": {
-        "voice": {
-            "name": "pl-PL-AgnieszkaNeural"
-        },
+        "voice": {"name": "pl-PL-AgnieszkaNeural"},
         "id": "pl-PL-AgnieszkaNeural",
         "displayName": "Agnieszka",
-        "locale": "pl-PL"
+        "locale": "pl-PL",
     },
     "pl-pl-marekneural": {
-        "voice": {
-            "name": "pl-PL-MarekNeural"
-        },
+        "voice": {"name": "pl-PL-MarekNeural"},
         "id": "pl-PL-MarekNeural",
         "displayName": "Marek",
-        "locale": "pl-PL"
+        "locale": "pl-PL",
     },
     "pl-pl-zofianeural": {
-        "voice": {
-            "name": "pl-PL-ZofiaNeural"
-        },
+        "voice": {"name": "pl-PL-ZofiaNeural"},
         "id": "pl-PL-ZofiaNeural",
         "displayName": "Zofia",
-        "locale": "pl-PL"
+        "locale": "pl-PL",
     },
     "polina": {
-        "voice": {
-            "name": "uk-UA-PolinaNeural"
-        },
+        "voice": {"name": "uk-UA-PolinaNeural"},
         "id": "uk-UA-PolinaNeural",
         "displayName": "Polina",
-        "locale": "uk-UA"
+        "locale": "uk-UA",
     },
     "prabhat": {
-        "voice": {
-            "name": "en-IN-PrabhatNeural"
-        },
+        "voice": {"name": "en-IN-PrabhatNeural"},
         "id": "en-IN-PrabhatNeural",
         "displayName": "Prabhat",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "prabhat indic": {
-        "voice": {
-            "name": "en-IN-PrabhatIndicNeural"
-        },
+        "voice": {"name": "en-IN-PrabhatIndicNeural"},
         "id": "en-IN-PrabhatIndicNeural",
         "displayName": "Prabhat Indic",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "pradeep": {
-        "voice": {
-            "name": "bn-BD-PradeepNeural"
-        },
+        "voice": {"name": "bn-BD-PradeepNeural"},
         "id": "bn-BD-PradeepNeural",
         "displayName": "Pradeep",
-        "locale": "bn-BD"
+        "locale": "bn-BD",
     },
     "premwadee": {
-        "voice": {
-            "name": "th-TH-PremwadeeNeural"
-        },
+        "voice": {"name": "th-TH-PremwadeeNeural"},
         "id": "th-TH-PremwadeeNeural",
         "displayName": "Premwadee",
-        "locale": "th-TH"
+        "locale": "th-TH",
     },
     "priyom": {
-        "voice": {
-            "name": "as-IN-PriyomNeural"
-        },
+        "voice": {"name": "as-IN-PriyomNeural"},
         "id": "as-IN-PriyomNeural",
         "displayName": "Priyom",
-        "locale": "as-IN"
+        "locale": "as-IN",
     },
     "ps-af-gulnawazneural": {
-        "voice": {
-            "name": "ps-AF-GulNawazNeural"
-        },
+        "voice": {"name": "ps-AF-GulNawazNeural"},
         "id": "ps-AF-GulNawazNeural",
         "displayName": "Gul Nawaz",
-        "locale": "ps-AF"
+        "locale": "ps-AF",
     },
     "ps-af-latifaneural": {
-        "voice": {
-            "name": "ps-AF-LatifaNeural"
-        },
+        "voice": {"name": "ps-AF-LatifaNeural"},
         "id": "ps-AF-LatifaNeural",
         "displayName": "Latifa",
-        "locale": "ps-AF"
+        "locale": "ps-AF",
     },
     "pt-br-antonioneural": {
-        "voice": {
-            "name": "pt-BR-AntonioNeural"
-        },
+        "voice": {"name": "pt-BR-AntonioNeural"},
         "id": "pt-BR-AntonioNeural",
         "displayName": "Antonio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-brendaneural": {
-        "voice": {
-            "name": "pt-BR-BrendaNeural"
-        },
+        "voice": {"name": "pt-BR-BrendaNeural"},
         "id": "pt-BR-BrendaNeural",
         "displayName": "Brenda",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-donatoneural": {
-        "voice": {
-            "name": "pt-BR-DonatoNeural"
-        },
+        "voice": {"name": "pt-BR-DonatoNeural"},
         "id": "pt-BR-DonatoNeural",
         "displayName": "Donato",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-elzaneural": {
-        "voice": {
-            "name": "pt-BR-ElzaNeural"
-        },
+        "voice": {"name": "pt-BR-ElzaNeural"},
         "id": "pt-BR-ElzaNeural",
         "displayName": "Elza",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-fabioneural": {
-        "voice": {
-            "name": "pt-BR-FabioNeural"
-        },
+        "voice": {"name": "pt-BR-FabioNeural"},
         "id": "pt-BR-FabioNeural",
         "displayName": "Fabio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-franciscaneural": {
-        "voice": {
-            "name": "pt-BR-FranciscaNeural"
-        },
+        "voice": {"name": "pt-BR-FranciscaNeural"},
         "id": "pt-BR-FranciscaNeural",
         "displayName": "Francisca",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-giovannaneural": {
-        "voice": {
-            "name": "pt-BR-GiovannaNeural"
-        },
+        "voice": {"name": "pt-BR-GiovannaNeural"},
         "id": "pt-BR-GiovannaNeural",
         "displayName": "Giovanna",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-humbertoneural": {
-        "voice": {
-            "name": "pt-BR-HumbertoNeural"
-        },
+        "voice": {"name": "pt-BR-HumbertoNeural"},
         "id": "pt-BR-HumbertoNeural",
         "displayName": "Humberto",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-julioneural": {
-        "voice": {
-            "name": "pt-BR-JulioNeural"
-        },
+        "voice": {"name": "pt-BR-JulioNeural"},
         "id": "pt-BR-JulioNeural",
         "displayName": "Julio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-leilaneural": {
-        "voice": {
-            "name": "pt-BR-LeilaNeural"
-        },
+        "voice": {"name": "pt-BR-LeilaNeural"},
         "id": "pt-BR-LeilaNeural",
         "displayName": "Leila",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-leticianeural": {
-        "voice": {
-            "name": "pt-BR-LeticiaNeural"
-        },
+        "voice": {"name": "pt-BR-LeticiaNeural"},
         "id": "pt-BR-LeticiaNeural",
         "displayName": "Leticia",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-maceriomultilingualneural": {
-        "voice": {
-            "name": "pt-BR-MacerioMultilingualNeural"
-        },
+        "voice": {"name": "pt-BR-MacerioMultilingualNeural"},
         "id": "pt-BR-MacerioMultilingualNeural",
         "displayName": "Macerio Multilingual",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-manuelaneural": {
-        "voice": {
-            "name": "pt-BR-ManuelaNeural"
-        },
+        "voice": {"name": "pt-BR-ManuelaNeural"},
         "id": "pt-BR-ManuelaNeural",
         "displayName": "Manuela",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-nicolauneural": {
-        "voice": {
-            "name": "pt-BR-NicolauNeural"
-        },
+        "voice": {"name": "pt-BR-NicolauNeural"},
         "id": "pt-BR-NicolauNeural",
         "displayName": "Nicolau",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-thalitamultilingualneural": {
-        "voice": {
-            "name": "pt-BR-ThalitaMultilingualNeural"
-        },
+        "voice": {"name": "pt-BR-ThalitaMultilingualNeural"},
         "id": "pt-BR-ThalitaMultilingualNeural",
         "displayName": "Thalita Multilingual",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-thalitaneural": {
-        "voice": {
-            "name": "pt-BR-ThalitaNeural"
-        },
+        "voice": {"name": "pt-BR-ThalitaNeural"},
         "id": "pt-BR-ThalitaNeural",
         "displayName": "Thalita",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-valerioneural": {
-        "voice": {
-            "name": "pt-BR-ValerioNeural"
-        },
+        "voice": {"name": "pt-BR-ValerioNeural"},
         "id": "pt-BR-ValerioNeural",
         "displayName": "Valerio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-br-yaraneural": {
-        "voice": {
-            "name": "pt-BR-YaraNeural"
-        },
+        "voice": {"name": "pt-BR-YaraNeural"},
         "id": "pt-BR-YaraNeural",
         "displayName": "Yara",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "pt-pt-duarteneural": {
-        "voice": {
-            "name": "pt-PT-DuarteNeural"
-        },
+        "voice": {"name": "pt-PT-DuarteNeural"},
         "id": "pt-PT-DuarteNeural",
         "displayName": "Duarte",
-        "locale": "pt-PT"
+        "locale": "pt-PT",
     },
     "pt-pt-fernandaneural": {
-        "voice": {
-            "name": "pt-PT-FernandaNeural"
-        },
+        "voice": {"name": "pt-PT-FernandaNeural"},
         "id": "pt-PT-FernandaNeural",
         "displayName": "Fernanda",
-        "locale": "pt-PT"
+        "locale": "pt-PT",
     },
     "pt-pt-raquelneural": {
-        "voice": {
-            "name": "pt-PT-RaquelNeural"
-        },
+        "voice": {"name": "pt-PT-RaquelNeural"},
         "id": "pt-PT-RaquelNeural",
         "displayName": "Raquel",
-        "locale": "pt-PT"
+        "locale": "pt-PT",
     },
     "rafiki": {
-        "voice": {
-            "name": "sw-KE-RafikiNeural"
-        },
+        "voice": {"name": "sw-KE-RafikiNeural"},
         "id": "sw-KE-RafikiNeural",
         "displayName": "Rafiki",
-        "locale": "sw-KE"
+        "locale": "sw-KE",
     },
     "ralf": {
-        "voice": {
-            "name": "de-DE-RalfNeural"
-        },
+        "voice": {"name": "de-DE-RalfNeural"},
         "id": "de-DE-RalfNeural",
         "displayName": "Ralf",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "rami": {
-        "voice": {
-            "name": "ar-LB-RamiNeural"
-        },
+        "voice": {"name": "ar-LB-RamiNeural"},
         "id": "ar-LB-RamiNeural",
         "displayName": "Rami",
-        "locale": "ar-LB"
+        "locale": "ar-LB",
     },
     "ramona": {
-        "voice": {
-            "name": "es-DO-RamonaNeural"
-        },
+        "voice": {"name": "es-DO-RamonaNeural"},
         "id": "es-DO-RamonaNeural",
         "displayName": "Ramona",
-        "locale": "es-DO"
+        "locale": "es-DO",
     },
     "rana": {
-        "voice": {
-            "name": "ar-IQ-RanaNeural"
-        },
+        "voice": {"name": "ar-IQ-RanaNeural"},
         "id": "ar-IQ-RanaNeural",
         "displayName": "Rana",
-        "locale": "ar-IQ"
+        "locale": "ar-IQ",
     },
     "raquel": {
-        "voice": {
-            "name": "pt-PT-RaquelNeural"
-        },
+        "voice": {"name": "pt-PT-RaquelNeural"},
         "id": "pt-PT-RaquelNeural",
         "displayName": "Raquel",
-        "locale": "pt-PT"
+        "locale": "pt-PT",
     },
     "reem": {
-        "voice": {
-            "name": "ar-TN-ReemNeural"
-        },
+        "voice": {"name": "ar-TN-ReemNeural"},
         "id": "ar-TN-ReemNeural",
         "displayName": "Reem",
-        "locale": "ar-TN"
+        "locale": "ar-TN",
     },
     "rehaan": {
-        "voice": {
-            "name": "en-IN-RehaanNeural"
-        },
+        "voice": {"name": "en-IN-RehaanNeural"},
         "id": "en-IN-RehaanNeural",
         "displayName": "Rehaan",
-        "locale": "en-IN"
+        "locale": "en-IN",
     },
     "rehema": {
-        "voice": {
-            "name": "sw-TZ-RehemaNeural"
-        },
+        "voice": {"name": "sw-TZ-RehemaNeural"},
         "id": "sw-TZ-RehemaNeural",
         "displayName": "Rehema",
-        "locale": "sw-TZ"
+        "locale": "sw-TZ",
     },
     "remy multilingual": {
-        "voice": {
-            "name": "fr-FR-RemyMultilingualNeural"
-        },
+        "voice": {"name": "fr-FR-RemyMultilingualNeural"},
         "id": "fr-FR-RemyMultilingualNeural",
         "displayName": "Remy Multilingual",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "renata": {
-        "voice": {
-            "name": "es-MX-RenataNeural"
-        },
+        "voice": {"name": "es-MX-RenataNeural"},
         "id": "es-MX-RenataNeural",
         "displayName": "Renata",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "rinaldo": {
-        "voice": {
-            "name": "it-IT-RinaldoNeural"
-        },
+        "voice": {"name": "it-IT-RinaldoNeural"},
         "id": "it-IT-RinaldoNeural",
         "displayName": "Rinaldo",
-        "locale": "it-IT"
+        "locale": "it-IT",
     },
     "ro-ro-alinaneural": {
-        "voice": {
-            "name": "ro-RO-AlinaNeural"
-        },
+        "voice": {"name": "ro-RO-AlinaNeural"},
         "id": "ro-RO-AlinaNeural",
         "displayName": "Alina",
-        "locale": "ro-RO"
+        "locale": "ro-RO",
     },
     "ro-ro-emilneural": {
-        "voice": {
-            "name": "ro-RO-EmilNeural"
-        },
+        "voice": {"name": "ro-RO-EmilNeural"},
         "id": "ro-RO-EmilNeural",
         "displayName": "Emil",
-        "locale": "ro-RO"
+        "locale": "ro-RO",
     },
     "roberto": {
-        "voice": {
-            "name": "es-PA-RobertoNeural"
-        },
+        "voice": {"name": "es-PA-RobertoNeural"},
         "id": "es-PA-RobertoNeural",
         "displayName": "Roberto",
-        "locale": "es-PA"
+        "locale": "es-PA",
     },
     "rodrigo": {
-        "voice": {
-            "name": "es-SV-RodrigoNeural"
-        },
+        "voice": {"name": "es-SV-RodrigoNeural"},
         "id": "es-SV-RodrigoNeural",
         "displayName": "Rodrigo",
-        "locale": "es-SV"
+        "locale": "es-SV",
     },
     "roger": {
-        "voice": {
-            "name": "en-US-RogerNeural"
-        },
+        "voice": {"name": "en-US-RogerNeural"},
         "id": "en-US-RogerNeural",
         "displayName": "Roger",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "roi": {
-        "voice": {
-            "name": "gl-ES-RoiNeural"
-        },
+        "voice": {"name": "gl-ES-RoiNeural"},
         "id": "gl-ES-RoiNeural",
         "displayName": "Roi",
-        "locale": "gl-ES"
+        "locale": "gl-ES",
     },
     "rok": {
-        "voice": {
-            "name": "sl-SI-RokNeural"
-        },
+        "voice": {"name": "sl-SI-RokNeural"},
         "id": "sl-SI-RokNeural",
         "displayName": "Rok",
-        "locale": "sl-SI"
+        "locale": "sl-SI",
     },
     "rosa": {
-        "voice": {
-            "name": "en-PH-RosaNeural"
-        },
+        "voice": {"name": "en-PH-RosaNeural"},
         "id": "en-PH-RosaNeural",
         "displayName": "Rosa",
-        "locale": "en-PH"
+        "locale": "en-PH",
     },
     "ru-ru-dariyaneural": {
-        "voice": {
-            "name": "ru-RU-DariyaNeural"
-        },
+        "voice": {"name": "ru-RU-DariyaNeural"},
         "id": "ru-RU-DariyaNeural",
         "displayName": "Dariya",
-        "locale": "ru-RU"
+        "locale": "ru-RU",
     },
     "ru-ru-dmitryneural": {
-        "voice": {
-            "name": "ru-RU-DmitryNeural"
-        },
+        "voice": {"name": "ru-RU-DmitryNeural"},
         "id": "ru-RU-DmitryNeural",
         "displayName": "Dmitry",
-        "locale": "ru-RU"
+        "locale": "ru-RU",
     },
     "ru-ru-svetlananeural": {
-        "voice": {
-            "name": "ru-RU-SvetlanaNeural"
-        },
+        "voice": {"name": "ru-RU-SvetlanaNeural"},
         "id": "ru-RU-SvetlanaNeural",
         "displayName": "Svetlana",
-        "locale": "ru-RU"
+        "locale": "ru-RU",
     },
     "ryan": {
-        "voice": {
-            "name": "en-GB-RyanNeural"
-        },
+        "voice": {"name": "en-GB-RyanNeural"},
         "id": "en-GB-RyanNeural",
         "displayName": "Ryan",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "ryan multilingual": {
-        "voice": {
-            "name": "en-US-RyanMultilingualNeural"
-        },
+        "voice": {"name": "en-US-RyanMultilingualNeural"},
         "id": "en-US-RyanMultilingualNeural",
         "displayName": "Ryan Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "sabela": {
-        "voice": {
-            "name": "gl-ES-SabelaNeural"
-        },
+        "voice": {"name": "gl-ES-SabelaNeural"},
         "id": "gl-ES-SabelaNeural",
         "displayName": "Sabela",
-        "locale": "gl-ES"
+        "locale": "gl-ES",
     },
     "sagar": {
-        "voice": {
-            "name": "ne-NP-SagarNeural"
-        },
+        "voice": {"name": "ne-NP-SagarNeural"},
         "id": "ne-NP-SagarNeural",
         "displayName": "Sagar",
-        "locale": "ne-NP"
+        "locale": "ne-NP",
     },
     "saleh": {
-        "voice": {
-            "name": "ar-YE-SalehNeural"
-        },
+        "voice": {"name": "ar-YE-SalehNeural"},
         "id": "ar-YE-SalehNeural",
         "displayName": "Saleh",
-        "locale": "ar-YE"
+        "locale": "ar-YE",
     },
     "salma": {
-        "voice": {
-            "name": "ar-EG-SalmaNeural"
-        },
+        "voice": {"name": "ar-EG-SalmaNeural"},
         "id": "ar-EG-SalmaNeural",
         "displayName": "Salma",
-        "locale": "ar-EG"
+        "locale": "ar-EG",
     },
     "salman": {
-        "voice": {
-            "name": "ur-IN-SalmanNeural"
-        },
+        "voice": {"name": "ur-IN-SalmanNeural"},
         "id": "ur-IN-SalmanNeural",
         "displayName": "Salman",
-        "locale": "ur-IN"
+        "locale": "ur-IN",
     },
     "salome": {
-        "voice": {
-            "name": "es-CO-SalomeNeural"
-        },
+        "voice": {"name": "es-CO-SalomeNeural"},
         "id": "es-CO-SalomeNeural",
         "displayName": "Salome",
-        "locale": "es-CO"
+        "locale": "es-CO",
     },
     "sam": {
-        "voice": {
-            "name": "en-HK-SamNeural"
-        },
+        "voice": {"name": "en-HK-SamNeural"},
         "id": "en-HK-SamNeural",
         "displayName": "Sam",
-        "locale": "en-HK"
+        "locale": "en-HK",
     },
     "sameera": {
-        "voice": {
-            "name": "si-LK-SameeraNeural"
-        },
+        "voice": {"name": "si-LK-SameeraNeural"},
         "id": "si-LK-SameeraNeural",
         "displayName": "Sameera",
-        "locale": "si-LK"
+        "locale": "si-LK",
     },
     "samuel multilingual": {
-        "voice": {
-            "name": "en-US-SamuelMultilingualNeural"
-        },
+        "voice": {"name": "en-US-SamuelMultilingualNeural"},
         "id": "en-US-SamuelMultilingualNeural",
         "displayName": "Samuel Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "sana": {
-        "voice": {
-            "name": "ar-JO-SanaNeural"
-        },
+        "voice": {"name": "ar-JO-SanaNeural"},
         "id": "ar-JO-SanaNeural",
         "displayName": "Sana",
-        "locale": "ar-JO"
+        "locale": "ar-JO",
     },
     "sapna": {
-        "voice": {
-            "name": "kn-IN-SapnaNeural"
-        },
+        "voice": {"name": "kn-IN-SapnaNeural"},
         "id": "kn-IN-SapnaNeural",
         "displayName": "Sapna",
-        "locale": "kn-IN"
+        "locale": "kn-IN",
     },
     "sara": {
-        "voice": {
-            "name": "en-US-SaraNeural"
-        },
+        "voice": {"name": "en-US-SaraNeural"},
         "id": "en-US-SaraNeural",
         "displayName": "Sara",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "saranya": {
-        "voice": {
-            "name": "ta-LK-SaranyaNeural"
-        },
+        "voice": {"name": "ta-LK-SaranyaNeural"},
         "id": "ta-LK-SaranyaNeural",
         "displayName": "Saranya",
-        "locale": "ta-LK"
+        "locale": "ta-LK",
     },
     "sardor": {
-        "voice": {
-            "name": "uz-UZ-SardorNeural"
-        },
+        "voice": {"name": "uz-UZ-SardorNeural"},
         "id": "uz-UZ-SardorNeural",
         "displayName": "Sardor",
-        "locale": "uz-UZ"
+        "locale": "uz-UZ",
     },
     "saul": {
-        "voice": {
-            "name": "es-ES-SaulNeural"
-        },
+        "voice": {"name": "es-ES-SaulNeural"},
         "id": "es-ES-SaulNeural",
         "displayName": "Saul",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "sebastian": {
-        "voice": {
-            "name": "es-VE-SebastianNeural"
-        },
+        "voice": {"name": "es-VE-SebastianNeural"},
         "id": "es-VE-SebastianNeural",
         "displayName": "Sebastian",
-        "locale": "es-VE"
+        "locale": "es-VE",
     },
     "selma": {
-        "voice": {
-            "name": "fi-FI-SelmaNeural"
-        },
+        "voice": {"name": "fi-FI-SelmaNeural"},
         "id": "fi-FI-SelmaNeural",
         "displayName": "Selma",
-        "locale": "fi-FI"
+        "locale": "fi-FI",
     },
     "seohyeon": {
-        "voice": {
-            "name": "ko-KR-SeoHyeonNeural"
-        },
+        "voice": {"name": "ko-KR-SeoHyeonNeural"},
         "id": "ko-KR-SeoHyeonNeural",
         "displayName": "SeoHyeon",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "seraphina multilingual": {
-        "voice": {
-            "name": "de-DE-SeraphinaMultilingualNeural"
-        },
+        "voice": {"name": "de-DE-SeraphinaMultilingualNeural"},
         "id": "de-DE-SeraphinaMultilingualNeural",
         "displayName": "Seraphina Multilingual",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "serena multilingual": {
-        "voice": {
-            "name": "en-US-SerenaMultilingualNeural"
-        },
+        "voice": {"name": "en-US-SerenaMultilingualNeural"},
         "id": "en-US-SerenaMultilingualNeural",
         "displayName": "Serena Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "shakir": {
-        "voice": {
-            "name": "ar-EG-ShakirNeural"
-        },
+        "voice": {"name": "ar-EG-ShakirNeural"},
         "id": "ar-EG-ShakirNeural",
         "displayName": "Shakir",
-        "locale": "ar-EG"
+        "locale": "ar-EG",
     },
     "shimmer turbo multilingual": {
-        "voice": {
-            "name": "en-US-ShimmerTurboMultilingualNeural"
-        },
+        "voice": {"name": "en-US-ShimmerTurboMultilingualNeural"},
         "id": "en-US-ShimmerTurboMultilingualNeural",
         "displayName": "Shimmer Turbo Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "shiori": {
-        "voice": {
-            "name": "ja-JP-ShioriNeural"
-        },
+        "voice": {"name": "ja-JP-ShioriNeural"},
         "id": "ja-JP-ShioriNeural",
         "displayName": "Shiori",
-        "locale": "ja-JP"
+        "locale": "ja-JP",
     },
     "shruti": {
-        "voice": {
-            "name": "te-IN-ShrutiNeural"
-        },
+        "voice": {"name": "te-IN-ShrutiNeural"},
         "id": "te-IN-ShrutiNeural",
         "displayName": "Shruti",
-        "locale": "te-IN"
+        "locale": "te-IN",
     },
     "si-lk-sameeraneural": {
-        "voice": {
-            "name": "si-LK-SameeraNeural"
-        },
+        "voice": {"name": "si-LK-SameeraNeural"},
         "id": "si-LK-SameeraNeural",
         "displayName": "Sameera",
-        "locale": "si-LK"
+        "locale": "si-LK",
     },
     "si-lk-thilinineural": {
-        "voice": {
-            "name": "si-LK-ThiliniNeural"
-        },
+        "voice": {"name": "si-LK-ThiliniNeural"},
         "id": "si-LK-ThiliniNeural",
         "displayName": "Thilini",
-        "locale": "si-LK"
+        "locale": "si-LK",
     },
     "siqiniq": {
-        "voice": {
-            "name": "iu-Cans-CA-SiqiniqNeural"
-        },
+        "voice": {"name": "iu-Cans-CA-SiqiniqNeural"},
         "id": "iu-Cans-CA-SiqiniqNeural",
         "displayName": "Siqiniq",
-        "locale": "iu-Cans-CA"
+        "locale": "iu-Cans-CA",
     },
     "siti": {
-        "voice": {
-            "name": "jv-ID-SitiNeural"
-        },
+        "voice": {"name": "jv-ID-SitiNeural"},
         "id": "jv-ID-SitiNeural",
         "displayName": "Siti",
-        "locale": "jv-ID"
+        "locale": "jv-ID",
     },
     "sk-sk-lukasneural": {
-        "voice": {
-            "name": "sk-SK-LukasNeural"
-        },
+        "voice": {"name": "sk-SK-LukasNeural"},
         "id": "sk-SK-LukasNeural",
         "displayName": "Lukas",
-        "locale": "sk-SK"
+        "locale": "sk-SK",
     },
     "sk-sk-viktorianeural": {
-        "voice": {
-            "name": "sk-SK-ViktoriaNeural"
-        },
+        "voice": {"name": "sk-SK-ViktoriaNeural"},
         "id": "sk-SK-ViktoriaNeural",
         "displayName": "Viktoria",
-        "locale": "sk-SK"
+        "locale": "sk-SK",
     },
     "sl-si-petraneural": {
-        "voice": {
-            "name": "sl-SI-PetraNeural"
-        },
+        "voice": {"name": "sl-SI-PetraNeural"},
         "id": "sl-SI-PetraNeural",
         "displayName": "Petra",
-        "locale": "sl-SI"
+        "locale": "sl-SI",
     },
     "sl-si-rokneural": {
-        "voice": {
-            "name": "sl-SI-RokNeural"
-        },
+        "voice": {"name": "sl-SI-RokNeural"},
         "id": "sl-SI-RokNeural",
         "displayName": "Rok",
-        "locale": "sl-SI"
+        "locale": "sl-SI",
     },
     "so-so-muuseneural": {
-        "voice": {
-            "name": "so-SO-MuuseNeural"
-        },
+        "voice": {"name": "so-SO-MuuseNeural"},
         "id": "so-SO-MuuseNeural",
         "displayName": "Muuse",
-        "locale": "so-SO"
+        "locale": "so-SO",
     },
     "so-so-ubaxneural": {
-        "voice": {
-            "name": "so-SO-UbaxNeural"
-        },
+        "voice": {"name": "so-SO-UbaxNeural"},
         "id": "so-SO-UbaxNeural",
         "displayName": "Ubax",
-        "locale": "so-SO"
+        "locale": "so-SO",
     },
     "sobhana": {
-        "voice": {
-            "name": "ml-IN-SobhanaNeural"
-        },
+        "voice": {"name": "ml-IN-SobhanaNeural"},
         "id": "ml-IN-SobhanaNeural",
         "displayName": "Sobhana",
-        "locale": "ml-IN"
+        "locale": "ml-IN",
     },
     "sofia": {
-        "voice": {
-            "name": "es-BO-SofiaNeural"
-        },
+        "voice": {"name": "es-BO-SofiaNeural"},
         "id": "es-BO-SofiaNeural",
         "displayName": "Sofia",
-        "locale": "es-BO"
+        "locale": "es-BO",
     },
     "sofie": {
-        "voice": {
-            "name": "sv-SE-SofieNeural"
-        },
+        "voice": {"name": "sv-SE-SofieNeural"},
         "id": "sv-SE-SofieNeural",
         "displayName": "Sofie",
-        "locale": "sv-SE"
+        "locale": "sv-SE",
     },
     "sonia": {
-        "voice": {
-            "name": "en-GB-SoniaNeural"
-        },
+        "voice": {"name": "en-GB-SoniaNeural"},
         "id": "en-GB-SoniaNeural",
         "displayName": "Sonia",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "soonbok": {
-        "voice": {
-            "name": "ko-KR-SoonBokNeural"
-        },
+        "voice": {"name": "ko-KR-SoonBokNeural"},
         "id": "ko-KR-SoonBokNeural",
         "displayName": "SoonBok",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "sophie": {
-        "voice": {
-            "name": "sr-Latn-RS-SophieNeural"
-        },
+        "voice": {"name": "sr-Latn-RS-SophieNeural"},
         "id": "sr-Latn-RS-SophieNeural",
         "displayName": "Sophie",
-        "locale": "sr-Latn-RS"
+        "locale": "sr-Latn-RS",
     },
     "sq-al-anilaneural": {
-        "voice": {
-            "name": "sq-AL-AnilaNeural"
-        },
+        "voice": {"name": "sq-AL-AnilaNeural"},
         "id": "sq-AL-AnilaNeural",
         "displayName": "Anila",
-        "locale": "sq-AL"
+        "locale": "sq-AL",
     },
     "sq-al-ilirneural": {
-        "voice": {
-            "name": "sq-AL-IlirNeural"
-        },
+        "voice": {"name": "sq-AL-IlirNeural"},
         "id": "sq-AL-IlirNeural",
         "displayName": "Ilir",
-        "locale": "sq-AL"
+        "locale": "sq-AL",
     },
     "sr-latn-rs-nicholasneural": {
-        "voice": {
-            "name": "sr-Latn-RS-NicholasNeural"
-        },
+        "voice": {"name": "sr-Latn-RS-NicholasNeural"},
         "id": "sr-Latn-RS-NicholasNeural",
         "displayName": "Nicholas",
-        "locale": "sr-Latn-RS"
+        "locale": "sr-Latn-RS",
     },
     "sr-latn-rs-sophieneural": {
-        "voice": {
-            "name": "sr-Latn-RS-SophieNeural"
-        },
+        "voice": {"name": "sr-Latn-RS-SophieNeural"},
         "id": "sr-Latn-RS-SophieNeural",
         "displayName": "Sophie",
-        "locale": "sr-Latn-RS"
+        "locale": "sr-Latn-RS",
     },
     "sr-rs-nicholasneural": {
-        "voice": {
-            "name": "sr-RS-NicholasNeural"
-        },
+        "voice": {"name": "sr-RS-NicholasNeural"},
         "id": "sr-RS-NicholasNeural",
         "displayName": "Nicholas",
-        "locale": "sr-RS"
+        "locale": "sr-RS",
     },
     "sr-rs-sophieneural": {
-        "voice": {
-            "name": "sr-RS-SophieNeural"
-        },
+        "voice": {"name": "sr-RS-SophieNeural"},
         "id": "sr-RS-SophieNeural",
         "displayName": "Sophie",
-        "locale": "sr-RS"
+        "locale": "sr-RS",
     },
     "srecko": {
-        "voice": {
-            "name": "hr-HR-SreckoNeural"
-        },
+        "voice": {"name": "hr-HR-SreckoNeural"},
         "id": "hr-HR-SreckoNeural",
         "displayName": "Srecko",
-        "locale": "hr-HR"
+        "locale": "hr-HR",
     },
     "sreymom": {
-        "voice": {
-            "name": "km-KH-SreymomNeural"
-        },
+        "voice": {"name": "km-KH-SreymomNeural"},
         "id": "km-KH-SreymomNeural",
         "displayName": "Sreymom",
-        "locale": "km-KH"
+        "locale": "km-KH",
     },
     "steffan": {
-        "voice": {
-            "name": "en-US-SteffanNeural"
-        },
+        "voice": {"name": "en-US-SteffanNeural"},
         "id": "en-US-SteffanNeural",
         "displayName": "Steffan",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "steffan multilingual": {
-        "voice": {
-            "name": "en-US-SteffanMultilingualNeural"
-        },
+        "voice": {"name": "en-US-SteffanMultilingualNeural"},
         "id": "en-US-SteffanMultilingualNeural",
         "displayName": "Steffan Multilingual",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "su-id-jajangneural": {
-        "voice": {
-            "name": "su-ID-JajangNeural"
-        },
+        "voice": {"name": "su-ID-JajangNeural"},
         "id": "su-ID-JajangNeural",
         "displayName": "Jajang",
-        "locale": "su-ID"
+        "locale": "su-ID",
     },
     "su-id-tutineural": {
-        "voice": {
-            "name": "su-ID-TutiNeural"
-        },
+        "voice": {"name": "su-ID-TutiNeural"},
         "id": "su-ID-TutiNeural",
         "displayName": "Tuti",
-        "locale": "su-ID"
+        "locale": "su-ID",
     },
     "subhasini": {
-        "voice": {
-            "name": "or-IN-SubhasiniNeural"
-        },
+        "voice": {"name": "or-IN-SubhasiniNeural"},
         "id": "or-IN-SubhasiniNeural",
         "displayName": "Subhasini",
-        "locale": "or-IN"
+        "locale": "or-IN",
     },
     "sukant": {
-        "voice": {
-            "name": "or-IN-SukantNeural"
-        },
+        "voice": {"name": "or-IN-SukantNeural"},
         "id": "or-IN-SukantNeural",
         "displayName": "Sukant",
-        "locale": "or-IN"
+        "locale": "or-IN",
     },
     "sun-hi": {
-        "voice": {
-            "name": "ko-KR-SunHiNeural"
-        },
+        "voice": {"name": "ko-KR-SunHiNeural"},
         "id": "ko-KR-SunHiNeural",
         "displayName": "Sun-Hi",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "surya": {
-        "voice": {
-            "name": "ta-MY-SuryaNeural"
-        },
+        "voice": {"name": "ta-MY-SuryaNeural"},
         "id": "ta-MY-SuryaNeural",
         "displayName": "Surya",
-        "locale": "ta-MY"
+        "locale": "ta-MY",
     },
     "sv-se-hillevineural": {
-        "voice": {
-            "name": "sv-SE-HilleviNeural"
-        },
+        "voice": {"name": "sv-SE-HilleviNeural"},
         "id": "sv-SE-HilleviNeural",
         "displayName": "Hillevi",
-        "locale": "sv-SE"
+        "locale": "sv-SE",
     },
     "sv-se-mattiasneural": {
-        "voice": {
-            "name": "sv-SE-MattiasNeural"
-        },
+        "voice": {"name": "sv-SE-MattiasNeural"},
         "id": "sv-SE-MattiasNeural",
         "displayName": "Mattias",
-        "locale": "sv-SE"
+        "locale": "sv-SE",
     },
     "sv-se-sofieneural": {
-        "voice": {
-            "name": "sv-SE-SofieNeural"
-        },
+        "voice": {"name": "sv-SE-SofieNeural"},
         "id": "sv-SE-SofieNeural",
         "displayName": "Sofie",
-        "locale": "sv-SE"
+        "locale": "sv-SE",
     },
     "svetlana": {
-        "voice": {
-            "name": "ru-RU-SvetlanaNeural"
-        },
+        "voice": {"name": "ru-RU-SvetlanaNeural"},
         "id": "ru-RU-SvetlanaNeural",
         "displayName": "Svetlana",
-        "locale": "ru-RU"
+        "locale": "ru-RU",
     },
     "sw-ke-rafikineural": {
-        "voice": {
-            "name": "sw-KE-RafikiNeural"
-        },
+        "voice": {"name": "sw-KE-RafikiNeural"},
         "id": "sw-KE-RafikiNeural",
         "displayName": "Rafiki",
-        "locale": "sw-KE"
+        "locale": "sw-KE",
     },
     "sw-ke-zurineural": {
-        "voice": {
-            "name": "sw-KE-ZuriNeural"
-        },
+        "voice": {"name": "sw-KE-ZuriNeural"},
         "id": "sw-KE-ZuriNeural",
         "displayName": "Zuri",
-        "locale": "sw-KE"
+        "locale": "sw-KE",
     },
     "sw-tz-daudineural": {
-        "voice": {
-            "name": "sw-TZ-DaudiNeural"
-        },
+        "voice": {"name": "sw-TZ-DaudiNeural"},
         "id": "sw-TZ-DaudiNeural",
         "displayName": "Daudi",
-        "locale": "sw-TZ"
+        "locale": "sw-TZ",
     },
     "sw-tz-rehemaneural": {
-        "voice": {
-            "name": "sw-TZ-RehemaNeural"
-        },
+        "voice": {"name": "sw-TZ-RehemaNeural"},
         "id": "sw-TZ-RehemaNeural",
         "displayName": "Rehema",
-        "locale": "sw-TZ"
+        "locale": "sw-TZ",
     },
     "swara": {
-        "voice": {
-            "name": "hi-IN-SwaraNeural"
-        },
+        "voice": {"name": "hi-IN-SwaraNeural"},
         "id": "hi-IN-SwaraNeural",
         "displayName": "Swara",
-        "locale": "hi-IN"
+        "locale": "hi-IN",
     },
     "sylvie": {
-        "voice": {
-            "name": "fr-CA-SylvieNeural"
-        },
+        "voice": {"name": "fr-CA-SylvieNeural"},
         "id": "fr-CA-SylvieNeural",
         "displayName": "Sylvie",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "ta-in-pallavineural": {
-        "voice": {
-            "name": "ta-IN-PallaviNeural"
-        },
+        "voice": {"name": "ta-IN-PallaviNeural"},
         "id": "ta-IN-PallaviNeural",
         "displayName": "Pallavi",
-        "locale": "ta-IN"
+        "locale": "ta-IN",
     },
     "ta-in-valluvarneural": {
-        "voice": {
-            "name": "ta-IN-ValluvarNeural"
-        },
+        "voice": {"name": "ta-IN-ValluvarNeural"},
         "id": "ta-IN-ValluvarNeural",
         "displayName": "Valluvar",
-        "locale": "ta-IN"
+        "locale": "ta-IN",
     },
     "ta-lk-kumarneural": {
-        "voice": {
-            "name": "ta-LK-KumarNeural"
-        },
+        "voice": {"name": "ta-LK-KumarNeural"},
         "id": "ta-LK-KumarNeural",
         "displayName": "Kumar",
-        "locale": "ta-LK"
+        "locale": "ta-LK",
     },
     "ta-lk-saranyaneural": {
-        "voice": {
-            "name": "ta-LK-SaranyaNeural"
-        },
+        "voice": {"name": "ta-LK-SaranyaNeural"},
         "id": "ta-LK-SaranyaNeural",
         "displayName": "Saranya",
-        "locale": "ta-LK"
+        "locale": "ta-LK",
     },
     "ta-my-kanineural": {
-        "voice": {
-            "name": "ta-MY-KaniNeural"
-        },
+        "voice": {"name": "ta-MY-KaniNeural"},
         "id": "ta-MY-KaniNeural",
         "displayName": "Kani",
-        "locale": "ta-MY"
+        "locale": "ta-MY",
     },
     "ta-my-suryaneural": {
-        "voice": {
-            "name": "ta-MY-SuryaNeural"
-        },
+        "voice": {"name": "ta-MY-SuryaNeural"},
         "id": "ta-MY-SuryaNeural",
         "displayName": "Surya",
-        "locale": "ta-MY"
+        "locale": "ta-MY",
     },
     "ta-sg-anbuneural": {
-        "voice": {
-            "name": "ta-SG-AnbuNeural"
-        },
+        "voice": {"name": "ta-SG-AnbuNeural"},
         "id": "ta-SG-AnbuNeural",
         "displayName": "Anbu",
-        "locale": "ta-SG"
+        "locale": "ta-SG",
     },
     "ta-sg-venbaneural": {
-        "voice": {
-            "name": "ta-SG-VenbaNeural"
-        },
+        "voice": {"name": "ta-SG-VenbaNeural"},
         "id": "ta-SG-VenbaNeural",
         "displayName": "Venba",
-        "locale": "ta-SG"
+        "locale": "ta-SG",
     },
     "taim": {
-        "voice": {
-            "name": "ar-JO-TaimNeural"
-        },
+        "voice": {"name": "ar-JO-TaimNeural"},
         "id": "ar-JO-TaimNeural",
         "displayName": "Taim",
-        "locale": "ar-JO"
+        "locale": "ar-JO",
     },
     "tamas": {
-        "voice": {
-            "name": "hu-HU-TamasNeural"
-        },
+        "voice": {"name": "hu-HU-TamasNeural"},
         "id": "hu-HU-TamasNeural",
         "displayName": "Tamas",
-        "locale": "hu-HU"
+        "locale": "hu-HU",
     },
     "tania": {
-        "voice": {
-            "name": "es-PY-TaniaNeural"
-        },
+        "voice": {"name": "es-PY-TaniaNeural"},
         "id": "es-PY-TaniaNeural",
         "displayName": "Tania",
-        "locale": "es-PY"
+        "locale": "es-PY",
     },
     "tanishaa": {
-        "voice": {
-            "name": "bn-IN-TanishaaNeural"
-        },
+        "voice": {"name": "bn-IN-TanishaaNeural"},
         "id": "bn-IN-TanishaaNeural",
         "displayName": "Tanishaa",
-        "locale": "bn-IN"
+        "locale": "bn-IN",
     },
     "tanja": {
-        "voice": {
-            "name": "de-DE-TanjaNeural"
-        },
+        "voice": {"name": "de-DE-TanjaNeural"},
         "id": "de-DE-TanjaNeural",
         "displayName": "Tanja",
-        "locale": "de-DE"
+        "locale": "de-DE",
     },
     "taqqiq": {
-        "voice": {
-            "name": "iu-Cans-CA-TaqqiqNeural"
-        },
+        "voice": {"name": "iu-Cans-CA-TaqqiqNeural"},
         "id": "iu-Cans-CA-TaqqiqNeural",
         "displayName": "Taqqiq",
-        "locale": "iu-Cans-CA"
+        "locale": "iu-Cans-CA",
     },
     "te-in-mohanneural": {
-        "voice": {
-            "name": "te-IN-MohanNeural"
-        },
+        "voice": {"name": "te-IN-MohanNeural"},
         "id": "te-IN-MohanNeural",
         "displayName": "Mohan",
-        "locale": "te-IN"
+        "locale": "te-IN",
     },
     "te-in-shrutineural": {
-        "voice": {
-            "name": "te-IN-ShrutiNeural"
-        },
+        "voice": {"name": "te-IN-ShrutiNeural"},
         "id": "te-IN-ShrutiNeural",
         "displayName": "Shruti",
-        "locale": "te-IN"
+        "locale": "te-IN",
     },
     "teo": {
-        "voice": {
-            "name": "es-ES-TeoNeural"
-        },
+        "voice": {"name": "es-ES-TeoNeural"},
         "id": "es-ES-TeoNeural",
         "displayName": "Teo",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "teresa": {
-        "voice": {
-            "name": "es-GQ-TeresaNeural"
-        },
+        "voice": {"name": "es-GQ-TeresaNeural"},
         "id": "es-GQ-TeresaNeural",
         "displayName": "Teresa",
-        "locale": "es-GQ"
+        "locale": "es-GQ",
     },
     "th-th-acharaneural": {
-        "voice": {
-            "name": "th-TH-AcharaNeural"
-        },
+        "voice": {"name": "th-TH-AcharaNeural"},
         "id": "th-TH-AcharaNeural",
         "displayName": "Achara",
-        "locale": "th-TH"
+        "locale": "th-TH",
     },
     "th-th-niwatneural": {
-        "voice": {
-            "name": "th-TH-NiwatNeural"
-        },
+        "voice": {"name": "th-TH-NiwatNeural"},
         "id": "th-TH-NiwatNeural",
         "displayName": "Niwat",
-        "locale": "th-TH"
+        "locale": "th-TH",
     },
     "th-th-premwadeeneural": {
-        "voice": {
-            "name": "th-TH-PremwadeeNeural"
-        },
+        "voice": {"name": "th-TH-PremwadeeNeural"},
         "id": "th-TH-PremwadeeNeural",
         "displayName": "Premwadee",
-        "locale": "th-TH"
+        "locale": "th-TH",
     },
     "thalita": {
-        "voice": {
-            "name": "pt-BR-ThalitaNeural"
-        },
+        "voice": {"name": "pt-BR-ThalitaNeural"},
         "id": "pt-BR-ThalitaNeural",
         "displayName": "Thalita",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "thalita multilingual": {
-        "voice": {
-            "name": "pt-BR-ThalitaMultilingualNeural"
-        },
+        "voice": {"name": "pt-BR-ThalitaMultilingualNeural"},
         "id": "pt-BR-ThalitaMultilingualNeural",
         "displayName": "Thalita Multilingual",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "thando": {
-        "voice": {
-            "name": "zu-ZA-ThandoNeural"
-        },
+        "voice": {"name": "zu-ZA-ThandoNeural"},
         "id": "zu-ZA-ThandoNeural",
         "displayName": "Thando",
-        "locale": "zu-ZA"
+        "locale": "zu-ZA",
     },
     "themba": {
-        "voice": {
-            "name": "zu-ZA-ThembaNeural"
-        },
+        "voice": {"name": "zu-ZA-ThembaNeural"},
         "id": "zu-ZA-ThembaNeural",
         "displayName": "Themba",
-        "locale": "zu-ZA"
+        "locale": "zu-ZA",
     },
     "thierry": {
-        "voice": {
-            "name": "fr-CA-ThierryNeural"
-        },
+        "voice": {"name": "fr-CA-ThierryNeural"},
         "id": "fr-CA-ThierryNeural",
         "displayName": "Thierry",
-        "locale": "fr-CA"
+        "locale": "fr-CA",
     },
     "thiha": {
-        "voice": {
-            "name": "my-MM-ThihaNeural"
-        },
+        "voice": {"name": "my-MM-ThihaNeural"},
         "id": "my-MM-ThihaNeural",
         "displayName": "Thiha",
-        "locale": "my-MM"
+        "locale": "my-MM",
     },
     "thilini": {
-        "voice": {
-            "name": "si-LK-ThiliniNeural"
-        },
+        "voice": {"name": "si-LK-ThiliniNeural"},
         "id": "si-LK-ThiliniNeural",
         "displayName": "Thilini",
-        "locale": "si-LK"
+        "locale": "si-LK",
     },
     "thomas": {
-        "voice": {
-            "name": "en-GB-ThomasNeural"
-        },
+        "voice": {"name": "en-GB-ThomasNeural"},
         "id": "en-GB-ThomasNeural",
         "displayName": "Thomas",
-        "locale": "en-GB"
+        "locale": "en-GB",
     },
     "tim": {
-        "voice": {
-            "name": "en-AU-TimNeural"
-        },
+        "voice": {"name": "en-AU-TimNeural"},
         "id": "en-AU-TimNeural",
         "displayName": "Tim",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "tina": {
-        "voice": {
-            "name": "en-AU-TinaNeural"
-        },
+        "voice": {"name": "en-AU-TinaNeural"},
         "id": "en-AU-TinaNeural",
         "displayName": "Tina",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "tomas": {
-        "voice": {
-            "name": "es-AR-TomasNeural"
-        },
+        "voice": {"name": "es-AR-TomasNeural"},
         "id": "es-AR-TomasNeural",
         "displayName": "Tomas",
-        "locale": "es-AR"
+        "locale": "es-AR",
     },
     "tony": {
-        "voice": {
-            "name": "en-US-TonyNeural"
-        },
+        "voice": {"name": "en-US-TonyNeural"},
         "id": "en-US-TonyNeural",
         "displayName": "Tony",
-        "locale": "en-US"
+        "locale": "en-US",
     },
     "tr-tr-ahmetneural": {
-        "voice": {
-            "name": "tr-TR-AhmetNeural"
-        },
+        "voice": {"name": "tr-TR-AhmetNeural"},
         "id": "tr-TR-AhmetNeural",
         "displayName": "Ahmet",
-        "locale": "tr-TR"
+        "locale": "tr-TR",
     },
     "tr-tr-emelneural": {
-        "voice": {
-            "name": "tr-TR-EmelNeural"
-        },
+        "voice": {"name": "tr-TR-EmelNeural"},
         "id": "tr-TR-EmelNeural",
         "displayName": "Emel",
-        "locale": "tr-TR"
+        "locale": "tr-TR",
     },
     "triana": {
-        "voice": {
-            "name": "es-ES-TrianaNeural"
-        },
+        "voice": {"name": "es-ES-TrianaNeural"},
         "id": "es-ES-TrianaNeural",
         "displayName": "Triana",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "tristan multilingual": {
-        "voice": {
-            "name": "es-ES-TristanMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-TristanMultilingualNeural"},
         "id": "es-ES-TristanMultilingualNeural",
         "displayName": "Tristan Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "tuti": {
-        "voice": {
-            "name": "su-ID-TutiNeural"
-        },
+        "voice": {"name": "su-ID-TutiNeural"},
         "id": "su-ID-TutiNeural",
         "displayName": "Tuti",
-        "locale": "su-ID"
+        "locale": "su-ID",
     },
     "ubax": {
-        "voice": {
-            "name": "so-SO-UbaxNeural"
-        },
+        "voice": {"name": "so-SO-UbaxNeural"},
         "id": "so-SO-UbaxNeural",
         "displayName": "Ubax",
-        "locale": "so-SO"
+        "locale": "so-SO",
     },
     "uk-ua-ostapneural": {
-        "voice": {
-            "name": "uk-UA-OstapNeural"
-        },
+        "voice": {"name": "uk-UA-OstapNeural"},
         "id": "uk-UA-OstapNeural",
         "displayName": "Ostap",
-        "locale": "uk-UA"
+        "locale": "uk-UA",
     },
     "uk-ua-polinaneural": {
-        "voice": {
-            "name": "uk-UA-PolinaNeural"
-        },
+        "voice": {"name": "uk-UA-PolinaNeural"},
         "id": "uk-UA-PolinaNeural",
         "displayName": "Polina",
-        "locale": "uk-UA"
+        "locale": "uk-UA",
     },
     "ur-in-gulneural": {
-        "voice": {
-            "name": "ur-IN-GulNeural"
-        },
+        "voice": {"name": "ur-IN-GulNeural"},
         "id": "ur-IN-GulNeural",
         "displayName": "Gul",
-        "locale": "ur-IN"
+        "locale": "ur-IN",
     },
     "ur-in-salmanneural": {
-        "voice": {
-            "name": "ur-IN-SalmanNeural"
-        },
+        "voice": {"name": "ur-IN-SalmanNeural"},
         "id": "ur-IN-SalmanNeural",
         "displayName": "Salman",
-        "locale": "ur-IN"
+        "locale": "ur-IN",
     },
     "ur-pk-asadneural": {
-        "voice": {
-            "name": "ur-PK-AsadNeural"
-        },
+        "voice": {"name": "ur-PK-AsadNeural"},
         "id": "ur-PK-AsadNeural",
         "displayName": "Asad",
-        "locale": "ur-PK"
+        "locale": "ur-PK",
     },
     "ur-pk-uzmaneural": {
-        "voice": {
-            "name": "ur-PK-UzmaNeural"
-        },
+        "voice": {"name": "ur-PK-UzmaNeural"},
         "id": "ur-PK-UzmaNeural",
         "displayName": "Uzma",
-        "locale": "ur-PK"
+        "locale": "ur-PK",
     },
     "uz-uz-madinaneural": {
-        "voice": {
-            "name": "uz-UZ-MadinaNeural"
-        },
+        "voice": {"name": "uz-UZ-MadinaNeural"},
         "id": "uz-UZ-MadinaNeural",
         "displayName": "Madina",
-        "locale": "uz-UZ"
+        "locale": "uz-UZ",
     },
     "uz-uz-sardorneural": {
-        "voice": {
-            "name": "uz-UZ-SardorNeural"
-        },
+        "voice": {"name": "uz-UZ-SardorNeural"},
         "id": "uz-UZ-SardorNeural",
         "displayName": "Sardor",
-        "locale": "uz-UZ"
+        "locale": "uz-UZ",
     },
     "uzma": {
-        "voice": {
-            "name": "ur-PK-UzmaNeural"
-        },
+        "voice": {"name": "ur-PK-UzmaNeural"},
         "id": "ur-PK-UzmaNeural",
         "displayName": "Uzma",
-        "locale": "ur-PK"
+        "locale": "ur-PK",
     },
     "vaani": {
-        "voice": {
-            "name": "pa-IN-VaaniNeural"
-        },
+        "voice": {"name": "pa-IN-VaaniNeural"},
         "id": "pa-IN-VaaniNeural",
         "displayName": "Vaani",
-        "locale": "pa-IN"
+        "locale": "pa-IN",
     },
     "valentina": {
-        "voice": {
-            "name": "es-UY-ValentinaNeural"
-        },
+        "voice": {"name": "es-UY-ValentinaNeural"},
         "id": "es-UY-ValentinaNeural",
         "displayName": "Valentina",
-        "locale": "es-UY"
+        "locale": "es-UY",
     },
     "valerio": {
-        "voice": {
-            "name": "pt-BR-ValerioNeural"
-        },
+        "voice": {"name": "pt-BR-ValerioNeural"},
         "id": "pt-BR-ValerioNeural",
         "displayName": "Valerio",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "valluvar": {
-        "voice": {
-            "name": "ta-IN-ValluvarNeural"
-        },
+        "voice": {"name": "ta-IN-ValluvarNeural"},
         "id": "ta-IN-ValluvarNeural",
         "displayName": "Valluvar",
-        "locale": "ta-IN"
+        "locale": "ta-IN",
     },
     "venba": {
-        "voice": {
-            "name": "ta-SG-VenbaNeural"
-        },
+        "voice": {"name": "ta-SG-VenbaNeural"},
         "id": "ta-SG-VenbaNeural",
         "displayName": "Venba",
-        "locale": "ta-SG"
+        "locale": "ta-SG",
     },
     "vera": {
-        "voice": {
-            "name": "es-ES-VeraNeural"
-        },
+        "voice": {"name": "es-ES-VeraNeural"},
         "id": "es-ES-VeraNeural",
         "displayName": "Vera",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "vesna": {
-        "voice": {
-            "name": "bs-BA-VesnaNeural"
-        },
+        "voice": {"name": "bs-BA-VesnaNeural"},
         "id": "bs-BA-VesnaNeural",
         "displayName": "Vesna",
-        "locale": "bs-BA"
+        "locale": "bs-BA",
     },
     "vi-vn-hoaimyneural": {
-        "voice": {
-            "name": "vi-VN-HoaiMyNeural"
-        },
+        "voice": {"name": "vi-VN-HoaiMyNeural"},
         "id": "vi-VN-HoaiMyNeural",
         "displayName": "HoaiMy",
-        "locale": "vi-VN"
+        "locale": "vi-VN",
     },
     "vi-vn-namminhneural": {
-        "voice": {
-            "name": "vi-VN-NamMinhNeural"
-        },
+        "voice": {"name": "vi-VN-NamMinhNeural"},
         "id": "vi-VN-NamMinhNeural",
         "displayName": "NamMinh",
-        "locale": "vi-VN"
+        "locale": "vi-VN",
     },
     "victor": {
-        "voice": {
-            "name": "es-PR-VictorNeural"
-        },
+        "voice": {"name": "es-PR-VictorNeural"},
         "id": "es-PR-VictorNeural",
         "displayName": "Victor",
-        "locale": "es-PR"
+        "locale": "es-PR",
     },
     "viktoria": {
-        "voice": {
-            "name": "sk-SK-ViktoriaNeural"
-        },
+        "voice": {"name": "sk-SK-ViktoriaNeural"},
         "id": "sk-SK-ViktoriaNeural",
         "displayName": "Viktoria",
-        "locale": "sk-SK"
+        "locale": "sk-SK",
     },
     "vivienne multilingual": {
-        "voice": {
-            "name": "fr-FR-VivienneMultilingualNeural"
-        },
+        "voice": {"name": "fr-FR-VivienneMultilingualNeural"},
         "id": "fr-FR-VivienneMultilingualNeural",
         "displayName": "Vivienne Multilingual",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "vlasta": {
-        "voice": {
-            "name": "cs-CZ-VlastaNeural"
-        },
+        "voice": {"name": "cs-CZ-VlastaNeural"},
         "id": "cs-CZ-VlastaNeural",
         "displayName": "Vlasta",
-        "locale": "cs-CZ"
+        "locale": "cs-CZ",
     },
     "wanlung": {
-        "voice": {
-            "name": "zh-HK-WanLungNeural"
-        },
+        "voice": {"name": "zh-HK-WanLungNeural"},
         "id": "zh-HK-WanLungNeural",
         "displayName": "WanLung",
-        "locale": "zh-HK"
+        "locale": "zh-HK",
     },
     "wayne": {
-        "voice": {
-            "name": "en-SG-WayneNeural"
-        },
+        "voice": {"name": "en-SG-WayneNeural"},
         "id": "en-SG-WayneNeural",
         "displayName": "Wayne",
-        "locale": "en-SG"
+        "locale": "en-SG",
     },
     "willem": {
-        "voice": {
-            "name": "af-ZA-WillemNeural"
-        },
+        "voice": {"name": "af-ZA-WillemNeural"},
         "id": "af-ZA-WillemNeural",
         "displayName": "Willem",
-        "locale": "af-ZA"
+        "locale": "af-ZA",
     },
     "william": {
-        "voice": {
-            "name": "en-AU-WilliamNeural"
-        },
+        "voice": {"name": "en-AU-WilliamNeural"},
         "id": "en-AU-WilliamNeural",
         "displayName": "William",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "william multilingual": {
-        "voice": {
-            "name": "en-AU-WilliamMultilingualNeural"
-        },
+        "voice": {"name": "en-AU-WilliamMultilingualNeural"},
         "id": "en-AU-WilliamMultilingualNeural",
         "displayName": "William Multilingual",
-        "locale": "en-AU"
+        "locale": "en-AU",
     },
     "wuu-cn-xiaotongneural": {
-        "voice": {
-            "name": "wuu-CN-XiaotongNeural"
-        },
+        "voice": {"name": "wuu-CN-XiaotongNeural"},
         "id": "wuu-CN-XiaotongNeural",
         "displayName": "Xiaotong",
-        "locale": "wuu-CN"
+        "locale": "wuu-CN",
     },
     "wuu-cn-yunzheneural": {
-        "voice": {
-            "name": "wuu-CN-YunzheNeural"
-        },
+        "voice": {"name": "wuu-CN-YunzheNeural"},
         "id": "wuu-CN-YunzheNeural",
         "displayName": "Yunzhe",
-        "locale": "wuu-CN"
+        "locale": "wuu-CN",
     },
     "xiaobei": {
-        "voice": {
-            "name": "zh-CN-liaoning-XiaobeiNeural"
-        },
+        "voice": {"name": "zh-CN-liaoning-XiaobeiNeural"},
         "id": "zh-CN-liaoning-XiaobeiNeural",
         "displayName": "Xiaobei",
-        "locale": "zh-CN-liaoning"
+        "locale": "zh-CN-liaoning",
     },
     "xiaochen": {
-        "voice": {
-            "name": "zh-CN-XiaochenNeural"
-        },
+        "voice": {"name": "zh-CN-XiaochenNeural"},
         "id": "zh-CN-XiaochenNeural",
         "displayName": "Xiaochen",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaochen multilingual": {
-        "voice": {
-            "name": "zh-CN-XiaochenMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-XiaochenMultilingualNeural"},
         "id": "zh-CN-XiaochenMultilingualNeural",
         "displayName": "Xiaochen Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaohan": {
-        "voice": {
-            "name": "zh-CN-XiaohanNeural"
-        },
+        "voice": {"name": "zh-CN-XiaohanNeural"},
         "id": "zh-CN-XiaohanNeural",
         "displayName": "Xiaohan",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaomeng": {
-        "voice": {
-            "name": "zh-CN-XiaomengNeural"
-        },
+        "voice": {"name": "zh-CN-XiaomengNeural"},
         "id": "zh-CN-XiaomengNeural",
         "displayName": "Xiaomeng",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaomin": {
-        "voice": {
-            "name": "yue-CN-XiaoMinNeural"
-        },
+        "voice": {"name": "yue-CN-XiaoMinNeural"},
         "id": "yue-CN-XiaoMinNeural",
         "displayName": "XiaoMin",
-        "locale": "yue-CN"
+        "locale": "yue-CN",
     },
     "xiaomo": {
-        "voice": {
-            "name": "zh-CN-XiaomoNeural"
-        },
+        "voice": {"name": "zh-CN-XiaomoNeural"},
         "id": "zh-CN-XiaomoNeural",
         "displayName": "Xiaomo",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoni": {
-        "voice": {
-            "name": "zh-CN-shaanxi-XiaoniNeural"
-        },
+        "voice": {"name": "zh-CN-shaanxi-XiaoniNeural"},
         "id": "zh-CN-shaanxi-XiaoniNeural",
         "displayName": "Xiaoni",
-        "locale": "zh-CN-shaanxi"
+        "locale": "zh-CN-shaanxi",
     },
     "xiaoqiu": {
-        "voice": {
-            "name": "zh-CN-XiaoqiuNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoqiuNeural"},
         "id": "zh-CN-XiaoqiuNeural",
         "displayName": "Xiaoqiu",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaorou": {
-        "voice": {
-            "name": "zh-CN-XiaorouNeural"
-        },
+        "voice": {"name": "zh-CN-XiaorouNeural"},
         "id": "zh-CN-XiaorouNeural",
         "displayName": "Xiaorou",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaorui": {
-        "voice": {
-            "name": "zh-CN-XiaoruiNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoruiNeural"},
         "id": "zh-CN-XiaoruiNeural",
         "displayName": "Xiaorui",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoshuang": {
-        "voice": {
-            "name": "zh-CN-XiaoshuangNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoshuangNeural"},
         "id": "zh-CN-XiaoshuangNeural",
         "displayName": "Xiaoshuang",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaotong": {
-        "voice": {
-            "name": "wuu-CN-XiaotongNeural"
-        },
+        "voice": {"name": "wuu-CN-XiaotongNeural"},
         "id": "wuu-CN-XiaotongNeural",
         "displayName": "Xiaotong",
-        "locale": "wuu-CN"
+        "locale": "wuu-CN",
     },
     "xiaoxiao": {
-        "voice": {
-            "name": "zh-CN-XiaoxiaoNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoxiaoNeural"},
         "id": "zh-CN-XiaoxiaoNeural",
         "displayName": "Xiaoxiao",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoxiao dialects": {
-        "voice": {
-            "name": "zh-CN-XiaoxiaoDialectsNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoxiaoDialectsNeural"},
         "id": "zh-CN-XiaoxiaoDialectsNeural",
         "displayName": "Xiaoxiao Dialects",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoxiao multilingual": {
-        "voice": {
-            "name": "zh-CN-XiaoxiaoMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoxiaoMultilingualNeural"},
         "id": "zh-CN-XiaoxiaoMultilingualNeural",
         "displayName": "Xiaoxiao Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoyan": {
-        "voice": {
-            "name": "zh-CN-XiaoyanNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyanNeural"},
         "id": "zh-CN-XiaoyanNeural",
         "displayName": "Xiaoyan",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoyi": {
-        "voice": {
-            "name": "zh-CN-XiaoyiNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyiNeural"},
         "id": "zh-CN-XiaoyiNeural",
         "displayName": "Xiaoyi",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoyou": {
-        "voice": {
-            "name": "zh-CN-XiaoyouNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyouNeural"},
         "id": "zh-CN-XiaoyouNeural",
         "displayName": "Xiaoyou",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaoyu multilingual": {
-        "voice": {
-            "name": "zh-CN-XiaoyuMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyuMultilingualNeural"},
         "id": "zh-CN-XiaoyuMultilingualNeural",
         "displayName": "Xiaoyu Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "xiaozhen": {
-        "voice": {
-            "name": "zh-CN-XiaozhenNeural"
-        },
+        "voice": {"name": "zh-CN-XiaozhenNeural"},
         "id": "zh-CN-XiaozhenNeural",
         "displayName": "Xiaozhen",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "ximena": {
-        "voice": {
-            "name": "es-ES-XimenaNeural"
-        },
+        "voice": {"name": "es-ES-XimenaNeural"},
         "id": "es-ES-XimenaNeural",
         "displayName": "Ximena",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "ximena multilingual": {
-        "voice": {
-            "name": "es-ES-XimenaMultilingualNeural"
-        },
+        "voice": {"name": "es-ES-XimenaMultilingualNeural"},
         "id": "es-ES-XimenaMultilingualNeural",
         "displayName": "Ximena Multilingual",
-        "locale": "es-ES"
+        "locale": "es-ES",
     },
     "yago": {
-        "voice": {
-            "name": "es-MX-YagoNeural"
-        },
+        "voice": {"name": "es-MX-YagoNeural"},
         "id": "es-MX-YagoNeural",
         "displayName": "Yago",
-        "locale": "es-MX"
+        "locale": "es-MX",
     },
     "yan": {
-        "voice": {
-            "name": "en-HK-YanNeural"
-        },
+        "voice": {"name": "en-HK-YanNeural"},
         "id": "en-HK-YanNeural",
         "displayName": "Yan",
-        "locale": "en-HK"
+        "locale": "en-HK",
     },
     "yara": {
-        "voice": {
-            "name": "pt-BR-YaraNeural"
-        },
+        "voice": {"name": "pt-BR-YaraNeural"},
         "id": "pt-BR-YaraNeural",
         "displayName": "Yara",
-        "locale": "pt-BR"
+        "locale": "pt-BR",
     },
     "yashica": {
-        "voice": {
-            "name": "as-IN-YashicaNeural"
-        },
+        "voice": {"name": "as-IN-YashicaNeural"},
         "id": "as-IN-YashicaNeural",
         "displayName": "Yashica",
-        "locale": "as-IN"
+        "locale": "as-IN",
     },
     "yasmin": {
-        "voice": {
-            "name": "ms-MY-YasminNeural"
-        },
+        "voice": {"name": "ms-MY-YasminNeural"},
         "id": "ms-MY-YasminNeural",
         "displayName": "Yasmin",
-        "locale": "ms-MY"
+        "locale": "ms-MY",
     },
     "yesui": {
-        "voice": {
-            "name": "mn-MN-YesuiNeural"
-        },
+        "voice": {"name": "mn-MN-YesuiNeural"},
         "id": "mn-MN-YesuiNeural",
         "displayName": "Yesui",
-        "locale": "mn-MN"
+        "locale": "mn-MN",
     },
     "yolanda": {
-        "voice": {
-            "name": "es-NI-YolandaNeural"
-        },
+        "voice": {"name": "es-NI-YolandaNeural"},
         "id": "es-NI-YolandaNeural",
         "displayName": "Yolanda",
-        "locale": "es-NI"
+        "locale": "es-NI",
     },
     "yue-cn-xiaominneural": {
-        "voice": {
-            "name": "yue-CN-XiaoMinNeural"
-        },
+        "voice": {"name": "yue-CN-XiaoMinNeural"},
         "id": "yue-CN-XiaoMinNeural",
         "displayName": "XiaoMin",
-        "locale": "yue-CN"
+        "locale": "yue-CN",
     },
     "yue-cn-yunsongneural": {
-        "voice": {
-            "name": "yue-CN-YunSongNeural"
-        },
+        "voice": {"name": "yue-CN-YunSongNeural"},
         "id": "yue-CN-YunSongNeural",
         "displayName": "YunSong",
-        "locale": "yue-CN"
+        "locale": "yue-CN",
     },
     "yujin": {
-        "voice": {
-            "name": "ko-KR-YuJinNeural"
-        },
+        "voice": {"name": "ko-KR-YuJinNeural"},
         "id": "ko-KR-YuJinNeural",
         "displayName": "YuJin",
-        "locale": "ko-KR"
+        "locale": "ko-KR",
     },
     "yundeng": {
-        "voice": {
-            "name": "zh-CN-henan-YundengNeural"
-        },
+        "voice": {"name": "zh-CN-henan-YundengNeural"},
         "id": "zh-CN-henan-YundengNeural",
         "displayName": "Yundeng",
-        "locale": "zh-CN-henan"
+        "locale": "zh-CN-henan",
     },
     "yunfeng": {
-        "voice": {
-            "name": "zh-CN-YunfengNeural"
-        },
+        "voice": {"name": "zh-CN-YunfengNeural"},
         "id": "zh-CN-YunfengNeural",
         "displayName": "Yunfeng",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunhao": {
-        "voice": {
-            "name": "zh-CN-YunhaoNeural"
-        },
+        "voice": {"name": "zh-CN-YunhaoNeural"},
         "id": "zh-CN-YunhaoNeural",
         "displayName": "Yunhao",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunjhe": {
-        "voice": {
-            "name": "zh-TW-YunJheNeural"
-        },
+        "voice": {"name": "zh-TW-YunJheNeural"},
         "id": "zh-TW-YunJheNeural",
         "displayName": "YunJhe",
-        "locale": "zh-TW"
+        "locale": "zh-TW",
     },
     "yunjian": {
-        "voice": {
-            "name": "zh-CN-YunjianNeural"
-        },
+        "voice": {"name": "zh-CN-YunjianNeural"},
         "id": "zh-CN-YunjianNeural",
         "displayName": "Yunjian",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunjie": {
-        "voice": {
-            "name": "zh-CN-YunjieNeural"
-        },
+        "voice": {"name": "zh-CN-YunjieNeural"},
         "id": "zh-CN-YunjieNeural",
         "displayName": "Yunjie",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunsong": {
-        "voice": {
-            "name": "yue-CN-YunSongNeural"
-        },
+        "voice": {"name": "yue-CN-YunSongNeural"},
         "id": "yue-CN-YunSongNeural",
         "displayName": "YunSong",
-        "locale": "yue-CN"
+        "locale": "yue-CN",
     },
     "yunxi": {
-        "voice": {
-            "name": "zh-CN-YunxiNeural"
-        },
+        "voice": {"name": "zh-CN-YunxiNeural"},
         "id": "zh-CN-YunxiNeural",
         "displayName": "Yunxi",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunxia": {
-        "voice": {
-            "name": "zh-CN-YunxiaNeural"
-        },
+        "voice": {"name": "zh-CN-YunxiaNeural"},
         "id": "zh-CN-YunxiaNeural",
         "displayName": "Yunxia",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunxiang": {
-        "voice": {
-            "name": "zh-CN-shandong-YunxiangNeural"
-        },
+        "voice": {"name": "zh-CN-shandong-YunxiangNeural"},
         "id": "zh-CN-shandong-YunxiangNeural",
         "displayName": "Yunxiang",
-        "locale": "zh-CN-shandong"
+        "locale": "zh-CN-shandong",
     },
     "yunxiao multilingual": {
-        "voice": {
-            "name": "zh-CN-YunxiaoMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-YunxiaoMultilingualNeural"},
         "id": "zh-CN-YunxiaoMultilingualNeural",
         "displayName": "Yunxiao Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunxisichuan": {
-        "voice": {
-            "name": "zh-CN-sichuan-YunxiNeural"
-        },
+        "voice": {"name": "zh-CN-sichuan-YunxiNeural"},
         "id": "zh-CN-sichuan-YunxiNeural",
         "displayName": "YunxiSichuan",
-        "locale": "zh-CN-sichuan"
+        "locale": "zh-CN-sichuan",
     },
     "yunyang": {
-        "voice": {
-            "name": "zh-CN-YunyangNeural"
-        },
+        "voice": {"name": "zh-CN-YunyangNeural"},
         "id": "zh-CN-YunyangNeural",
         "displayName": "Yunyang",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunye": {
-        "voice": {
-            "name": "zh-CN-YunyeNeural"
-        },
+        "voice": {"name": "zh-CN-YunyeNeural"},
         "id": "zh-CN-YunyeNeural",
         "displayName": "Yunye",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunyi multilingual": {
-        "voice": {
-            "name": "zh-CN-YunyiMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-YunyiMultilingualNeural"},
         "id": "zh-CN-YunyiMultilingualNeural",
         "displayName": "Yunyi Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunze": {
-        "voice": {
-            "name": "zh-CN-YunzeNeural"
-        },
+        "voice": {"name": "zh-CN-YunzeNeural"},
         "id": "zh-CN-YunzeNeural",
         "displayName": "Yunze",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "yunzhe": {
-        "voice": {
-            "name": "wuu-CN-YunzheNeural"
-        },
+        "voice": {"name": "wuu-CN-YunzheNeural"},
         "id": "wuu-CN-YunzheNeural",
         "displayName": "Yunzhe",
-        "locale": "wuu-CN"
+        "locale": "wuu-CN",
     },
     "yves": {
-        "voice": {
-            "name": "fr-FR-YvesNeural"
-        },
+        "voice": {"name": "fr-FR-YvesNeural"},
         "id": "fr-FR-YvesNeural",
         "displayName": "Yves",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "yvette": {
-        "voice": {
-            "name": "fr-FR-YvetteNeural"
-        },
+        "voice": {"name": "fr-FR-YvetteNeural"},
         "id": "fr-FR-YvetteNeural",
         "displayName": "Yvette",
-        "locale": "fr-FR"
+        "locale": "fr-FR",
     },
     "zariyah": {
-        "voice": {
-            "name": "ar-SA-ZariyahNeural"
-        },
+        "voice": {"name": "ar-SA-ZariyahNeural"},
         "id": "ar-SA-ZariyahNeural",
         "displayName": "Zariyah",
-        "locale": "ar-SA"
+        "locale": "ar-SA",
     },
     "zh-cn-henan-yundengneural": {
-        "voice": {
-            "name": "zh-CN-henan-YundengNeural"
-        },
+        "voice": {"name": "zh-CN-henan-YundengNeural"},
         "id": "zh-CN-henan-YundengNeural",
         "displayName": "Yundeng",
-        "locale": "zh-CN-henan"
+        "locale": "zh-CN-henan",
     },
     "zh-cn-liaoning-xiaobeineural": {
-        "voice": {
-            "name": "zh-CN-liaoning-XiaobeiNeural"
-        },
+        "voice": {"name": "zh-CN-liaoning-XiaobeiNeural"},
         "id": "zh-CN-liaoning-XiaobeiNeural",
         "displayName": "Xiaobei",
-        "locale": "zh-CN-liaoning"
+        "locale": "zh-CN-liaoning",
     },
     "zh-cn-shaanxi-xiaonineural": {
-        "voice": {
-            "name": "zh-CN-shaanxi-XiaoniNeural"
-        },
+        "voice": {"name": "zh-CN-shaanxi-XiaoniNeural"},
         "id": "zh-CN-shaanxi-XiaoniNeural",
         "displayName": "Xiaoni",
-        "locale": "zh-CN-shaanxi"
+        "locale": "zh-CN-shaanxi",
     },
     "zh-cn-shandong-yunxiangneural": {
-        "voice": {
-            "name": "zh-CN-shandong-YunxiangNeural"
-        },
+        "voice": {"name": "zh-CN-shandong-YunxiangNeural"},
         "id": "zh-CN-shandong-YunxiangNeural",
         "displayName": "Yunxiang",
-        "locale": "zh-CN-shandong"
+        "locale": "zh-CN-shandong",
     },
     "zh-cn-sichuan-yunxineural": {
-        "voice": {
-            "name": "zh-CN-sichuan-YunxiNeural"
-        },
+        "voice": {"name": "zh-CN-sichuan-YunxiNeural"},
         "id": "zh-CN-sichuan-YunxiNeural",
         "displayName": "YunxiSichuan",
-        "locale": "zh-CN-sichuan"
+        "locale": "zh-CN-sichuan",
     },
     "zh-cn-xiaochenmultilingualneural": {
-        "voice": {
-            "name": "zh-CN-XiaochenMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-XiaochenMultilingualNeural"},
         "id": "zh-CN-XiaochenMultilingualNeural",
         "displayName": "Xiaochen Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaochenneural": {
-        "voice": {
-            "name": "zh-CN-XiaochenNeural"
-        },
+        "voice": {"name": "zh-CN-XiaochenNeural"},
         "id": "zh-CN-XiaochenNeural",
         "displayName": "Xiaochen",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaohanneural": {
-        "voice": {
-            "name": "zh-CN-XiaohanNeural"
-        },
+        "voice": {"name": "zh-CN-XiaohanNeural"},
         "id": "zh-CN-XiaohanNeural",
         "displayName": "Xiaohan",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaomengneural": {
-        "voice": {
-            "name": "zh-CN-XiaomengNeural"
-        },
+        "voice": {"name": "zh-CN-XiaomengNeural"},
         "id": "zh-CN-XiaomengNeural",
         "displayName": "Xiaomeng",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaomoneural": {
-        "voice": {
-            "name": "zh-CN-XiaomoNeural"
-        },
+        "voice": {"name": "zh-CN-XiaomoNeural"},
         "id": "zh-CN-XiaomoNeural",
         "displayName": "Xiaomo",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoqiuneural": {
-        "voice": {
-            "name": "zh-CN-XiaoqiuNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoqiuNeural"},
         "id": "zh-CN-XiaoqiuNeural",
         "displayName": "Xiaoqiu",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaorouneural": {
-        "voice": {
-            "name": "zh-CN-XiaorouNeural"
-        },
+        "voice": {"name": "zh-CN-XiaorouNeural"},
         "id": "zh-CN-XiaorouNeural",
         "displayName": "Xiaorou",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoruineural": {
-        "voice": {
-            "name": "zh-CN-XiaoruiNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoruiNeural"},
         "id": "zh-CN-XiaoruiNeural",
         "displayName": "Xiaorui",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoshuangneural": {
-        "voice": {
-            "name": "zh-CN-XiaoshuangNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoshuangNeural"},
         "id": "zh-CN-XiaoshuangNeural",
         "displayName": "Xiaoshuang",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoxiaodialectsneural": {
-        "voice": {
-            "name": "zh-CN-XiaoxiaoDialectsNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoxiaoDialectsNeural"},
         "id": "zh-CN-XiaoxiaoDialectsNeural",
         "displayName": "Xiaoxiao Dialects",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoxiaomultilingualneural": {
-        "voice": {
-            "name": "zh-CN-XiaoxiaoMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoxiaoMultilingualNeural"},
         "id": "zh-CN-XiaoxiaoMultilingualNeural",
         "displayName": "Xiaoxiao Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoxiaoneural": {
-        "voice": {
-            "name": "zh-CN-XiaoxiaoNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoxiaoNeural"},
         "id": "zh-CN-XiaoxiaoNeural",
         "displayName": "Xiaoxiao",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoyanneural": {
-        "voice": {
-            "name": "zh-CN-XiaoyanNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyanNeural"},
         "id": "zh-CN-XiaoyanNeural",
         "displayName": "Xiaoyan",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoyineural": {
-        "voice": {
-            "name": "zh-CN-XiaoyiNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyiNeural"},
         "id": "zh-CN-XiaoyiNeural",
         "displayName": "Xiaoyi",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoyouneural": {
-        "voice": {
-            "name": "zh-CN-XiaoyouNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyouNeural"},
         "id": "zh-CN-XiaoyouNeural",
         "displayName": "Xiaoyou",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaoyumultilingualneural": {
-        "voice": {
-            "name": "zh-CN-XiaoyuMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-XiaoyuMultilingualNeural"},
         "id": "zh-CN-XiaoyuMultilingualNeural",
         "displayName": "Xiaoyu Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-xiaozhenneural": {
-        "voice": {
-            "name": "zh-CN-XiaozhenNeural"
-        },
+        "voice": {"name": "zh-CN-XiaozhenNeural"},
         "id": "zh-CN-XiaozhenNeural",
         "displayName": "Xiaozhen",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunfengneural": {
-        "voice": {
-            "name": "zh-CN-YunfengNeural"
-        },
+        "voice": {"name": "zh-CN-YunfengNeural"},
         "id": "zh-CN-YunfengNeural",
         "displayName": "Yunfeng",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunhaoneural": {
-        "voice": {
-            "name": "zh-CN-YunhaoNeural"
-        },
+        "voice": {"name": "zh-CN-YunhaoNeural"},
         "id": "zh-CN-YunhaoNeural",
         "displayName": "Yunhao",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunjianneural": {
-        "voice": {
-            "name": "zh-CN-YunjianNeural"
-        },
+        "voice": {"name": "zh-CN-YunjianNeural"},
         "id": "zh-CN-YunjianNeural",
         "displayName": "Yunjian",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunjieneural": {
-        "voice": {
-            "name": "zh-CN-YunjieNeural"
-        },
+        "voice": {"name": "zh-CN-YunjieNeural"},
         "id": "zh-CN-YunjieNeural",
         "displayName": "Yunjie",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunxianeural": {
-        "voice": {
-            "name": "zh-CN-YunxiaNeural"
-        },
+        "voice": {"name": "zh-CN-YunxiaNeural"},
         "id": "zh-CN-YunxiaNeural",
         "displayName": "Yunxia",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunxiaomultilingualneural": {
-        "voice": {
-            "name": "zh-CN-YunxiaoMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-YunxiaoMultilingualNeural"},
         "id": "zh-CN-YunxiaoMultilingualNeural",
         "displayName": "Yunxiao Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunxineural": {
-        "voice": {
-            "name": "zh-CN-YunxiNeural"
-        },
+        "voice": {"name": "zh-CN-YunxiNeural"},
         "id": "zh-CN-YunxiNeural",
         "displayName": "Yunxi",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunyangneural": {
-        "voice": {
-            "name": "zh-CN-YunyangNeural"
-        },
+        "voice": {"name": "zh-CN-YunyangNeural"},
         "id": "zh-CN-YunyangNeural",
         "displayName": "Yunyang",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunyeneural": {
-        "voice": {
-            "name": "zh-CN-YunyeNeural"
-        },
+        "voice": {"name": "zh-CN-YunyeNeural"},
         "id": "zh-CN-YunyeNeural",
         "displayName": "Yunye",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunyimultilingualneural": {
-        "voice": {
-            "name": "zh-CN-YunyiMultilingualNeural"
-        },
+        "voice": {"name": "zh-CN-YunyiMultilingualNeural"},
         "id": "zh-CN-YunyiMultilingualNeural",
         "displayName": "Yunyi Multilingual",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-cn-yunzeneural": {
-        "voice": {
-            "name": "zh-CN-YunzeNeural"
-        },
+        "voice": {"name": "zh-CN-YunzeNeural"},
         "id": "zh-CN-YunzeNeural",
         "displayName": "Yunze",
-        "locale": "zh-CN"
+        "locale": "zh-CN",
     },
     "zh-hk-hiugaaineural": {
-        "voice": {
-            "name": "zh-HK-HiuGaaiNeural"
-        },
+        "voice": {"name": "zh-HK-HiuGaaiNeural"},
         "id": "zh-HK-HiuGaaiNeural",
         "displayName": "HiuGaai",
-        "locale": "zh-HK"
+        "locale": "zh-HK",
     },
     "zh-hk-hiumaanneural": {
-        "voice": {
-            "name": "zh-HK-HiuMaanNeural"
-        },
+        "voice": {"name": "zh-HK-HiuMaanNeural"},
         "id": "zh-HK-HiuMaanNeural",
         "displayName": "HiuMaan",
-        "locale": "zh-HK"
+        "locale": "zh-HK",
     },
     "zh-hk-wanlungneural": {
-        "voice": {
-            "name": "zh-HK-WanLungNeural"
-        },
+        "voice": {"name": "zh-HK-WanLungNeural"},
         "id": "zh-HK-WanLungNeural",
         "displayName": "WanLung",
-        "locale": "zh-HK"
+        "locale": "zh-HK",
     },
     "zh-tw-hsiaochenneural": {
-        "voice": {
-            "name": "zh-TW-HsiaoChenNeural"
-        },
+        "voice": {"name": "zh-TW-HsiaoChenNeural"},
         "id": "zh-TW-HsiaoChenNeural",
         "displayName": "HsiaoChen",
-        "locale": "zh-TW"
+        "locale": "zh-TW",
     },
     "zh-tw-hsiaoyuneural": {
-        "voice": {
-            "name": "zh-TW-HsiaoYuNeural"
-        },
+        "voice": {"name": "zh-TW-HsiaoYuNeural"},
         "id": "zh-TW-HsiaoYuNeural",
         "displayName": "HsiaoYu",
-        "locale": "zh-TW"
+        "locale": "zh-TW",
     },
     "zh-tw-yunjheneural": {
-        "voice": {
-            "name": "zh-TW-YunJheNeural"
-        },
+        "voice": {"name": "zh-TW-YunJheNeural"},
         "id": "zh-TW-YunJheNeural",
         "displayName": "YunJhe",
-        "locale": "zh-TW"
+        "locale": "zh-TW",
     },
     "zofia": {
-        "voice": {
-            "name": "pl-PL-ZofiaNeural"
-        },
+        "voice": {"name": "pl-PL-ZofiaNeural"},
         "id": "pl-PL-ZofiaNeural",
         "displayName": "Zofia",
-        "locale": "pl-PL"
+        "locale": "pl-PL",
     },
     "zu-za-thandoneural": {
-        "voice": {
-            "name": "zu-ZA-ThandoNeural"
-        },
+        "voice": {"name": "zu-ZA-ThandoNeural"},
         "id": "zu-ZA-ThandoNeural",
         "displayName": "Thando",
-        "locale": "zu-ZA"
+        "locale": "zu-ZA",
     },
     "zu-za-thembaneural": {
-        "voice": {
-            "name": "zu-ZA-ThembaNeural"
-        },
+        "voice": {"name": "zu-ZA-ThembaNeural"},
         "id": "zu-ZA-ThembaNeural",
         "displayName": "Themba",
-        "locale": "zu-ZA"
+        "locale": "zu-ZA",
     },
     "zuri": {
-        "voice": {
-            "name": "sw-KE-ZuriNeural"
-        },
+        "voice": {"name": "sw-KE-ZuriNeural"},
         "id": "sw-KE-ZuriNeural",
         "displayName": "Zuri",
-        "locale": "sw-KE"
+        "locale": "sw-KE",
     },
     "de-de-florian-dragonhdlatestneural": {
-        "voice": {
-            "name": "de-DE-Florian:DragonHDLatestNeural"
-        },
+        "voice": {"name": "de-DE-Florian:DragonHDLatestNeural"},
         "id": "de-DE-Florian-DragonHDLatestNeural",
         "displayName": "Florian HD",
         "locale": "de-DE",
-        "isHD": True
+        "isHD": True,
     },
     "de-de-seraphina-dragonhdlatestneural": {
-        "voice": {
-            "name": "de-DE-Seraphina:DragonHDLatestNeural"
-        },
+        "voice": {"name": "de-DE-Seraphina:DragonHDLatestNeural"},
         "id": "de-DE-Seraphina-DragonHDLatestNeural",
         "displayName": "Seraphina HD",
         "locale": "de-DE",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-adam-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Adam:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Adam:DragonHDLatestNeural"},
         "id": "en-US-Adam-DragonHDLatestNeural",
         "displayName": "Adam HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-alloy-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Alloy:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Alloy:DragonHDLatestNeural"},
         "id": "en-US-Alloy-DragonHDLatestNeural",
         "displayName": "Alloy HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-andrew-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Andrew:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Andrew:DragonHDLatestNeural"},
         "id": "en-US-Andrew-DragonHDLatestNeural",
         "displayName": "Andrew HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-andrew2-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Andrew2:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Andrew2:DragonHDLatestNeural"},
         "id": "en-US-Andrew2-DragonHDLatestNeural",
         "displayName": "Andrew2 HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-andrew3-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Andrew3:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Andrew3:DragonHDLatestNeural"},
         "id": "en-US-Andrew3-DragonHDLatestNeural",
         "displayName": "Andrew3 HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-aria-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Aria:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Aria:DragonHDLatestNeural"},
         "id": "en-US-Aria-DragonHDLatestNeural",
         "displayName": "Aria HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-ava-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Ava:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Ava:DragonHDLatestNeural"},
         "id": "en-US-Ava-DragonHDLatestNeural",
         "displayName": "Ava HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-ava3-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Ava3:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Ava3:DragonHDLatestNeural"},
         "id": "en-US-Ava3-DragonHDLatestNeural",
         "displayName": "Ava3 HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-brian-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Brian:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Brian:DragonHDLatestNeural"},
         "id": "en-US-Brian-DragonHDLatestNeural",
         "displayName": "Brian HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-davis-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Davis:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Davis:DragonHDLatestNeural"},
         "id": "en-US-Davis-DragonHDLatestNeural",
         "displayName": "Davis HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-emma-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Emma:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Emma:DragonHDLatestNeural"},
         "id": "en-US-Emma-DragonHDLatestNeural",
         "displayName": "Emma HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-emma2-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Emma2:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Emma2:DragonHDLatestNeural"},
         "id": "en-US-Emma2-DragonHDLatestNeural",
         "displayName": "Emma2 HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-jenny-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Jenny:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Jenny:DragonHDLatestNeural"},
         "id": "en-US-Jenny-DragonHDLatestNeural",
         "displayName": "Jenny HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-multitalker-ava-andrew-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-MultiTalker-Ava-Andrew:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-MultiTalker-Ava-Andrew:DragonHDLatestNeural"},
         "id": "en-US-MultiTalker-Ava-Andrew-DragonHDLatestNeural",
         "displayName": "MultiTalker Ava Andrew HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-nova-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Nova:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Nova:DragonHDLatestNeural"},
         "id": "en-US-Nova-DragonHDLatestNeural",
         "displayName": "Nova HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-phoebe-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Phoebe:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Phoebe:DragonHDLatestNeural"},
         "id": "en-US-Phoebe-DragonHDLatestNeural",
         "displayName": "Phoebe HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-serena-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Serena:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Serena:DragonHDLatestNeural"},
         "id": "en-US-Serena-DragonHDLatestNeural",
         "displayName": "Serena HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "en-us-steffan-dragonhdlatestneural": {
-        "voice": {
-            "name": "en-US-Steffan:DragonHDLatestNeural"
-        },
+        "voice": {"name": "en-US-Steffan:DragonHDLatestNeural"},
         "id": "en-US-Steffan-DragonHDLatestNeural",
         "displayName": "Steffan HD",
         "locale": "en-US",
-        "isHD": True
+        "isHD": True,
     },
     "es-es-tristan-dragonhdlatestneural": {
-        "voice": {
-            "name": "es-ES-Tristan:DragonHDLatestNeural"
-        },
+        "voice": {"name": "es-ES-Tristan:DragonHDLatestNeural"},
         "id": "es-ES-Tristan-DragonHDLatestNeural",
         "displayName": "Tristan HD",
         "locale": "es-ES",
-        "isHD": True
+        "isHD": True,
     },
     "es-es-ximena-dragonhdlatestneural": {
-        "voice": {
-            "name": "es-ES-Ximena:DragonHDLatestNeural"
-        },
+        "voice": {"name": "es-ES-Ximena:DragonHDLatestNeural"},
         "id": "es-ES-Ximena-DragonHDLatestNeural",
         "displayName": "Ximena HD",
         "locale": "es-ES",
-        "isHD": True
+        "isHD": True,
     },
     "fr-fr-remy-dragonhdlatestneural": {
-        "voice": {
-            "name": "fr-FR-Remy:DragonHDLatestNeural"
-        },
+        "voice": {"name": "fr-FR-Remy:DragonHDLatestNeural"},
         "id": "fr-FR-Remy-DragonHDLatestNeural",
         "displayName": "Remy HD",
         "locale": "fr-FR",
-        "isHD": True
+        "isHD": True,
     },
     "fr-fr-vivienne-dragonhdlatestneural": {
-        "voice": {
-            "name": "fr-FR-Vivienne:DragonHDLatestNeural"
-        },
+        "voice": {"name": "fr-FR-Vivienne:DragonHDLatestNeural"},
         "id": "fr-FR-Vivienne-DragonHDLatestNeural",
         "displayName": "Vivienne HD",
         "locale": "fr-FR",
-        "isHD": True
+        "isHD": True,
     },
     "ja-jp-masaru-dragonhdlatestneural": {
-        "voice": {
-            "name": "ja-JP-Masaru:DragonHDLatestNeural"
-        },
+        "voice": {"name": "ja-JP-Masaru:DragonHDLatestNeural"},
         "id": "ja-JP-Masaru-DragonHDLatestNeural",
         "displayName": "Masaru HD",
         "locale": "ja-JP",
-        "isHD": True
+        "isHD": True,
     },
     "ja-jp-nanami-dragonhdlatestneural": {
-        "voice": {
-            "name": "ja-JP-Nanami:DragonHDLatestNeural"
-        },
+        "voice": {"name": "ja-JP-Nanami:DragonHDLatestNeural"},
         "id": "ja-JP-Nanami-DragonHDLatestNeural",
         "displayName": "Nanami HD",
         "locale": "ja-JP",
-        "isHD": True
+        "isHD": True,
     },
     "zh-cn-xiaochen-dragonhdlatestneural": {
-        "voice": {
-            "name": "zh-CN-Xiaochen:DragonHDLatestNeural"
-        },
+        "voice": {"name": "zh-CN-Xiaochen:DragonHDLatestNeural"},
         "id": "zh-CN-Xiaochen-DragonHDLatestNeural",
         "displayName": "Xiaochen HD",
         "locale": "zh-CN",
-        "isHD": True
+        "isHD": True,
     },
     "zh-cn-yunfan-dragonhdlatestneural": {
-        "voice": {
-            "name": "zh-CN-Yunfan:DragonHDLatestNeural"
-        },
+        "voice": {"name": "zh-CN-Yunfan:DragonHDLatestNeural"},
         "id": "zh-CN-Yunfan-DragonHDLatestNeural",
         "displayName": "Yunfan HD",
         "locale": "zh-CN",
-        "isHD": True
-    }
+        "isHD": True,
+    },
 }
