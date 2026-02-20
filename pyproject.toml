@@ -1,0 +1,86 @@
+[tool.poetry]
+name = "speechmarkdown"
+version = "0.0.0" # version is dynamically provided by poetry-dynamic-versioning during builds
+description = "Speech Markdown library for Python."
+authors = ["Takeshi Teshima <takeshi.78.teshima@gmail.com>"]
+readme = "README.md"
+license = "Apache-2.0"
+homepage = "https://github.com/takeshi-teshima/speechmarkdown"
+repository = "https://github.com/takeshi-teshima/speechmarkdown"
+
+[tool.poetry.requires-plugins]
+poetry-dynamic-versioning = { version = ">=1.0.0,<2.0.0", extras = ["plugin"] }
+
+[tool.poetry.dependencies]
+python = ">=3.11,<4.0"
+pyparsing = "^3.3.2"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.4.1" # Tests
+mypy = "^1.17.1" # Type validation
+black = "^25.1.0" # Formatting
+isort = "^6.1.0"
+ruff = "^0.12.0"
+sphinx = "^8.2.3"
+sphinx-book-theme = "1.1.4"
+myst-parser = "^4.0.1"
+sphinx-autodoc-typehints = "^3.2.0"
+
+[tool.poetry.group.ci.dependencies]
+pytest = "^8.4.1"
+
+[tool.black]
+line-length = 88
+target-version = ["py311", "py312", "py313"]
+exclude = '''
+/(\.|venv|\.venv|\.git|\.mypy_cache|\.pytest_cache|\.tox|build|dist|\.poetry|docs/_build)/
+'''
+
+[tool.isort]
+profile = "black"
+line_length = 88
+known_first_party = ["speechmarkdown"]
+src_paths = ["speechmarkdown"]
+include_trailing_comma = true
+combine_as_imports = true
+multi_line_output = 3
+
+[tool.ruff]
+line-length = 88
+exclude = ["docs/_build", ".venv", ".git"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "TID"]
+ignore = ["E501"]
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+known-first-party = ["speechmarkdown"]
+
+[tool.mypy]
+python_version = "3.11"
+ignore_missing_imports = true
+show_error_codes = true
+strict = true
+follow_imports = "silent"
+
+[tool.pytest.ini_options]
+addopts = "--import-mode=importlib -v"
+testpaths = ["tests"]
+
+[build-system]
+requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning"]
+build-backend = "poetry_dynamic_versioning.backend"
+
+[tool.poetry-dynamic-versioning]
+# Enable the plugin to derive the package version from Git metadata (tags) at build time.
+enable = true
+vcs = "git" # Use Git for versioning
+style = "pep440" # PEP 440 compliant versioning style
+# Remove the "+..." local version part to avoid PyPI error
+format-jinja = "{%- if distance == 0 -%}{{ base }}{%- else -%}{{ base }}.post{{ distance }}{%- endif -%}"
+
+[[tool.poetry.source]]
+name = "testpypi"
+url = "https://test.pypi.org/legacy/"
+priority = "explicit"
