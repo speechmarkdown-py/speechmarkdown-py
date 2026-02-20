@@ -1,5 +1,9 @@
 # SpeechMarkdown
 
+[![PyPI version](https://img.shields.io/pypi/v/speechmarkdown.svg)](https://pypi.org/project/speechmarkdown/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/speechmarkdown)
+[![Documentation](https://img.shields.io/badge/docs-speechmarkdown-blue?label=documentation)](https://speechmarkdown-py.github.io/speechmarkdown-py/)
+
 Speech Markdown library for Python. 
 This is a Python port of the original [speechmarkdown-js](https://github.com/speechmarkdown/speechmarkdown-js).
 
