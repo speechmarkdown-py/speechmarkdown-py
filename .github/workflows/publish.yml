@@ -11,6 +11,9 @@ jobs:
   publish:
     environment: ${{ github.event_name == 'release' && 'pypi' || 'testpypi' }}
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+      contents: read
 
     steps:
     - uses: actions/checkout@v4
@@ -32,14 +35,12 @@ jobs:
         poetry install --with ci
         poetry build
 
-    - name: Publish to PyPI or TestPyPI
-      env:
-        TEST_PYPI_API_TOKEN: ${{ secrets.TEST_PYPI_API_TOKEN }}
-        PYPI_API_TOKEN: ${{ secrets.PYPI_API_TOKEN }}
-      run: |
-        source .venv/bin/activate
-        if [ "${{ github.event_name }}" == "release" ]; then
-          poetry publish --username __token__ --password $PYPI_API_TOKEN
-        else
-          poetry publish -r testpypi --username __token__ --password $TEST_PYPI_API_TOKEN
-        fi
+    - name: Publish to TestPyPI
+      if: github.event_name != 'release'
+      uses: pypa/gh-action-pypi-publish@release/v1
+      with:
+        repository-url: https://test.pypi.org/legacy/
+
+    - name: Publish to PyPI
+      if: github.event_name == 'release'
+      uses: pypa/gh-action-pypi-publish@release/v1
