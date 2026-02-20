@@ -116,7 +116,7 @@ class AmazonPollySsmlFormatter(SsmlFormatterBase):
         if ast.name == "document":
             if getattr(self.options, "includeFormatterComment", False):
                 self.add_comment(
-                    "Converted from Speech Markdown to SSML for Amazon Alexa", lines
+                    "Converted from Speech Markdown to SSML for Amazon Polly", lines
                 )
             if getattr(self.options, "includeSpeakTag", True):
                 return self.add_speak_tag(ast.children, True, False, None, lines)
