@@ -16,6 +16,4 @@ print(ssml)
 
 ```{toctree}
 :maxdepth: 2
-
-api
 ```

@@ -36,3 +36,6 @@ check:
 
 docs:
 	poetry run make -C docs html
+
+docs-serve:
+	poetry run sphinx-autobuild docs docs/_build/html
