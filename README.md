@@ -15,7 +15,7 @@ $ pip install speechmarkdown
 
 ## Usage
 
-For usage, please consult the [docs](docs/index.md).
+For usage, please consult the [docs](https://speechmarkdown-py.github.io/speechmarkdown-py/).
 
 ## Development Setup
 
